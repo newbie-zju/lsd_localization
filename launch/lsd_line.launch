@@ -1,0 +1,8 @@
+<launch>
+
+   <!--LSD_LINE -->
+
+   <!--lsd_LINE_NODE-->
+   <node pkg = "lsd_line" type = "lsd_line" name = "lsd_line" output = "screen"/>
+
+</launch>

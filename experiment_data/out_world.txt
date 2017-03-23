@@ -1,0 +1,5182 @@
+coordinate_truepath:x: 0.111032
+y: -0.0417261
+z: 0.271499
+
+coordinate_truepath:x: 0.111031
+y: -0.0417284
+z: 0.271504
+
+coordinate_truepath:x: 0.111031
+y: -0.0417284
+z: 0.271504
+
+coordinate_truepath:x: 0.111032
+y: -0.0417257
+z: 0.271512
+
+coordinate_truepath:x: 0.111031
+y: -0.0417301
+z: 0.271506
+
+coordinate_truepath:x: 0.111031
+y: -0.0417301
+z: 0.271506
+
+coordinate_truepath:x: 0.11103
+y: -0.0417304
+z: 0.2715
+
+coordinate_truepath:x: 0.11103
+y: -0.0417304
+z: 0.2715
+
+coordinate_truepath:x: 0.111031
+y: -0.0417281
+z: 0.271502
+
+coordinate_truepath:x: 0.111034
+y: -0.0417233
+z: 0.271512
+
+coordinate_truepath:x: 0.111034
+y: -0.0417233
+z: 0.271512
+
+coordinate_truepath:x: 0.111029
+y: -0.0417251
+z: 0.271506
+
+coordinate_truepath:x: 0.111029
+y: -0.0417251
+z: 0.271506
+
+coordinate_truepath:x: 0.111031
+y: -0.0417324
+z: 0.271497
+
+coordinate_truepath:x: 0.111035
+y: -0.0417285
+z: 0.27151
+
+coordinate_truepath:x: 0.111035
+y: -0.0417285
+z: 0.27151
+
+coordinate_truepath:x: 0.111031
+y: -0.0417223
+z: 0.271506
+
+coordinate_truepath:x: 0.111031
+y: -0.0417223
+z: 0.271506
+
+coordinate_truepath:x: 0.111036
+y: -0.041731
+z: 0.271504
+
+coordinate_truepath:x: 0.111033
+y: -0.0417302
+z: 0.271502
+
+coordinate_truepath:x: 0.111033
+y: -0.0417302
+z: 0.271502
+
+coordinate_truepath:x: 0.111031
+y: -0.0417247
+z: 0.271503
+
+coordinate_truepath:x: 0.111031
+y: -0.0417247
+z: 0.271503
+
+coordinate_truepath:x: 0.111036
+y: -0.041726
+z: 0.271512
+
+coordinate_truepath:x: 0.111032
+y: -0.0417238
+z: 0.271497
+
+coordinate_truepath:x: 0.111032
+y: -0.0417238
+z: 0.271497
+
+coordinate_truepath:x: 0.111032
+y: -0.0417271
+z: 0.271509
+
+coordinate_truepath:x: 0.111032
+y: -0.0417271
+z: 0.271509
+
+coordinate_truepath:x: 0.111038
+y: -0.0417265
+z: 0.271506
+
+coordinate_truepath:x: 0.111033
+y: -0.0417299
+z: 0.271503
+
+coordinate_truepath:x: 0.111033
+y: -0.0417299
+z: 0.271503
+
+coordinate_truepath:x: 0.111032
+y: -0.0417283
+z: 0.271495
+
+coordinate_truepath:x: 0.111032
+y: -0.0417283
+z: 0.271495
+
+coordinate_truepath:x: 0.111037
+y: -0.0417257
+z: 0.271507
+
+coordinate_truepath:x: 0.111035
+y: -0.0417276
+z: 0.271509
+
+coordinate_truepath:x: 0.111035
+y: -0.0417276
+z: 0.271509
+
+coordinate_truepath:x: 0.111031
+y: -0.0417261
+z: 0.271504
+
+coordinate_truepath:x: 0.111031
+y: -0.0417261
+z: 0.271504
+
+coordinate_truepath:x: 0.111033
+y: -0.0417303
+z: 0.271502
+
+coordinate_truepath:x: 0.111047
+y: -0.0417249
+z: 0.271506
+
+coordinate_truepath:x: 0.111047
+y: -0.0417249
+z: 0.271506
+
+coordinate_truepath:x: 0.111035
+y: -0.0417249
+z: 0.27151
+
+coordinate_truepath:x: 0.111035
+y: -0.0417249
+z: 0.27151
+
+coordinate_truepath:x: 0.111036
+y: -0.0417235
+z: 0.271509
+
+coordinate_truepath:x: 0.111033
+y: -0.0417256
+z: 0.271503
+
+coordinate_truepath:x: 0.111033
+y: -0.0417256
+z: 0.271503
+
+coordinate_truepath:x: 0.111032
+y: -0.0417268
+z: 0.271508
+
+coordinate_truepath:x: 0.111032
+y: -0.0417268
+z: 0.271508
+
+coordinate_truepath:x: 0.111035
+y: -0.0417269
+z: 0.271504
+
+coordinate_truepath:x: 0.111032
+y: -0.0417259
+z: 0.271499
+
+coordinate_truepath:x: 0.111032
+y: -0.0417259
+z: 0.271499
+
+coordinate_truepath:x: 0.111032
+y: -0.0417214
+z: 0.271498
+
+coordinate_truepath:x: 0.111032
+y: -0.0417214
+z: 0.271498
+
+coordinate_truepath:x: 0.111033
+y: -0.0417265
+z: 0.271499
+
+coordinate_truepath:x: 0.111032
+y: -0.0417302
+z: 0.271502
+
+coordinate_truepath:x: 0.111032
+y: -0.0417302
+z: 0.271502
+
+coordinate_truepath:x: 0.111032
+y: -0.041732
+z: 0.2715
+
+coordinate_truepath:x: 0.111032
+y: -0.041732
+z: 0.2715
+
+coordinate_truepath:x: 0.111032
+y: -0.0417229
+z: 0.271507
+
+coordinate_truepath:x: 0.111031
+y: -0.041726
+z: 0.271507
+
+coordinate_truepath:x: 0.111031
+y: -0.041726
+z: 0.271507
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11103
+y: -0.041726
+z: 0.271502
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111033
+y: -0.0417277
+z: 0.271504
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11103
+y: -0.0417268
+z: 0.27151
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111031
+y: -0.0417296
+z: 0.2715
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11103
+y: -0.0417335
+z: 0.271491
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111032
+y: -0.0417338
+z: 0.271494
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111033
+y: -0.0417276
+z: 0.271498
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111031
+y: -0.0417285
+z: 0.271495
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111028
+y: -0.0417275
+z: 0.271502
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111029
+y: -0.0417309
+z: 0.271505
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111032
+y: -0.0417326
+z: 0.271504
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11103
+y: -0.0417281
+z: 0.271504
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111026
+y: -0.0417342
+z: 0.271486
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111027
+y: -0.041729
+z: 0.271496
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111029
+y: -0.0417296
+z: 0.271497
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111029
+y: -0.0417344
+z: 0.2715
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111034
+y: -0.0417312
+z: 0.271506
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111027
+y: -0.0417274
+z: 0.271502
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111032
+y: -0.0417272
+z: 0.271499
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111026
+y: -0.0417276
+z: 0.271501
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111031
+y: -0.0417271
+z: 0.271502
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111041
+y: -0.0417186
+z: 0.271514
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111042
+y: -0.0417017
+z: 0.27152
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111064
+y: -0.0417002
+z: 0.271528
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111078
+y: -0.0416972
+z: 0.271519
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111053
+y: -0.0416917
+z: 0.271529
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111059
+y: -0.0416933
+z: 0.271523
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11106
+y: -0.0416885
+z: 0.271521
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111061
+y: -0.0416888
+z: 0.271537
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111054
+y: -0.0416964
+z: 0.271523
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111068
+y: -0.0417015
+z: 0.271514
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111056
+y: -0.0416981
+z: 0.271519
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111063
+y: -0.0416894
+z: 0.271533
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111174
+y: -0.041575
+z: 0.271578
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111184
+y: -0.0415699
+z: 0.271585
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111194
+y: -0.041554
+z: 0.271576
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111154
+y: -0.0415831
+z: 0.271588
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111201
+y: -0.0415591
+z: 0.271589
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.1112
+y: -0.0415464
+z: 0.271583
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.1112
+y: -0.0415416
+z: 0.27159
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111193
+y: -0.041562
+z: 0.271588
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111174
+y: -0.0415731
+z: 0.271592
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111215
+y: -0.0415458
+z: 0.271604
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111169
+y: -0.0415681
+z: 0.271577
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111189
+y: -0.0415518
+z: 0.271591
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111194
+y: -0.0415444
+z: 0.27159
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111187
+y: -0.0415628
+z: 0.271593
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11121
+y: -0.0415454
+z: 0.271595
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111209
+y: -0.0415423
+z: 0.271593
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111196
+y: -0.0415531
+z: 0.27159
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111213
+y: -0.0415443
+z: 0.271596
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111199
+y: -0.0415379
+z: 0.2716
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111207
+y: -0.0415309
+z: 0.271596
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11123
+y: -0.0415152
+z: 0.271603
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111213
+y: -0.0415202
+z: 0.271574
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111208
+y: -0.0415369
+z: 0.271581
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111213
+y: -0.0415406
+z: 0.271587
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111203
+y: -0.0415277
+z: 0.271599
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.1112
+y: -0.0415383
+z: 0.271591
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111189
+y: -0.0415636
+z: 0.271586
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111197
+y: -0.0415368
+z: 0.271582
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111174
+y: -0.041555
+z: 0.271573
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111209
+y: -0.0415472
+z: 0.271584
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111198
+y: -0.0415377
+z: 0.271592
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111201
+y: -0.0415254
+z: 0.271599
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111192
+y: -0.04153
+z: 0.271581
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111221
+y: -0.0415305
+z: 0.271592
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111212
+y: -0.0415401
+z: 0.271587
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111197
+y: -0.0415326
+z: 0.271585
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111229
+y: -0.0415055
+z: 0.271622
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111264
+y: -0.0414559
+z: 0.271662
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111373
+y: -0.0413152
+z: 0.271712
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111357
+y: -0.041349
+z: 0.271748
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111483
+y: -0.0412195
+z: 0.271821
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.11163
+y: -0.041041
+z: 0.271964
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.111927
+y: -0.0408561
+z: 0.272166
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.112214
+y: -0.0407861
+z: 0.27265
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.113839
+y: -0.0408631
+z: 0.277498
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.123972
+y: -0.0404304
+z: 0.31344
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.152263
+y: -0.0390304
+z: 0.406469
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.197739
+y: -0.0379594
+z: 0.535093
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.321993
+y: -0.0380428
+z: 0.828277
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.398439
+y: -0.039653
+z: 0.995964
+
+flow_path: [0.0201565, -0.00377247, 0.834]
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.465376
+y: -0.0419124
+z: 1.14468
+
+coordinate_tracker2: [0, 0, 0]
+flow_path: [0.0875756, -0.0178135, 1.156]
+coordinate_truepath:x: 0.52565
+y: -0.0441022
+z: 1.28386
+
+coordinate_tracker2: [0, 0, 0]
+coordinate_truepath:x: 0.59479
+y: -0.0469839
+z: 1.42884
+
+flow_path: [0.154404, -0.021656, 1.322]
+coordinate_tracker2: [0, 0, 0]
+coordinate_tracker2: [0, 0, 0]
+flow_path: [0.192789, -0.012238, 1.414]
+coordinate_truepath:x: 0.694811
+y: -0.0505989
+z: 1.55091
+
+coordinate_tracker1: [0.441285, 0.388322, 1.1842]
+WARNING: tranlsation vectors are empty!
+coordinate_tracker1: [0.634313, 0.347134, 1.64153]
+coordinate_tracker2: [0.634313, 0.347134, 1.64153]
+coordinate_truepath:x: 0.733425
+y: -0.051937
+z: 1.57782
+
+flow_path: [0.215591, 0.00481202, 1.483]
+coordinate_tracker1: [0.467484, 0.372189, 1.2061]
+coordinate_tracker1: [0.664121, 0.32886, 1.66027]
+coordinate_tracker2: [0.664121, 0.32886, 1.66027]
+coordinate_truepath:x: 0.787771
+y: -0.0538074
+z: 1.60792
+
+flow_path: [0.26128, 0.0224248, 1.656]
+coordinate_tracker1: [0.497081, 0.378732, 1.22615]
+coordinate_tracker1: [0.704652, 0.332271, 1.67437]
+coordinate_tracker2: [0.704652, 0.332271, 1.67437]
+coordinate_truepath:x: 0.828811
+y: -0.0552953
+z: 1.62845
+
+coordinate_tracker1: [0.537484, 0.374649, 1.23155]
+coordinate_tracker1: [0.754748, 0.319999, 1.66193]
+coordinate_tracker2: [0.754748, 0.319999, 1.66193]
+flow_path: [0.284877, 0.0418429, 1.704]
+coordinate_truepath:x: 0.859639
+y: -0.0565097
+z: 1.64465
+
+coordinate_tracker1: [0.552448, 0.379806, 1.25644]
+coordinate_tracker1: [0.770776, 0.328171, 1.68691]
+coordinate_tracker2: [0.770776, 0.328171, 1.68691]
+coordinate_truepath:x: 0.880151
+y: -0.0572328
+z: 1.6578
+
+coordinate_tracker1: [0.57866, 0.374247, 1.27232]
+coordinate_tracker1: [0.810096, 0.316514, 1.71595]
+coordinate_tracker2: [0.810096, 0.316514, 1.71595]
+flow_path: [0.297066, 0.0571721, 1.753]
+coordinate_truepath:x: 0.89513
+y: -0.057817
+z: 1.67149
+
+coordinate_tracker1: [0.823022, 0.289788, 1.74348]
+coordinate_tracker2: [0.823022, 0.289788, 1.74348]
+coordinate_truepath:x: 0.905398
+y: -0.0580716
+z: 1.68726
+
+flow_path: [0.29138, 0.0604654, 1.753]
+coordinate_tracker2: [0.823022, 0.289788, 1.74348]
+coordinate_truepath:x: 0.907873
+y: -0.0580247
+z: 1.70151
+
+coordinate_tracker2: [0.823022, 0.289788, 1.74348]
+flow_path: [0.309505, 0.0964069, 1.803]
+coordinate_truepath:x: 0.905954
+y: -0.0578224
+z: 1.71715
+
+coordinate_tracker1: [0.588422, 0.366166, 1.27242]
+coordinate_tracker1: [0.826162, 0.324279, 1.75607]
+coordinate_tracker2: [0.826162, 0.324279, 1.75607]
+coordinate_truepath:x: 0.902357
+y: -0.0575939
+z: 1.73357
+
+flow_path: [0.306423, 0.109721, 1.808]
+coordinate_tracker1: [0.603299, 0.374061, 1.31434]
+coordinate_tracker1: [0.835001, 0.32442, 1.7626]
+coordinate_tracker2: [0.835001, 0.32442, 1.7626]
+coordinate_truepath:x: 0.89836
+y: -0.0574462
+z: 1.75169
+
+coordinate_tracker2: [0.835001, 0.32442, 1.7626]
+flow_path: [0.270257, 0.102432, 1.84]
+coordinate_truepath:x: 0.89649
+y: -0.0574212
+z: 1.77044
+
+coordinate_tracker2: [0.835001, 0.32442, 1.7626]
+coordinate_truepath:x: 0.898119
+y: -0.0575586
+z: 1.78718
+
+flow_path: [0.262913, 0.0988651, 1.868]
+coordinate_tracker1: [-0.0645124, 0.366197, 1.39285]
+coordinate_tracker1: [-0.0544976, 0.362346, 1.39999]
+coordinate_tracker1: [-0.349618, 0.408272, 1.05226]
+coordinate_tracker2: [-0.349618, 0.408272, 1.05226]
+coordinate_truepath:x: 0.902993
+y: -0.0579438
+z: 1.80357
+
+coordinate_tracker1: [-0.0469256, 0.377616, 1.37013]
+coordinate_tracker1: [-0.0366062, 0.369908, 1.35399]
+coordinate_tracker1: [-0.353566, 0.425751, 1.03579]
+coordinate_tracker2: [-0.353566, 0.425751, 1.03579]
+flow_path: [0.249387, 0.0995266, 1.893]
+coordinate_truepath:x: 0.909548
+y: -0.0589583
+z: 1.81938
+
+coordinate_tracker2: [-0.353566, 0.425751, 1.03579]
+coordinate_truepath:x: 0.918828
+y: -0.0608848
+z: 1.83839
+
+flow_path: [0.257364, 0.0908776, 1.905]
+coordinate_tracker2: [-0.353566, 0.425751, 1.03579]
+coordinate_truepath:x: 0.927071
+y: -0.0627171
+z: 1.85469
+
+flow_path: [0.272559, 0.0933573, 1.923]
+coordinate_tracker1: [-0.0230048, 0.353273, 1.39718]
+coordinate_tracker1: [-0.31363, 0.381701, 1.07819]
+coordinate_tracker1: [-0.0122311, 0.356772, 1.41976]
+coordinate_tracker2: [-0.0122311, 0.356772, 1.41976]
+coordinate_truepath:x: 0.935187
+y: -0.0660822
+z: 1.87504
+
+flow_path: [0.257534, 0.0733302, 1.941]
+coordinate_tracker1: [-0.0138476, 0.347241, 1.44173]
+coordinate_tracker1: [-0.00339069, 0.352884, 1.46718]
+coordinate_tracker1: [-0.297318, 0.36975, 1.1579]
+coordinate_tracker2: [-0.297318, 0.36975, 1.1579]
+coordinate_truepath:x: 0.942481
+y: -0.0686015
+z: 1.89519
+
+coordinate_tracker1: [0.0126779, 0.368921, 1.41246]
+coordinate_tracker1: [-0.300521, 0.416004, 1.09833]
+coordinate_tracker1: [0.023029, 0.368073, 1.43577]
+coordinate_tracker2: [0.023029, 0.368073, 1.43577]
+flow_path: [0.28441, 0.0444851, 1.966]
+coordinate_truepath:x: 0.9493
+y: -0.0709576
+z: 1.91629
+
+coordinate_tracker1: [0.00479382, 0.3484, 1.4879]
+coordinate_tracker1: [-0.00464854, 0.344675, 1.46668]
+coordinate_tracker1: [-0.288888, 0.373488, 1.13692]
+coordinate_tracker2: [-0.288888, 0.373488, 1.13692]
+coordinate_truepath:x: 0.954221
+y: -0.0716625
+z: 1.93569
+
+flow_path: [0.287755, 0.0587905, 2.002]
+coordinate_tracker1: [0.00759909, 0.345366, 1.44522]
+coordinate_tracker1: [0.0165615, 0.35426, 1.48244]
+coordinate_tracker1: [-0.300955, 0.377729, 1.15088]
+coordinate_tracker2: [-0.300955, 0.377729, 1.15088]
+coordinate_truepath:x: 0.95911
+y: -0.0721518
+z: 1.95856
+
+coordinate_tracker1: [0.0192085, 0.339299, 1.47919]
+coordinate_tracker1: [0.0275215, 0.341857, 1.51257]
+coordinate_tracker1: [-0.2871, 0.369304, 1.16096]
+coordinate_tracker2: [-0.2871, 0.369304, 1.16096]
+flow_path: [0.322591, 0.0927684, 2.056]
+coordinate_truepath:x: 0.963733
+y: -0.0717505
+z: 1.9853
+
+coordinate_tracker1: [-0.266042, 0.363317, 1.18786]
+coordinate_tracker1: [0.0204779, 0.329361, 1.5141]
+coordinate_tracker1: [0.0286469, 0.33762, 1.56527]
+coordinate_tracker2: [0.0286469, 0.33762, 1.56527]
+coordinate_truepath:x: 0.966333
+y: -0.0716372
+z: 2.00449
+
+flow_path: [0.333642, 0.101371, 2.061]
+coordinate_tracker1: [0.012747, 0.346845, 1.47642]
+coordinate_tracker1: [0.0233133, 0.353294, 1.5202]
+coordinate_tracker1: [-0.282866, 0.366785, 1.14824]
+coordinate_tracker2: [-0.282866, 0.366785, 1.14824]
+coordinate_truepath:x: 0.967447
+y: -0.0725224
+z: 2.02061
+
+flow_path: [0.343058, 0.0869654, 2.095]
+coordinate_tracker2: [-0.282866, 0.366785, 1.14824]
+coordinate_truepath:x: 0.966893
+y: -0.0737005
+z: 2.02539
+
+flow_path: [0.355666, 0.0758343, 2.101]
+coordinate_tracker2: [-0.282866, 0.366785, 1.14824]
+coordinate_truepath:x: 0.964025
+y: -0.074745
+z: 2.01633
+
+flow_path: [0.36747, 0.0715989, 2.121]
+coordinate_tracker1: [0.0335593, 0.321193, 1.51896]
+coordinate_tracker1: [0.0418759, 0.325088, 1.57171]
+coordinate_tracker1: [-0.286227, 0.345467, 1.15335]
+coordinate_tracker2: [-0.286227, 0.345467, 1.15335]
+coordinate_truepath:x: 0.958329
+y: -0.0758204
+z: 1.99109
+
+flow_path: [0.384956, 0.064382, 2.122]
+coordinate_tracker1: [0.0168726, 0.322588, 1.52552]
+coordinate_tracker1: [-0.284995, 0.337323, 1.20528]
+coordinate_tracker1: [0.0231972, 0.327632, 1.58378]
+coordinate_tracker2: [0.0231972, 0.327632, 1.58378]
+coordinate_truepath:x: 0.950136
+y: -0.0759802
+z: 1.96458
+
+flow_path: [0.383738, 0.0314727, 2.112]
+coordinate_tracker1: [-0.00657907, 0.319849, 1.51436]
+coordinate_tracker1: [0.00179869, 0.32863, 1.56325]
+coordinate_tracker1: [-0.285152, 0.323445, 1.23477]
+coordinate_tracker2: [-0.285152, 0.323445, 1.23477]
+coordinate_truepath:x: 0.938292
+y: -0.0737706
+z: 1.95131
+
+flow_path: [0.371147, 0.0152705, 2.109]
+coordinate_tracker1: [-0.00656255, 0.307127, 1.49162]
+coordinate_tracker1: [-0.00050623, 0.314085, 1.57222]
+coordinate_tracker1: [-0.303177, 0.326163, 1.15075]
+coordinate_tracker2: [-0.303177, 0.326163, 1.15075]
+coordinate_truepath:x: 0.923816
+y: -0.0680313
+z: 1.95216
+
+coordinate_tracker1: [-0.0157796, 0.310333, 1.48938]
+coordinate_tracker1: [-0.0108713, 0.313847, 1.57061]
+coordinate_tracker1: [-0.324009, 0.318508, 1.14998]
+coordinate_tracker2: [-0.324009, 0.318508, 1.14998]
+flow_path: [0.361908, 0.0200199, 2.052]
+coordinate_truepath:x: 0.911077
+y: -0.0592937
+z: 1.96085
+
+coordinate_tracker1: [-0.0309704, 0.307515, 1.48294]
+coordinate_tracker1: [-0.0271668, 0.315334, 1.54055]
+coordinate_tracker1: [-0.325354, 0.31597, 1.18157]
+coordinate_tracker2: [-0.325354, 0.31597, 1.18157]
+coordinate_truepath:x: 0.90112
+y: -0.0487201
+z: 1.97232
+
+flow_path: [0.344913, 0.0363675, 2.05]
+coordinate_tracker1: [-0.0332054, 0.33281, 1.563]
+coordinate_tracker1: [-0.35129, 0.335667, 1.10784]
+coordinate_tracker1: [-0.0392727, 0.32809, 1.47595]
+coordinate_tracker2: [-0.0392727, 0.32809, 1.47595]
+coordinate_truepath:x: 0.892942
+y: -0.0335188
+z: 1.98884
+
+flow_path: [0.310708, 0.0580646, 2.054]
+coordinate_tracker1: [-0.037592, 0.33761, 1.50573]
+coordinate_tracker1: [-0.0300355, 0.346936, 1.56705]
+coordinate_tracker1: [-0.344333, 0.346366, 1.1905]
+coordinate_tracker2: [-0.344333, 0.346366, 1.1905]
+coordinate_truepath:x: 0.892093
+y: -0.0205685
+z: 2.00311
+
+flow_path: [0.286096, 0.0736546, 2.07]
+coordinate_tracker1: [-0.0442484, 0.349295, 1.52059]
+coordinate_tracker1: [-0.0325048, 0.358519, 1.60264]
+coordinate_tracker1: [-0.346588, 0.351501, 1.188]
+coordinate_tracker2: [-0.346588, 0.351501, 1.188]
+coordinate_truepath:x: 0.896649
+y: -0.00652294
+z: 2.02082
+
+flow_path: [0.271061, 0.102211, 2.079]
+coordinate_tracker1: [-0.0505967, 0.355166, 1.50764]
+coordinate_tracker1: [-0.345145, 0.361252, 1.15992]
+coordinate_tracker1: [-0.0404402, 0.364527, 1.57859]
+coordinate_tracker2: [-0.0404402, 0.364527, 1.57859]
+coordinate_truepath:x: 0.908174
+y: 0.0056478
+z: 2.03994
+
+coordinate_tracker1: [-0.03139, 0.370003, 1.49596]
+coordinate_tracker1: [-0.019805, 0.384852, 1.56554]
+coordinate_tracker1: [-0.325857, 0.358677, 1.19034]
+coordinate_tracker2: [-0.325857, 0.358677, 1.19034]
+flow_path: [0.283219, 0.123237, 2.117]
+coordinate_truepath:x: 0.923091
+y: 0.0138865
+z: 2.0567
+
+coordinate_tracker1: [-0.0127595, 0.37707, 1.55182]
+coordinate_tracker1: [-0.000239125, 0.386841, 1.63175]
+coordinate_tracker1: [-0.305373, 0.365666, 1.23754]
+coordinate_tracker2: [-0.305373, 0.365666, 1.23754]
+coordinate_truepath:x: 0.942069
+y: 0.0210238
+z: 2.07549
+
+flow_path: [0.310387, 0.115429, 2.131]
+coordinate_tracker2: [-0.305373, 0.365666, 1.23754]
+coordinate_truepath:x: 0.961804
+y: 0.026465
+z: 2.09438
+
+coordinate_tracker2: [-0.305373, 0.365666, 1.23754]
+flow_path: [0.407043, 0.131999, 2.185]
+coordinate_truepath:x: 0.980686
+y: 0.0307521
+z: 2.11269
+
+coordinate_tracker1: [0.0221787, 0.377337, 1.56097]
+coordinate_tracker1: [0.0365074, 0.391354, 1.663]
+coordinate_tracker1: [-0.280441, 0.367699, 1.20497]
+coordinate_tracker2: [-0.280441, 0.367699, 1.20497]
+coordinate_tracker1: [0.0314504, 0.384268, 1.56632]
+coordinate_tracker1: [0.0465893, 0.405528, 1.64937]
+coordinate_tracker1: [-0.250774, 0.378412, 1.27939]
+coordinate_tracker2: [-0.250774, 0.378412, 1.27939]
+coordinate_truepath:x: 1.01169
+y: 0.034632
+z: 2.14938
+
+flow_path: [0.424849, 0.188949, 2.209]
+coordinate_tracker1: [0.0523844, 0.382156, 1.59455]
+coordinate_tracker1: [0.0677537, 0.397399, 1.68371]
+coordinate_tracker1: [-0.241199, 0.370381, 1.29448]
+coordinate_tracker2: [-0.241199, 0.370381, 1.29448]
+coordinate_truepath:x: 1.02418
+y: 0.0328687
+z: 2.16806
+
+flow_path: [0.432719, 0.197434, 2.245]
+coordinate_tracker1: [0.0560084, 0.389501, 1.58692]
+coordinate_tracker1: [0.0710922, 0.408824, 1.67352]
+coordinate_tracker1: [-0.234748, 0.370216, 1.29112]
+coordinate_tracker2: [-0.234748, 0.370216, 1.29112]
+coordinate_truepath:x: 1.03598
+y: 0.0277425
+z: 2.18626
+
+coordinate_tracker1: [0.0783049, 0.383961, 1.58839]
+coordinate_tracker1: [0.0949706, 0.39927, 1.68702]
+coordinate_tracker1: [-0.240672, 0.370532, 1.25793]
+coordinate_tracker2: [-0.240672, 0.370532, 1.25793]
+flow_path: [0.460453, 0.171849, 2.266]
+coordinate_truepath:x: 1.04822
+y: 0.0193342
+z: 2.20549
+
+coordinate_tracker1: [0.0849483, 0.367174, 1.61701]
+coordinate_tracker1: [0.099001, 0.386336, 1.73259]
+coordinate_tracker1: [-0.220918, 0.358085, 1.27962]
+coordinate_tracker1: [0.0828092, 0.322617, 1.76441]
+coordinate_tracker1: [0.28841, 0.387886, 2.1499]
+coordinate_tracker1: [0.00296786, 0.271248, 1.75338]
+coordinate_tracker1: [0.166675, 0.43531, 2.11808]
+coordinate_tracker1: [0.106959, 0.38883, 2.00235]
+coordinate_tracker2: [0.106959, 0.38883, 2.00235]
+coordinate_truepath:x: 1.05973
+y: 0.0101661
+z: 2.22198
+
+coordinate_tracker2: [0.106959, 0.38883, 2.00235]
+flow_path: [0.506385, 0.197624, 2.314]
+coordinate_truepath:x: 1.0777
+y: -0.00434767
+z: 2.24403
+
+coordinate_tracker2: [0.106959, 0.38883, 2.00235]
+coordinate_truepath:x: 1.09191
+y: -0.0141183
+z: 2.25975
+
+flow_path: [0.555535, 0.18743, 2.325]
+coordinate_tracker1: [0.120638, 0.329663, 1.67515]
+coordinate_tracker1: [0.208662, 0.355946, 2.07652]
+coordinate_tracker1: [0.133374, 0.34446, 1.78496]
+coordinate_tracker1: [0.343874, 0.347988, 2.18455]
+coordinate_tracker1: [0.149253, 0.320635, 1.9772]
+coordinate_tracker1: [-0.186517, 0.324081, 1.35476]
+coordinate_tracker1: [0.116234, 0.290561, 1.7767]
+coordinate_tracker1: [-0.00408116, 0.179644, 1.68401]
+coordinate_tracker2: [-0.00408116, 0.179644, 1.68401]
+coordinate_truepath:x: 1.11189
+y: -0.0274056
+z: 2.28028
+
+flow_path: [0.564015, 0.214554, 2.341]
+coordinate_tracker1: [0.147775, 0.343914, 1.8044]
+coordinate_tracker1: [0.135218, 0.328956, 1.71084]
+coordinate_tracker1: [0.354591, 0.342122, 2.20945]
+coordinate_tracker1: [0.218101, 0.353204, 2.10241]
+coordinate_tracker1: [0.16202, 0.325621, 2.03259]
+coordinate_tracker2: [0.16202, 0.325621, 2.03259]
+coordinate_truepath:x: 1.12999
+y: -0.0387094
+z: 2.29333
+
+coordinate_tracker1: [0.157039, 0.308958, 1.71263]
+coordinate_tracker1: [0.166633, 0.323356, 1.83305]
+coordinate_tracker1: [0.37492, 0.313539, 2.21133]
+coordinate_tracker1: [0.24319, 0.328948, 2.10684]
+coordinate_tracker1: [0.191011, 0.297121, 2.0182]
+coordinate_tracker1: [-0.153604, 0.294844, 1.40518]
+coordinate_tracker1: [0.159608, 0.256993, 1.81871]
+coordinate_tracker1: [0.0290672, 0.189405, 1.78134]
+coordinate_tracker2: [0.0290672, 0.189405, 1.78134]
+flow_path: [0.616832, 0.207912, 2.386]
+coordinate_truepath:x: 1.14953
+y: -0.0507068
+z: 2.28883
+
+coordinate_tracker1: [0.17643, 0.313437, 1.84014]
+coordinate_tracker1: [0.204238, 0.279182, 1.98428]
+coordinate_tracker1: [0.164836, 0.299933, 1.71435]
+coordinate_tracker1: [0.391939, 0.309485, 2.20272]
+coordinate_tracker1: [0.260202, 0.314975, 2.08773]
+coordinate_tracker1: [-0.129378, 0.294427, 1.38584]
+coordinate_tracker1: [0.167634, 0.255292, 1.80819]
+coordinate_tracker1: [0.0520412, 0.150043, 1.71606]
+coordinate_tracker2: [0.0520412, 0.150043, 1.71606]
+coordinate_truepath:x: 1.16792
+y: -0.0649469
+z: 2.25608
+
+flow_path: [0.640721, 0.223873, 2.388]
+coordinate_tracker1: [0.180453, 0.310988, 1.81647]
+coordinate_tracker1: [0.205318, 0.281046, 1.99739]
+coordinate_tracker1: [0.171024, 0.295987, 1.6913]
+coordinate_tracker1: [0.403103, 0.299608, 2.17759]
+coordinate_tracker1: [0.256632, 0.316455, 2.08103]
+coordinate_tracker1: [-0.140859, 0.280298, 1.37231]
+coordinate_tracker1: [0.174424, 0.234331, 1.79501]
+coordinate_tracker1: [0.0517943, 0.197467, 1.80616]
+coordinate_tracker2: [0.0517943, 0.197467, 1.80616]
+coordinate_tracker1: [0.178757, 0.285418, 1.81221]
+coordinate_tracker1: [0.171489, 0.274758, 1.68404]
+coordinate_tracker1: [0.393513, 0.292164, 2.12537]
+coordinate_tracker1: [0.257593, 0.275301, 1.98562]
+coordinate_tracker1: [0.204941, 0.246001, 1.90621]
+coordinate_tracker2: [0.204941, 0.246001, 1.90621]
+coordinate_truepath:x: 1.207
+y: -0.0966601
+z: 2.09891
+
+flow_path: [0.72126, 0.15164, 2.333]
+coordinate_tracker1: [0.154438, 0.283954, 1.55298]
+coordinate_tracker1: [0.248138, 0.319216, 1.98035]
+coordinate_tracker1: [0.16323, 0.303309, 1.67791]
+coordinate_tracker1: [0.396803, 0.281289, 2.0296]
+coordinate_tracker1: [0.190416, 0.285279, 1.89565]
+coordinate_tracker1: [-0.132133, 0.282631, 1.21295]
+coordinate_tracker1: [0.157259, 0.207895, 1.66188]
+coordinate_tracker1: [0.0691817, 0.131486, 1.59461]
+coordinate_tracker2: [0.0691817, 0.131486, 1.59461]
+flow_path: [0.737597, 0.156982, 2.282]
+coordinate_tracker1: [0.167588, 0.246988, 1.56703]
+coordinate_tracker1: [0.254978, 0.236924, 1.81633]
+coordinate_tracker1: [0.176196, 0.249648, 1.73621]
+coordinate_tracker1: [0.370974, 0.281773, 1.96054]
+coordinate_tracker1: [0.192017, 0.205936, 1.7104]
+coordinate_tracker2: [0.192017, 0.205936, 1.7104]
+coordinate_truepath:x: 1.24944
+y: -0.134471
+z: 1.94151
+
+coordinate_tracker1: [0.275336, 0.260931, 1.81219]
+coordinate_tracker1: [0.214837, 0.240813, 1.73212]
+coordinate_tracker1: [0.176549, 0.247044, 1.45233]
+coordinate_tracker1: [0.304178, 0.140041, 2.09599]
+coordinate_tracker1: [0.390112, 0.238691, 1.8694]
+coordinate_tracker2: [0.390112, 0.238691, 1.8694]
+flow_path: [0.79, 0.121586, 2.107]
+coordinate_truepath:x: 1.27355
+y: -0.154924
+z: 1.87935
+
+coordinate_tracker1: [0.298424, 0.127971, 2.07402]
+coordinate_tracker1: [0.168997, 0.239427, 1.42902]
+coordinate_tracker1: [0.376853, 0.243296, 1.81945]
+coordinate_tracker1: [0.26699, 0.251672, 1.75876]
+coordinate_tracker1: [0.203207, 0.229569, 1.67427]
+coordinate_tracker2: [0.203207, 0.229569, 1.67427]
+coordinate_truepath:x: 1.29887
+y: -0.171424
+z: 1.82592
+
+flow_path: [0.806813, 0.135041, 2.019]
+coordinate_tracker2: [0.203207, 0.229569, 1.67427]
+coordinate_truepath:x: 1.32747
+y: -0.184585
+z: 1.77393
+
+flow_path: [0.835987, 0.142765, 1.965]
+coordinate_tracker2: [0.203207, 0.229569, 1.67427]
+coordinate_truepath:x: 1.3577
+y: -0.192447
+z: 1.72465
+
+flow_path: [0.864159, 0.131781, 1.908]
+coordinate_tracker1: [0.198007, 0.201602, 1.33505]
+coordinate_tracker1: [0.203345, 0.1877, 1.50793]
+coordinate_tracker2: [0.203345, 0.1877, 1.50793]
+coordinate_tracker1: [0.197507, 0.207657, 1.23793]
+coordinate_tracker1: [0.355472, 0.0759341, 1.88069]
+coordinate_tracker2: [0.355472, 0.0759341, 1.88069]
+coordinate_truepath:x: 1.42959
+y: -0.192572
+z: 1.62178
+
+flow_path: [0.911878, 0.154013, 1.804]
+coordinate_tracker2: [0.355472, 0.0759341, 1.88069]
+coordinate_truepath:x: 1.47037
+y: -0.188112
+z: 1.56837
+
+flow_path: [0.961217, 0.15683, 1.743]
+coordinate_tracker2: [0.355472, 0.0759341, 1.88069]
+coordinate_truepath:x: 1.50762
+y: -0.183253
+z: 1.52321
+
+flow_path: [0.991937, 0.174659, 1.702]
+coordinate_tracker1: [0.433103, 0.115664, 1.70041]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.55442
+y: -0.178536
+z: 1.47845
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.06169, 0.167647, 1.6]
+coordinate_truepath:x: 1.60173
+y: -0.17544
+z: 1.44645
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.63972
+y: -0.173907
+z: 1.42706
+
+flow_path: [1.10082, 0.174161, 1.547]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.68701
+y: -0.173663
+z: 1.408
+
+flow_path: [1.14811, 0.188829, 1.537]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.1959, 0.176777, 1.505]
+coordinate_truepath:x: 1.72403
+y: -0.174264
+z: 1.39552
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.76994
+y: -0.173454
+z: 1.38239
+
+flow_path: [1.21571, 0.180186, 1.497]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.80189
+y: -0.171369
+z: 1.37506
+
+flow_path: [1.25767, 0.179106, 1.484]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.83729
+y: -0.165381
+z: 1.36809
+
+flow_path: [1.28954, 0.19831, 1.472]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.85563
+y: -0.160531
+z: 1.36485
+
+flow_path: [1.30482, 0.202303, 1.469]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.8585
+y: -0.159594
+z: 1.36441
+
+flow_path: [1.30807, 0.20272, 1.461]
+coordinate_truepath:x: 1.85991
+y: -0.159202
+z: 1.3642
+
+coordinate_truepath:x: 1.86401
+y: -0.157789
+z: 1.36356
+
+flow_path: [1.31044, 0.202973, 1.461]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.32364, 0.214808, 1.46]
+coordinate_truepath:x: 1.88178
+y: -0.150586
+z: 1.36176
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.88298
+y: -0.150067
+z: 1.36171
+
+coordinate_truepath:x: 1.89088
+y: -0.146336
+z: 1.36167
+
+flow_path: [1.33227, 0.220294, 1.46]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.8951
+y: -0.144212
+z: 1.36193
+
+flow_path: [1.33491, 0.221593, 1.46]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.90105
+y: -0.141093
+z: 1.36269
+
+flow_path: [1.33741, 0.222053, 1.457]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.34888, 0.211899, 1.454]
+coordinate_truepath:x: 1.92013
+y: -0.130302
+z: 1.36865
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.9271
+y: -0.125966
+z: 1.37208
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.33805, 0.201241, 1.457]
+coordinate_truepath:x: 1.93513
+y: -0.120794
+z: 1.37693
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.93925
+y: -0.117886
+z: 1.3798
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.34085, 0.197884, 1.459]
+coordinate_truepath:x: 1.942
+y: -0.115909
+z: 1.38181
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.34843, 0.187405, 1.469]
+coordinate_truepath:x: 1.95028
+y: -0.110133
+z: 1.38833
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.96052
+y: -0.102417
+z: 1.39684
+
+flow_path: [1.35328, 0.197669, 1.469]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.96581
+y: -0.0978693
+z: 1.40143
+
+flow_path: [1.3544, 0.195996, 1.469]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.9759
+y: -0.0883883
+z: 1.41089
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+flow_path: [1.38042, 0.206028, 1.489]
+coordinate_truepath:x: 1.98315
+y: -0.0803432
+z: 1.41816
+
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 1.9938
+y: -0.0649454
+z: 1.4311
+
+flow_path: [1.379, 0.216404, 1.501]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 2.00077
+y: -0.052116
+z: 1.44208
+
+flow_path: [1.3825, 0.221147, 1.513]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 2.00554
+y: -0.0411291
+z: 1.45157
+
+flow_path: [1.38592, 0.230172, 1.521]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 2.00795
+y: -0.0341578
+z: 1.4576
+
+flow_path: [1.38852, 0.23428, 1.528]
+coordinate_tracker2: [0.433103, 0.115664, 1.70041]
+coordinate_truepath:x: 2.0106
+y: -0.0238509
+z: 1.46674
+
+flow_path: [1.38462, 0.247854, 1.546]
+coordinate_tracker1: [-0.107023, 0.313027, 1.03591]
+coordinate_tracker2: [-0.107023, 0.313027, 1.03591]
+coordinate_truepath:x: 2.01233
+y: -0.0138424
+z: 1.47585
+
+flow_path: [1.3932, 0.249852, 1.549]
+coordinate_tracker2: [-0.107023, 0.313027, 1.03591]
+coordinate_truepath:x: 2.01262
+y: 0.00236581
+z: 1.49066
+
+flow_path: [1.38268, 0.246934, 1.557]
+coordinate_tracker2: [-0.107023, 0.313027, 1.03591]
+flow_path: [1.38307, 0.24358, 1.563]
+coordinate_truepath:x: 2.01228
+y: 0.00623033
+z: 1.49425
+
+coordinate_tracker1: [-0.10825, 0.332414, 1.03902]
+coordinate_tracker2: [-0.10825, 0.332414, 1.03902]
+flow_path: [1.37855, 0.256417, 1.573]
+coordinate_truepath:x: 2.01075
+y: 0.0149225
+z: 1.50229
+
+coordinate_tracker1: [-0.115905, 0.332836, 1.07043]
+coordinate_tracker2: [-0.115905, 0.332836, 1.07043]
+flow_path: [1.3711, 0.254353, 1.582]
+coordinate_truepath:x: 2.00757
+y: 0.0248802
+z: 1.51168
+
+coordinate_tracker1: [-0.120105, 0.326946, 1.08725]
+coordinate_tracker2: [-0.120105, 0.326946, 1.08725]
+coordinate_truepath:x: 2.00028
+y: 0.0392765
+z: 1.52567
+
+flow_path: [1.36154, 0.272783, 1.597]
+coordinate_tracker1: [-0.116029, 0.344202, 1.07923]
+coordinate_tracker2: [-0.116029, 0.344202, 1.07923]
+coordinate_truepath:x: 1.99674
+y: 0.0449737
+z: 1.53111
+
+flow_path: [1.36093, 0.279944, 1.597]
+coordinate_tracker1: [-0.118852, 0.336125, 1.06566]
+coordinate_tracker2: [-0.118852, 0.336125, 1.06566]
+coordinate_truepath:x: 1.99052
+y: 0.0532859
+z: 1.5388
+
+flow_path: [1.36326, 0.274863, 1.603]
+coordinate_tracker1: [-0.131537, 0.351948, 1.07121]
+coordinate_tracker2: [-0.131537, 0.351948, 1.07121]
+coordinate_truepath:x: 1.98493
+y: 0.058946
+z: 1.54416
+
+flow_path: [1.35509, 0.276074, 1.611]
+coordinate_tracker1: [-0.124956, 0.368563, 1.07163]
+coordinate_tracker2: [-0.124956, 0.368563, 1.07163]
+flow_path: [1.34656, 0.285376, 1.63]
+coordinate_truepath:x: 1.97688
+y: 0.0662028
+z: 1.55098
+
+coordinate_tracker1: [-0.134504, 0.369762, 1.07611]
+coordinate_tracker2: [-0.134504, 0.369762, 1.07611]
+coordinate_truepath:x: 1.95732
+y: 0.0794816
+z: 1.56656
+
+flow_path: [1.3473, 0.299015, 1.642]
+coordinate_tracker1: [-0.157784, 0.363376, 1.0875]
+coordinate_tracker2: [-0.157784, 0.363376, 1.0875]
+coordinate_truepath:x: 1.93813
+y: 0.0877648
+z: 1.58095
+
+flow_path: [1.34066, 0.290733, 1.65]
+coordinate_tracker2: [-0.157784, 0.363376, 1.0875]
+flow_path: [1.33877, 0.289207, 1.653]
+coordinate_truepath:x: 1.93401
+y: 0.089002
+z: 1.58394
+
+coordinate_tracker2: [-0.157784, 0.363376, 1.0875]
+flow_path: [1.33535, 0.2813, 1.665]
+coordinate_truepath:x: 1.91744
+y: 0.0937992
+z: 1.59606
+
+coordinate_tracker1: [-0.178953, 0.338914, 1.0979]
+coordinate_tracker2: [-0.178953, 0.338914, 1.0979]
+coordinate_truepath:x: 1.90996
+y: 0.0961161
+z: 1.60113
+
+flow_path: [1.33474, 0.274982, 1.669]
+coordinate_tracker2: [-0.178953, 0.338914, 1.0979]
+flow_path: [1.33532, 0.25599, 1.688]
+coordinate_truepath:x: 1.89407
+y: 0.102555
+z: 1.61102
+
+coordinate_tracker2: [-0.178953, 0.338914, 1.0979]
+flow_path: [1.32676, 0.265613, 1.705]
+coordinate_truepath:x: 1.8743
+y: 0.118371
+z: 1.62287
+
+coordinate_tracker1: [-0.198881, 0.356791, 1.13836]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.85317
+y: 0.156287
+z: 1.63775
+
+flow_path: [1.31422, 0.283216, 1.716]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.84
+y: 0.201074
+z: 1.64859
+
+flow_path: [1.30405, 0.308296, 1.716]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.83198
+y: 0.239881
+z: 1.65573
+
+flow_path: [1.28181, 0.334193, 1.73]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.82804
+y: 0.265341
+z: 1.65991
+
+flow_path: [1.26964, 0.352718, 1.735]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.82417
+y: 0.300687
+z: 1.66571
+
+flow_path: [1.25675, 0.377156, 1.736]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.82064
+y: 0.348812
+z: 1.67461
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.2227, 0.416128, 1.752]
+coordinate_truepath:x: 1.81966
+y: 0.373191
+z: 1.67969
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.21889, 0.446707, 1.757]
+coordinate_truepath:x: 1.81973
+y: 0.412758
+z: 1.6885
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.21799, 0.452957, 1.757]
+coordinate_truepath:x: 1.81996
+y: 0.421784
+z: 1.6906
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.20505, 0.47777, 1.764]
+coordinate_truepath:x: 1.82194
+y: 0.460736
+z: 1.69959
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.21926, 0.522855, 1.779]
+coordinate_truepath:x: 1.82923
+y: 0.528108
+z: 1.71429
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.23418, 0.62309, 1.798]
+coordinate_truepath:x: 1.84279
+y: 0.608225
+z: 1.72888
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.21558, 0.686093, 1.812]
+coordinate_truepath:x: 1.85851
+y: 0.682476
+z: 1.74149
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.2181, 0.758136, 1.817]
+coordinate_truepath:x: 1.87063
+y: 0.734598
+z: 1.75066
+
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.88756
+y: 0.781943
+z: 1.75884
+
+flow_path: [1.22704, 0.834934, 1.824]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+coordinate_truepath:x: 1.90788
+y: 0.806109
+z: 1.7652
+
+flow_path: [1.22277, 0.86264, 1.837]
+coordinate_tracker2: [-0.198881, 0.356791, 1.13836]
+flow_path: [1.21894, 0.892481, 1.842]
+coordinate_truepath:x: 1.92667
+y: 0.809374
+z: 1.7712
+
+coordinate_tracker1: [-0.0957508, 0.192631, 1.42033]
+coordinate_tracker1: [-0.0671169, 0.166431, 1.0856]
+coordinate_tracker2: [-0.0671169, 0.166431, 1.0856]
+coordinate_truepath:x: 1.94329
+y: 0.805308
+z: 1.77715
+
+flow_path: [1.23151, 0.883767, 1.843]
+coordinate_tracker2: [-0.0671169, 0.166431, 1.0856]
+coordinate_tracker2: [-0.0671169, 0.166431, 1.0856]
+flow_path: [1.24579, 0.880092, 1.851]
+coordinate_truepath:x: 1.97049
+y: 0.797136
+z: 1.78648
+
+coordinate_tracker2: [-0.0671169, 0.166431, 1.0856]
+coordinate_truepath:x: 1.99543
+y: 0.79659
+z: 1.79413
+
+flow_path: [1.27936, 0.8494, 1.857]
+coordinate_tracker2: [-0.0671169, 0.166431, 1.0856]
+coordinate_truepath:x: 2.01661
+y: 0.806296
+z: 1.80033
+
+flow_path: [1.29509, 0.837278, 1.863]
+coordinate_tracker2: [-0.0671169, 0.166431, 1.0856]
+coordinate_truepath:x: 2.04996
+y: 0.845345
+z: 1.81075
+
+flow_path: [1.32241, 0.869652, 1.863]
+coordinate_tracker1: [0.030108, 0.249582, 1.36339]
+coordinate_tracker1: [0.0270441, 0.24831, 1.40112]
+coordinate_tracker1: [-0.254889, 0.286579, 1.04693]
+coordinate_tracker2: [-0.254889, 0.286579, 1.04693]
+coordinate_truepath:x: 2.06519
+y: 0.873554
+z: 1.81511
+
+flow_path: [1.32808, 0.887872, 1.871]
+coordinate_tracker1: [-0.0510559, 0.429907, 0.708125]
+coordinate_tracker1: [0.0556025, 0.283739, 1.37474]
+coordinate_tracker1: [0.0571298, 0.281013, 1.41151]
+coordinate_tracker1: [-0.742544, 0.464466, 0.34528]
+coordinate_tracker2: [-0.742544, 0.464466, 0.34528]
+flow_path: [1.33393, 0.941504, 1.887]
+coordinate_truepath:x: 2.09074
+y: 0.943264
+z: 1.82043
+
+coordinate_tracker1: [0.0632919, 0.337871, 1.38423]
+coordinate_tracker1: [0.0555614, 0.334355, 1.3469]
+coordinate_tracker1: [-0.211211, 0.363775, 1.03733]
+coordinate_tracker2: [-0.211211, 0.363775, 1.03733]
+coordinate_truepath:x: 2.11643
+y: 1.04456
+z: 1.82147
+
+coordinate_tracker1: [0.10324, 0.448597, 1.35149]
+coordinate_tracker1: [0.0791178, 0.451866, 1.35213]
+coordinate_tracker2: [0.0791178, 0.451866, 1.35213]
+flow_path: [1.297, 1.05833, 1.888]
+coordinate_truepath:x: 2.13724
+y: 1.14367
+z: 1.81921
+
+coordinate_tracker1: [0.0799594, 0.540871, 1.28435]
+coordinate_tracker1: [0.117186, 0.541598, 1.29214]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+flow_path: [1.29992, 1.1083, 1.885]
+coordinate_truepath:x: 2.15923
+y: 1.23624
+z: 1.81619
+
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.17635
+y: 1.30264
+z: 1.81199
+
+flow_path: [1.31079, 1.17375, 1.882]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.19138
+y: 1.36405
+z: 1.80698
+
+flow_path: [1.33966, 1.23182, 1.879]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.19798
+y: 1.40344
+z: 1.80797
+
+flow_path: [1.36601, 1.24586, 1.892]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.19872
+y: 1.42636
+z: 1.81529
+
+flow_path: [1.36549, 1.28116, 1.892]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.19551
+y: 1.44
+z: 1.82806
+
+flow_path: [1.4161, 1.30026, 1.867]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+flow_path: [1.4347, 1.32826, 1.87]
+coordinate_truepath:x: 2.18794
+y: 1.44509
+z: 1.83827
+
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.17601
+y: 1.44662
+z: 1.8444
+
+flow_path: [1.39469, 1.36411, 1.882]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.15954
+y: 1.4475
+z: 1.84799
+
+flow_path: [1.37008, 1.37171, 1.905]
+coordinate_tracker2: [0.117186, 0.541598, 1.29214]
+coordinate_truepath:x: 2.13395
+y: 1.44953
+z: 1.85268
+
+coordinate_tracker1: [0.133884, 0.815431, 1.37071]
+coordinate_tracker1: [0.0717044, 0.807304, 1.34344]
+coordinate_tracker2: [0.0717044, 0.807304, 1.34344]
+flow_path: [1.33625, 1.32922, 1.912]
+coordinate_truepath:x: 2.09983
+y: 1.45654
+z: 1.86363
+
+coordinate_tracker1: [0.0861239, 0.819894, 1.40107]
+coordinate_tracker1: [0.0262004, 0.805816, 1.37983]
+coordinate_tracker2: [0.0262004, 0.805816, 1.37983]
+coordinate_truepath:x: 2.04765
+y: 1.47913
+z: 1.88641
+
+flow_path: [1.28943, 1.30913, 1.934]
+coordinate_tracker1: [-0.00541532, 0.811413, 1.37514]
+coordinate_tracker1: [0.0540628, 0.823854, 1.401]
+coordinate_tracker1: [-0.262781, 0.693197, 1.03184]
+coordinate_tracker2: [-0.262781, 0.693197, 1.03184]
+coordinate_truepath:x: 1.98883
+y: 1.5136
+z: 1.91112
+
+flow_path: [1.19133, 1.34184, 1.955]
+coordinate_tracker2: [-0.262781, 0.693197, 1.03184]
+coordinate_truepath:x: 1.92283
+y: 1.55453
+z: 1.93576
+
+flow_path: [1.13544, 1.37158, 1.977]
+coordinate_tracker2: [-0.262781, 0.693197, 1.03184]
+coordinate_truepath:x: 1.8837
+y: 1.57841
+z: 1.9476
+
+flow_path: [1.10964, 1.38847, 1.982]
+coordinate_tracker1: [-0.0203018, -0.0844719, 1.4828]
+coordinate_tracker1: [-0.0534255, -0.0699392, 1.68667]
+coordinate_tracker1: [-0.018458, -0.0390518, 1.56642]
+coordinate_tracker1: [0.118354, -0.0541736, 1.80687]
+coordinate_tracker1: [0.00709095, -0.0772722, 1.59802]
+coordinate_tracker1: [-0.288342, 0.043628, 1.20712]
+coordinate_tracker1: [-0.0580181, -0.0358717, 1.44359]
+coordinate_tracker1: [-0.23315, -0.192173, 1.22486]
+coordinate_tracker2: [-0.23315, -0.192173, 1.22486]
+coordinate_truepath:x: 1.81043
+y: 1.62179
+z: 1.96456
+
+flow_path: [1.08465, 1.39826, 2.009]
+coordinate_tracker1: [-0.0615683, 0.008419, 1.54824]
+coordinate_tracker1: [-0.0939631, -0.00378741, 1.61376]
+coordinate_tracker1: [0.0696862, -0.0311238, 1.83099]
+coordinate_tracker1: [-0.0451749, -0.026438, 1.65854]
+coordinate_tracker1: [-0.072997, -0.0352282, 1.55924]
+coordinate_tracker1: [-0.323274, 0.0931506, 1.16064]
+coordinate_tracker1: [-0.101518, -0.0297319, 1.4553]
+coordinate_tracker1: [-0.268595, -0.158458, 1.26756]
+coordinate_tracker2: [-0.268595, -0.158458, 1.26756]
+coordinate_truepath:x: 1.7431
+y: 1.65747
+z: 1.97796
+
+flow_path: [1.01921, 1.39824, 2.029]
+coordinate_tracker1: [-0.110019, 0.0416637, 1.53264]
+coordinate_tracker1: [-0.0909673, 0.0131948, 1.73499]
+coordinate_tracker1: [-0.143908, 0.0301187, 1.61828]
+coordinate_tracker1: [-0.283155, -0.0134419, 1.83662]
+coordinate_tracker1: [-0.114804, -0.00954307, 1.5803]
+coordinate_tracker1: [-0.389791, 0.115526, 1.14552]
+coordinate_tracker1: [-0.148159, 0.000283442, 1.48891]
+coordinate_tracker1: [-0.292043, -0.112018, 1.36437]
+coordinate_tracker2: [-0.292043, -0.112018, 1.36437]
+coordinate_truepath:x: 1.68682
+y: 1.6835
+z: 1.99125
+
+coordinate_tracker2: [-0.292043, -0.112018, 1.36437]
+flow_path: [0.92653, 1.40445, 2.046]
+coordinate_truepath:x: 1.63499
+y: 1.7052
+z: 2.00395
+
+coordinate_tracker2: [-0.292043, -0.112018, 1.36437]
+flow_path: [0.886007, 1.4063, 2.092]
+coordinate_truepath:x: 1.57358
+y: 1.72991
+z: 2.02025
+
+coordinate_tracker1: [0.442499, 0.17694, 1.51524]
+coordinate_tracker1: [0.521603, 0.146852, 1.7188]
+coordinate_tracker1: [0.62173, 0.0674364, 2.08728]
+coordinate_tracker1: [0.679592, 0.140808, 1.84168]
+coordinate_tracker1: [0.64506, 0.327486, 2.24374]
+coordinate_tracker2: [0.64506, 0.327486, 2.24374]
+coordinate_truepath:x: 1.51069
+y: 1.75548
+z: 2.03785
+
+flow_path: [0.829446, 1.42027, 2.085]
+coordinate_tracker2: [0.64506, 0.327486, 2.24374]
+flow_path: [0.774611, 1.41817, 2.085]
+coordinate_truepath:x: 1.45715
+y: 1.77684
+z: 2.05582
+
+coordinate_tracker2: [0.64506, 0.327486, 2.24374]
+coordinate_truepath:x: 1.41132
+y: 1.7956
+z: 2.07405
+
+flow_path: [0.741091, 1.43936, 2.106]
+coordinate_tracker1: [0.324105, 0.227098, 1.52552]
+coordinate_tracker1: [0.424904, 0.218004, 1.8296]
+coordinate_tracker1: [0.335193, 0.224154, 1.6529]
+coordinate_tracker1: [0.554769, 0.197093, 1.91395]
+coordinate_tracker1: [0.388148, 0.220683, 1.85333]
+coordinate_tracker2: [0.388148, 0.220683, 1.85333]
+coordinate_truepath:x: 1.37314
+y: 1.80901
+z: 2.09162
+
+flow_path: [0.710166, 1.46319, 2.122]
+coordinate_tracker1: [0.445603, 0.116482, 2.20704]
+coordinate_tracker1: [0.291055, 0.224937, 1.57031]
+coordinate_tracker2: [0.291055, 0.224937, 1.57031]
+coordinate_truepath:x: 1.34079
+y: 1.81575
+z: 2.10706
+
+flow_path: [0.690629, 1.48613, 2.122]
+coordinate_tracker1: [0.289183, 0.242271, 1.71474]
+coordinate_tracker1: [0.275292, 0.235268, 1.56633]
+coordinate_tracker1: [0.514105, 0.211462, 1.98236]
+coordinate_tracker1: [0.379272, 0.243106, 1.92336]
+coordinate_tracker1: [0.329124, 0.221708, 1.8807]
+coordinate_tracker2: [0.329124, 0.221708, 1.8807]
+flow_path: [0.654724, 1.48816, 2.145]
+coordinate_truepath:x: 1.31175
+y: 1.81651
+z: 2.12045
+
+coordinate_tracker1: [0.257103, 0.227173, 1.59834]
+coordinate_tracker1: [0.353095, 0.223532, 1.89283]
+coordinate_tracker1: [0.399539, 0.128786, 2.23251]
+coordinate_tracker1: [0.489267, 0.222124, 1.99848]
+coordinate_tracker1: [0.303886, 0.205423, 1.84139]
+coordinate_tracker2: [0.303886, 0.205423, 1.84139]
+coordinate_truepath:x: 1.28218
+y: 1.81109
+z: 2.13353
+
+flow_path: [0.628715, 1.49631, 2.187]
+coordinate_tracker1: [0.240311, 0.233671, 1.56741]
+coordinate_tracker1: [0.377924, 0.131755, 2.22784]
+coordinate_tracker1: [0.470629, 0.194289, 2.02116]
+coordinate_tracker1: [0.345229, 0.2466, 1.97933]
+coordinate_tracker1: [0.300008, 0.230676, 1.91894]
+coordinate_tracker2: [0.300008, 0.230676, 1.91894]
+flow_path: [0.589778, 1.46631, 2.187]
+coordinate_truepath:x: 1.24765
+y: 1.79966
+z: 2.14583
+
+coordinate_tracker1: [0.227603, 0.216426, 1.58867]
+coordinate_tracker1: [0.238246, 0.221136, 1.76145]
+coordinate_tracker1: [0.455581, 0.188211, 2.02017]
+coordinate_tracker1: [0.327973, 0.228687, 1.98025]
+coordinate_tracker1: [0.276202, 0.192534, 1.879]
+coordinate_tracker2: [0.276202, 0.192534, 1.879]
+coordinate_truepath:x: 1.20966
+y: 1.78544
+z: 2.15762
+
+flow_path: [0.538332, 1.44108, 2.211]
+coordinate_tracker1: [0.288963, 0.17798, 1.9204]
+coordinate_tracker1: [0.205287, 0.189224, 1.62186]
+coordinate_tracker1: [0.208584, 0.191899, 1.77895]
+coordinate_tracker1: [0.437925, 0.17418, 2.03652]
+coordinate_tracker1: [0.241633, 0.148829, 1.83632]
+coordinate_tracker1: [-0.114421, 0.17895, 1.29895]
+coordinate_tracker1: [0.203882, 0.112323, 1.67388]
+coordinate_tracker1: [0.0603793, 0.0782865, 1.70575]
+coordinate_tracker2: [0.0603793, 0.0782865, 1.70575]
+coordinate_truepath:x: 1.16309
+y: 1.76964
+z: 2.168
+
+flow_path: [0.532976, 1.43877, 2.22]
+coordinate_tracker1: [0.19928, 0.168345, 1.63877]
+coordinate_tracker1: [0.270172, 0.149201, 1.93237]
+coordinate_tracker1: [-0.128379, 0.162488, 1.31048]
+coordinate_tracker1: [0.190672, 0.0837968, 1.6837]
+coordinate_tracker1: [0.0423459, 0.0338025, 1.67675]
+coordinate_tracker1: [0.205038, 0.175224, 1.80773]
+coordinate_tracker1: [0.426929, 0.148847, 2.06148]
+coordinate_tracker1: [0.215768, 0.123595, 1.81435]
+coordinate_tracker2: [0.215768, 0.123595, 1.81435]
+coordinate_tracker1: [0.156094, 0.152383, 1.63599]
+coordinate_tracker1: [0.230694, 0.130626, 1.96621]
+coordinate_tracker1: [0.154408, 0.153673, 1.79431]
+coordinate_tracker1: [0.368562, 0.11154, 2.0854]
+coordinate_tracker1: [0.18149, 0.108839, 1.83281]
+coordinate_tracker1: [-0.176507, 0.142004, 1.29669]
+coordinate_tracker1: [0.1503, 0.0511251, 1.69096]
+coordinate_tracker1: [-0.013393, 0.009877, 1.71316]
+coordinate_tracker2: [-0.013393, 0.009877, 1.71316]
+flow_path: [0.464783, 1.39877, 2.241]
+coordinate_truepath:x: 1.04189
+y: 1.74199
+z: 2.17664
+
+coordinate_tracker1: [0.116391, 0.123543, 1.66492]
+coordinate_tracker1: [0.10987, 0.117971, 1.83649]
+coordinate_tracker1: [0.325948, 0.0985606, 2.07393]
+coordinate_tracker1: [0.175662, 0.101356, 1.94226]
+coordinate_tracker1: [0.134133, 0.0681267, 1.80588]
+coordinate_tracker1: [-0.179054, 0.1589, 1.29028]
+coordinate_tracker1: [0.0997008, 0.0741636, 1.69788]
+coordinate_tracker1: [0.00224098, -0.0118924, 1.62912]
+coordinate_tracker2: [0.00224098, -0.0118924, 1.62912]
+coordinate_truepath:x: 0.958571
+y: 1.72957
+z: 2.17478
+
+flow_path: [0.411869, 1.3775, 2.266]
+coordinate_tracker1: [0.0597262, 0.135907, 1.61347]
+coordinate_tracker1: [0.046982, 0.133646, 1.75338]
+coordinate_tracker1: [-0.237945, 0.159841, 1.26161]
+coordinate_tracker1: [0.0456778, 0.0612832, 1.68848]
+coordinate_tracker1: [0.253928, 0.0775684, 2.07618]
+coordinate_tracker1: [-0.0638642, -0.0187129, 1.62537]
+coordinate_tracker1: [0.122114, 0.122797, 1.99706]
+coordinate_tracker1: [0.0832239, 0.0942009, 1.84827]
+coordinate_tracker2: [0.0832239, 0.0942009, 1.84827]
+flow_path: [0.324679, 1.35507, 2.249]
+coordinate_truepath:x: 0.873236
+y: 1.72036
+z: 2.17156
+
+coordinate_tracker2: [0.0832239, 0.0942009, 1.84827]
+coordinate_truepath:x: 0.773403
+y: 1.71127
+z: 2.16718
+
+flow_path: [0.24848, 1.33384, 2.243]
+coordinate_tracker2: [0.0832239, 0.0942009, 1.84827]
+coordinate_truepath:x: 0.692581
+y: 1.70574
+z: 2.16338
+
+flow_path: [0.179781, 1.3206, 2.228]
+coordinate_tracker2: [0.0832239, 0.0942009, 1.84827]
+coordinate_truepath:x: 0.590047
+y: 1.70071
+z: 2.15846
+
+flow_path: [0.111183, 1.2917, 2.223]
+coordinate_tracker2: [0.0832239, 0.0942009, 1.84827]
+coordinate_truepath:x: 0.511391
+y: 1.69961
+z: 2.1535
+
+flow_path: [0.0481288, 1.2816, 2.213]
+coordinate_tracker1: [-0.29555, -0.00923219, 1.6868]
+coordinate_tracker2: [-0.29555, -0.00923219, 1.6868]
+coordinate_truepath:x: 0.443393
+y: 1.70175
+z: 2.14772
+
+flow_path: [-0.00058431, 1.28556, 2.213]
+coordinate_tracker1: [-0.333561, 0.0146307, 1.65366]
+coordinate_tracker1: [-0.5941, 0.0982714, 1.23169]
+coordinate_tracker1: [-0.292474, 0.0553987, 1.63676]
+coordinate_tracker1: [-0.483351, -0.0905106, 1.57601]
+coordinate_tracker1: [-0.295408, 0.0140134, 1.91014]
+coordinate_tracker2: [-0.295408, 0.0140134, 1.91014]
+coordinate_truepath:x: 0.382726
+y: 1.70717
+z: 2.14084
+
+flow_path: [-0.060926, 1.29903, 2.217]
+coordinate_tracker1: [-0.384824, -0.00312513, 1.69536]
+coordinate_tracker2: [-0.384824, -0.00312513, 1.69536]
+flow_path: [-0.124675, 1.30777, 2.198]
+coordinate_truepath:x: 0.336663
+y: 1.71323
+z: 2.13384
+
+coordinate_tracker1: [-1.28453, -0.0345905, 1.25333]
+coordinate_tracker1: [-1.28295, -0.0217227, 1.45065]
+coordinate_tracker2: [-1.28295, -0.0217227, 1.45065]
+coordinate_truepath:x: 0.295758
+y: 1.71975
+z: 2.12559
+
+flow_path: [-0.150793, 1.30995, 2.192]
+coordinate_tracker1: [-0.676211, 0.139918, 1.27647]
+coordinate_tracker1: [-0.620098, -0.0857863, 1.50753]
+coordinate_tracker1: [-0.966149, 0.159658, 1.01676]
+coordinate_tracker1: [-0.403812, 0.0893101, 1.69748]
+coordinate_tracker1: [-0.737649, -0.00901916, 1.37862]
+coordinate_tracker1: [-0.44996, 0.0600194, 1.67101]
+coordinate_tracker1: [-0.853619, -0.217321, 1.19971]
+coordinate_tracker1: [-0.557747, 0.219677, 2.38263]
+coordinate_tracker2: [-0.557747, 0.219677, 2.38263]
+flow_path: [-0.16485, 1.29901, 2.19]
+coordinate_truepath:x: 0.266371
+y: 1.72523
+z: 2.11714
+
+coordinate_tracker2: [-0.557747, 0.219677, 2.38263]
+flow_path: [-0.17923, 1.29608, 2.179]
+coordinate_truepath:x: 0.243806
+y: 1.72943
+z: 2.10834
+
+coordinate_tracker2: [-0.557747, 0.219677, 2.38263]
+coordinate_truepath:x: 0.22376
+y: 1.73371
+z: 2.09712
+
+flow_path: [-0.192227, 1.31929, 2.168]
+coordinate_tracker1: [0.206754, 0.171547, 1.59741]
+coordinate_tracker1: [0.26022, 0.143097, 1.79383]
+coordinate_tracker1: [0.203118, 0.173684, 1.67265]
+coordinate_tracker1: [0.439631, 0.149593, 1.95282]
+coordinate_tracker1: [0.219038, 0.1363, 1.82358]
+coordinate_tracker1: [-0.0858069, 0.222609, 1.21971]
+coordinate_tracker1: [0.177168, 0.107319, 1.57609]
+coordinate_tracker1: [0.0161586, 0.0145156, 1.46248]
+coordinate_tracker2: [0.0161586, 0.0145156, 1.46248]
+coordinate_truepath:x: 0.197524
+y: 1.7388
+z: 2.08304
+
+flow_path: [-0.207727, 1.33215, 2.166]
+coordinate_tracker1: [0.240742, 0.158596, 1.79943]
+coordinate_tracker1: [0.192236, 0.181558, 1.6055]
+coordinate_tracker1: [0.190186, 0.192261, 1.69301]
+coordinate_tracker1: [0.433432, 0.169226, 1.96074]
+coordinate_tracker1: [0.195775, 0.146797, 1.81359]
+coordinate_tracker1: [-0.0865751, 0.213508, 1.28673]
+coordinate_tracker1: [0.166544, 0.124089, 1.59503]
+coordinate_tracker1: [0.0060302, 0.0400796, 1.48843]
+coordinate_tracker2: [0.0060302, 0.0400796, 1.48843]
+flow_path: [-0.232673, 1.35241, 2.156]
+coordinate_truepath:x: 0.156569
+y: 1.74431
+z: 2.06749
+
+coordinate_tracker1: [0.394808, 0.176178, 1.96448]
+coordinate_tracker1: [0.196864, 0.199264, 1.58974]
+coordinate_tracker1: [0.198509, 0.194567, 1.70788]
+coordinate_tracker1: [0.261677, 0.181725, 1.84839]
+coordinate_tracker1: [0.217392, 0.171782, 1.82561]
+coordinate_tracker1: [-0.120989, 0.244623, 1.23403]
+coordinate_tracker1: [0.173657, 0.151174, 1.6041]
+coordinate_tracker1: [0.037092, 0.0770886, 1.5473]
+coordinate_tracker2: [0.037092, 0.0770886, 1.5473]
+coordinate_truepath:x: 0.100258
+y: 1.74858
+z: 2.05407
+
+flow_path: [-0.278035, 1.35162, 2.156]
+coordinate_tracker1: [0.13592, 0.199042, 1.57396]
+coordinate_tracker1: [0.186566, 0.188559, 1.84357]
+coordinate_tracker1: [-0.159599, 0.246883, 1.22847]
+coordinate_tracker1: [0.106285, 0.142443, 1.58846]
+coordinate_tracker1: [-0.0268616, 0.0648731, 1.50735]
+coordinate_tracker1: [0.128395, 0.199541, 1.64339]
+coordinate_tracker1: [0.343665, 0.169458, 1.95531]
+coordinate_tracker1: [0.147257, 0.178925, 1.84419]
+coordinate_tracker2: [0.147257, 0.178925, 1.84419]
+coordinate_truepath:x: 0.0188163
+y: 1.74906
+z: 2.04317
+
+flow_path: [-0.339304, 1.34352, 2.135]
+coordinate_tracker1: [0.0814998, 0.192402, 1.59388]
+coordinate_tracker1: [0.130625, 0.174867, 1.81988]
+coordinate_tracker1: [0.0745833, 0.189513, 1.6492]
+coordinate_tracker1: [0.268207, 0.175092, 1.95436]
+coordinate_tracker1: [0.0864082, 0.165632, 1.80423]
+coordinate_tracker1: [-0.202138, 0.227831, 1.28308]
+coordinate_tracker1: [0.0521296, 0.152084, 1.58407]
+coordinate_tracker1: [-0.115785, 0.0452419, 1.46423]
+coordinate_tracker2: [-0.115785, 0.0452419, 1.46423]
+flow_path: [-0.409035, 1.33732, 2.11]
+coordinate_truepath:x: -0.0576383
+y: 1.74287
+z: 2.03594
+
+coordinate_tracker2: [-0.115785, 0.0452419, 1.46423]
+coordinate_truepath:x: -0.149412
+y: 1.72637
+z: 2.02732
+
+flow_path: [-0.474539, 1.31573, 2.097]
+coordinate_tracker2: [-0.115785, 0.0452419, 1.46423]
+coordinate_truepath:x: -0.229559
+y: 1.70081
+z: 2.02005
+
+flow_path: [-0.533106, 1.29588, 2.097]
+coordinate_tracker2: [-0.115785, 0.0452419, 1.46423]
+coordinate_truepath:x: -0.310095
+y: 1.66137
+z: 2.01145
+
+flow_path: [-0.580538, 1.24418, 2.09]
+coordinate_tracker2: [-0.115785, 0.0452419, 1.46423]
+flow_path: [-0.618653, 1.19546, 2.08]
+coordinate_truepath:x: -0.363335
+y: 1.62634
+z: 2.00528
+
+coordinate_tracker1: [-0.189609, 0.0893095, 1.56808]
+coordinate_tracker1: [-0.194092, 0.0720747, 1.80757]
+coordinate_tracker1: [-0.464543, 0.152385, 1.20865]
+coordinate_tracker1: [-0.236304, 0.0375832, 1.54267]
+coordinate_tracker1: [-0.39352, -0.0555564, 1.42048]
+coordinate_tracker2: [-0.39352, -0.0555564, 1.42048]
+coordinate_tracker1: [-0.491729, 0.0939948, 1.23908]
+coordinate_tracker1: [-0.440718, -0.1444, 1.32963]
+coordinate_tracker1: [-0.238848, 0.00437127, 1.63918]
+coordinate_tracker1: [-0.277728, -0.005582, 1.52946]
+coordinate_tracker1: [-0.224381, -0.0262384, 1.7152]
+coordinate_tracker2: [-0.224381, -0.0262384, 1.7152]
+coordinate_truepath:x: -0.400995
+y: 1.59623
+z: 2.00073
+
+flow_path: [-0.668663, 1.14512, 2.077]
+0coordinate_tracker1: [-0.260934, -0.0348787, 1.61825]
+coordinate_tracker1: [-0.255829, -0.06518, 1.67375]
+coordinate_tracker1: [-0.50936, 0.0633208, 1.22456]
+coordinate_tracker1: [-0.300944, -0.0459922, 1.48891]
+coordinate_tracker1: [-0.466834, -0.192251, 1.2432]
+coordinate_tracker2: [-0.466834, -0.192251, 1.2432]
+coordinate_truepath:x: -0.400995
+y: 1.59623
+z: 2.00073
+
+flow_path: [-0.62748, 1.13611, 2.049]
+coordinate_tracker1: [-0.540834, 0.030775, 1.27667]
+coordinate_tracker1: [-0.504714, -0.190518, 1.34683]
+coordinate_tracker1: [-0.283665, -0.0800401, 1.68793]
+coordinate_tracker1: [-0.322826, -0.0854896, 1.54126]
+coordinate_tracker1: [-0.276659, -0.111737, 1.69025]
+coordinate_tracker2: [-0.276659, -0.111737, 1.69025]
+coordinate_truepath:x: -0.471703
+y: 1.50994
+z: 1.9916
+
+coordinate_tracker2: [-0.276659, -0.111737, 1.69025]
+flow_path: [-0.590508, 1.09321, 2.048]
+coordinate_truepath:x: -0.471703
+y: 1.50994
+z: 1.9916
+
+coordinate_tracker2: [-0.276659, -0.111737, 1.69025]
+coordinate_truepath:x: -0.462929
+y: 1.38015
+z: 1.98112
+
+flow_path: [-0.571136, 1.06752, 2.042]
+coordinate_tracker1: [0.566023, -0.0669981, 2.14256]
+coordinate_tracker1: [0.436672, -0.164069, 1.57138]
+coordinate_tracker2: [0.436672, -0.164069, 1.57138]
+coordinate_truepath:x: -0.443974
+y: 1.34584
+z: 1.97986
+
+coordinate_tracker1: [0.568716, -0.118339, 2.14587]
+coordinate_tracker1: [0.439675, -0.194898, 1.60755]
+coordinate_tracker2: [0.439675, -0.194898, 1.60755]
+flow_path: [-0.516634, 1.02133, 2.042]
+coordinate_truepath:x: -0.424111
+y: 1.31397
+z: 1.98021
+
+coordinate_tracker1: [0.609498, -0.166624, 2.10102]
+coordinate_tracker1: [0.45968, -0.238442, 1.55756]
+coordinate_tracker2: [0.45968, -0.238442, 1.55756]
+coordinate_truepath:x: -0.402831
+y: 1.28295
+z: 1.9812
+
+flow_path: [-0.496349, 1.00694, 2.043]
+coordinate_tracker2: [0.45968, -0.238442, 1.55756]
+coordinate_truepath:x: -0.375506
+y: 1.24844
+z: 1.98302
+
+flow_path: [-0.462397, 0.985832, 2.043]
+coordinate_tracker2: [0.45968, -0.238442, 1.55756]
+coordinate_truepath:x: -0.350957
+y: 1.21933
+z: 1.98512
+
+coordinate_tracker2: [0.45968, -0.238442, 1.55756]
+flow_path: [-0.413355, 0.957694, 2.057]
+coordinate_tracker1: [0.664432, 0.667656, 1.95083]
+coordinate_tracker1: [0.472481, 0.637369, 1.5045]
+coordinate_tracker2: [0.472481, 0.637369, 1.5045]
+coordinate_truepath:x: -0.304149
+y: 1.16665
+z: 1.99104
+
+flow_path: [-0.387901, 0.957626, 2.061]
+coordinate_tracker1: [0.468416, 0.610766, 1.47754]
+coordinate_tracker1: [0.670608, 0.638821, 1.9612]
+coordinate_tracker2: [0.670608, 0.638821, 1.9612]
+coordinate_truepath:x: -0.283291
+y: 1.14343
+z: 1.99479
+
+coordinate_tracker1: [0.694811, 0.618339, 1.98036]
+coordinate_tracker1: [0.506741, 0.599266, 1.5412]
+coordinate_tracker1: [0.779803, 0.573762, 1.06598]
+coordinate_tracker2: [0.779803, 0.573762, 1.06598]
+flow_path: [-0.328387, 0.933109, 2.073]
+coordinate_tracker1: [0.710587, 0.596646, 1.95082]
+coordinate_tracker1: [0.804346, 0.558513, 1.02074]
+coordinate_tracker1: [0.495357, 0.579476, 1.4613]
+coordinate_tracker2: [0.495357, 0.579476, 1.4613]
+coordinate_truepath:x: -0.256708
+y: 1.10558
+z: 2.00119
+
+flow_path: [-0.328865, 0.931709, 2.074]
+coordinate_tracker1: [0.737786, 0.563804, 1.99645]
+coordinate_tracker1: [0.540196, 0.553495, 1.53439]
+coordinate_tracker1: [0.819357, 0.530521, 1.093]
+coordinate_tracker2: [0.819357, 0.530521, 1.093]
+coordinate_truepath:x: -0.249735
+y: 1.08491
+z: 2.00463
+
+flow_path: [-0.303235, 0.912391, 2.074]
+coordinate_tracker2: [0.819357, 0.530521, 1.093]
+coordinate_truepath:x: -0.247487
+y: 1.06522
+z: 2.00841
+
+flow_path: [-0.293581, 0.899237, 2.076]
+coordinate_tracker2: [0.819357, 0.530521, 1.093]
+coordinate_truepath:x: -0.249657
+y: 1.03969
+z: 2.01407
+
+flow_path: [-0.300754, 0.874095, 2.082]
+coordinate_tracker2: [0.819357, 0.530521, 1.093]
+flow_path: [-0.298303, 0.841549, 2.083]
+coordinate_truepath:x: -0.254764
+y: 1.01448
+z: 2.01947
+
+coordinate_tracker2: [0.819357, 0.530521, 1.093]
+flow_path: [-0.283042, 0.816405, 2.098]
+coordinate_truepath:x: -0.264207
+y: 0.979098
+z: 2.02483
+
+coordinate_tracker2: [0.819357, 0.530521, 1.093]
+coordinate_truepath:x: -0.273524
+y: 0.950913
+z: 2.02692
+
+coordinate_tracker2: [0.819357, 0.530521, 1.093]
+flow_path: [-0.314673, 0.779236, 2.101]
+coordinate_truepath:x: -0.287573
+y: 0.91284
+z: 2.02844
+
+coordinate_tracker1: [-0.11862, 0.446149, 1.53335]
+coordinate_tracker1: [-0.0984859, 0.432706, 1.48617]
+coordinate_tracker1: [-0.409176, 0.478825, 1.21461]
+coordinate_tracker2: [-0.409176, 0.478825, 1.21461]
+coordinate_truepath:x: -0.29883
+y: 0.882251
+z: 2.02973
+
+flow_path: [-0.323706, 0.752402, 2.103]
+coordinate_tracker1: [-0.126382, 0.414671, 1.61277]
+coordinate_tracker1: [-0.374168, 0.460148, 1.30093]
+coordinate_tracker1: [-0.107167, 0.408313, 1.55853]
+coordinate_tracker2: [-0.107167, 0.408313, 1.55853]
+flow_path: [-0.32062, 0.725471, 2.108]
+coordinate_truepath:x: -0.314989
+y: 0.836266
+z: 2.03226
+
+coordinate_tracker1: [-0.383768, 0.414141, 1.30674]
+coordinate_tracker1: [-0.135389, 0.372045, 1.58584]
+coordinate_tracker2: [-0.135389, 0.372045, 1.58584]
+flow_path: [-0.33208, 0.707859, 2.1]
+coordinate_truepath:x: -0.32642
+y: 0.797137
+z: 2.03474
+
+coordinate_tracker1: [-0.153843, 0.355183, 1.64069]
+coordinate_tracker1: [-0.40314, 0.418866, 1.26784]
+coordinate_tracker1: [-0.14751, 0.336066, 1.54791]
+coordinate_tracker2: [-0.14751, 0.336066, 1.54791]
+flow_path: [-0.35144, 0.670364, 2.103]
+coordinate_truepath:x: -0.335511
+y: 0.747186
+z: 2.03793
+
+coordinate_tracker1: [-0.151732, 0.311746, 1.57822]
+coordinate_tracker1: [-0.416937, 0.367181, 1.28479]
+coordinate_tracker1: [-0.143143, 0.304823, 1.4825]
+coordinate_tracker2: [-0.143143, 0.304823, 1.4825]
+coordinate_truepath:x: -0.337703
+y: 0.708215
+z: 2.04072
+
+coordinate_tracker1: [-0.155665, 0.264791, 1.6068]
+coordinate_tracker1: [-0.157098, 0.257013, 1.53703]
+coordinate_tracker1: [-0.415265, 0.34296, 1.23986]
+coordinate_tracker2: [-0.415265, 0.34296, 1.23986]
+flow_path: [-0.343471, 0.598437, 2.11]
+coordinate_truepath:x: -0.335637
+y: 0.660062
+z: 2.04354
+
+coordinate_tracker1: [-0.163047, 0.206815, 1.62494]
+coordinate_tracker1: [-0.403153, 0.278202, 1.30015]
+coordinate_tracker1: [-0.167635, 0.209356, 1.56134]
+coordinate_tracker1: [-0.208593, 0.174659, 1.56651]
+coordinate_tracker1: [-0.350136, 0.194408, 1.92611]
+coordinate_tracker1: [-0.395199, 0.0467825, 1.34212]
+coordinate_tracker1: [-0.165742, 0.191595, 1.80067]
+coordinate_tracker1: [-0.208139, 0.187971, 1.78771]
+coordinate_tracker2: [-0.208139, 0.187971, 1.78771]
+coordinate_truepath:x: -0.326928
+y: 0.611962
+z: 2.046
+
+coordinate_tracker1: [-0.16016, 0.164505, 1.67095]
+coordinate_tracker1: [-0.178628, 0.139005, 1.76841]
+coordinate_tracker1: [-0.383944, 0.262051, 1.31075]
+coordinate_tracker1: [-0.215459, 0.124347, 1.57586]
+coordinate_tracker1: [-0.405148, 0.00807754, 1.31128]
+coordinate_tracker1: [-0.161436, 0.173069, 1.58993]
+coordinate_tracker1: [-0.353588, 0.159666, 1.92248]
+coordinate_tracker1: [-0.224794, 0.148782, 1.78452]
+coordinate_tracker2: [-0.224794, 0.148782, 1.78452]
+flow_path: [-0.308096, 0.520964, 2.122]
+coordinate_truepath:x: -0.312354
+y: 0.565628
+z: 2.04756
+
+coordinate_tracker2: [-0.224794, 0.148782, 1.78452]
+coordinate_truepath:x: -0.294782
+y: 0.527298
+z: 2.04856
+
+coordinate_tracker2: [-0.224794, 0.148782, 1.78452]
+flow_path: [-0.240815, 0.465042, 2.114]
+coordinate_truepath:x: -0.271615
+y: 0.487245
+z: 2.04919
+
+coordinate_tracker2: [-0.224794, 0.148782, 1.78452]
+coordinate_truepath:x: -0.247557
+y: 0.450734
+z: 2.05069
+
+coordinate_tracker2: [-0.224794, 0.148782, 1.78452]
+flow_path: [-0.187601, 0.44015, 2.123]
+coordinate_tracker1: [-0.0954287, -0.104436, 1.79222]
+coordinate_tracker1: [-0.129936, -0.100747, 1.77109]
+coordinate_tracker1: [0.069749, -0.106524, 1.98911]
+coordinate_tracker1: [-0.0949194, -0.130833, 1.63297]
+coordinate_tracker1: [-0.113368, -0.140945, 1.62369]
+coordinate_tracker1: [-0.329681, 0.0272688, 1.40858]
+coordinate_tracker1: [-0.134335, -0.0692665, 1.58359]
+coordinate_tracker1: [-0.349741, -0.163489, 1.33676]
+coordinate_tracker2: [-0.349741, -0.163489, 1.33676]
+coordinate_truepath:x: -0.208159
+y: 0.397452
+z: 2.05816
+
+flow_path: [-0.173076, 0.426068, 2.123]
+coordinate_tracker1: [-0.0828585, -0.171783, 1.6456]
+coordinate_tracker1: [-0.0873812, -0.156951, 1.88359]
+coordinate_tracker1: [-0.119807, -0.153285, 1.83328]
+coordinate_tracker1: [-0.265458, -0.140247, 1.98908]
+coordinate_tracker1: [-0.0972448, -0.177269, 1.6449]
+coordinate_tracker1: [-0.29466, -0.00694201, 1.4536]
+coordinate_tracker1: [-0.132935, -0.11125, 1.63358]
+coordinate_tracker1: [-0.350212, -0.225134, 1.32341]
+coordinate_tracker2: [-0.350212, -0.225134, 1.32341]
+flow_path: [-0.164433, 0.413758, 2.123]
+coordinate_truepath:x: -0.182091
+y: 0.362488
+z: 2.06642
+
+coordinate_tracker1: [-0.0627082, -0.192241, 1.85162]
+coordinate_tracker1: [-0.0645903, -0.20629, 1.62628]
+coordinate_tracker1: [-0.289123, -0.0467643, 1.4488]
+coordinate_tracker1: [-0.10972, -0.14046, 1.60757]
+coordinate_tracker1: [-0.329221, -0.253458, 1.29198]
+coordinate_tracker1: [-0.100307, -0.192641, 1.86067]
+coordinate_tracker1: [-0.238482, -0.171367, 1.99506]
+coordinate_tracker1: [-0.0773381, -0.208223, 1.5924]
+coordinate_tracker2: [-0.0773381, -0.208223, 1.5924]
+flow_path: [-0.139482, 0.404597, 2.125]
+coordinate_truepath:x: -0.163032
+y: 0.337252
+z: 2.0737
+
+coordinate_tracker1: [-0.0509304, -0.204208, 1.86348]
+coordinate_tracker1: [-0.05291, -0.214402, 1.64075]
+coordinate_tracker1: [-0.0864504, -0.199623, 1.85065]
+coordinate_tracker1: [-0.211736, -0.19937, 2.00778]
+coordinate_tracker1: [-0.0664698, -0.21937, 1.6316]
+coordinate_tracker1: [-0.257655, -0.05562, 1.46316]
+coordinate_tracker1: [-0.0975992, -0.155845, 1.627]
+coordinate_tracker1: [-0.311974, -0.260214, 1.31208]
+coordinate_tracker2: [-0.311974, -0.260214, 1.31208]
+flow_path: [-0.106368, 0.395521, 2.125]
+coordinate_truepath:x: -0.147384
+y: 0.317336
+z: 2.08061
+
+coordinate_tracker1: [-0.0333778, -0.242559, 1.88465]
+coordinate_tracker1: [-0.0442191, -0.249634, 1.66348]
+coordinate_tracker1: [-0.243316, -0.121243, 1.54028]
+coordinate_tracker1: [-0.0855178, -0.197988, 1.64893]
+coordinate_tracker1: [-0.310652, -0.297686, 1.29433]
+coordinate_tracker1: [-0.0755265, -0.229719, 1.87453]
+coordinate_tracker1: [0.120507, -0.252381, 2.05225]
+coordinate_tracker1: [-0.0507265, -0.250203, 1.66027]
+coordinate_tracker2: [-0.0507265, -0.250203, 1.66027]
+flow_path: [-0.0887522, 0.409248, 2.147]
+coordinate_truepath:x: -0.132524
+y: 0.297521
+z: 2.08875
+
+coordinate_tracker1: [-0.0252085, -0.268653, 1.65268]
+coordinate_tracker1: [-0.293659, -0.313407, 1.31368]
+coordinate_tracker1: [-0.0322239, -0.267448, 1.62111]
+coordinate_tracker2: [-0.0322239, -0.267448, 1.62111]
+coordinate_truepath:x: -0.117796
+y: 0.278844
+z: 2.09836
+
+flow_path: [-0.0851185, 0.383092, 2.151]
+coordinate_tracker1: [-0.00918666, -0.285021, 1.63181]
+coordinate_tracker1: [-0.0154566, -0.286203, 1.62619]
+coordinate_tracker1: [-0.284118, -0.323889, 1.29339]
+coordinate_tracker2: [-0.284118, -0.323889, 1.29339]
+coordinate_truepath:x: -0.101509
+y: 0.258572
+z: 2.10996
+
+flow_path: [-0.0600724, 0.378772, 2.171]
+coordinate_tracker1: [0.000114628, -0.315194, 1.61599]
+coordinate_tracker1: [6.91182e-05, -0.320314, 1.6203]
+coordinate_tracker1: [-0.279524, -0.343983, 1.28614]
+coordinate_tracker2: [-0.279524, -0.343983, 1.28614]
+flow_path: [-0.0686863, 0.373785, 2.179]
+coordinate_truepath:x: -0.0859524
+y: 0.240317
+z: 2.12158
+
+coordinate_tracker1: [0.00664409, -0.331693, 1.62182]
+coordinate_tracker1: [-0.26593, -0.362595, 1.2933]
+coordinate_tracker1: [0.00648784, -0.333231, 1.60328]
+coordinate_tracker2: [0.00648784, -0.333231, 1.60328]
+coordinate_tracker1: [0.0169458, -0.34943, 1.60726]
+coordinate_tracker1: [-0.278521, -0.372738, 1.2402]
+coordinate_tracker1: [0.0176577, -0.345979, 1.61261]
+coordinate_tracker2: [0.0176577, -0.345979, 1.61261]
+coordinate_truepath:x: -0.0543458
+y: 0.215326
+z: 2.14274
+
+flow_path: [-0.0792048, 0.429421, 2.202]
+coordinate_tracker1: [0.029027, -0.347226, 1.63858]
+coordinate_tracker1: [0.0299837, -0.34855, 1.63397]
+coordinate_tracker1: [-0.246921, -0.36805, 1.33459]
+coordinate_tracker2: [-0.246921, -0.36805, 1.33459]
+coordinate_truepath:x: -0.0325605
+y: 0.204667
+z: 2.15142
+
+flow_path: [-0.0972587, 0.447485, 2.212]
+coordinate_tracker1: [0.0433918, -0.363347, 1.6257]
+coordinate_tracker1: [0.0472826, -0.361624, 1.61033]
+coordinate_tracker1: [-0.251894, -0.378652, 1.32405]
+coordinate_tracker2: [-0.251894, -0.378652, 1.32405]
+coordinate_tracker1: [0.0523272, -0.356362, 1.6178]
+coordinate_tracker1: [0.0545582, -0.360218, 1.61946]
+coordinate_tracker1: [-0.236855, -0.373836, 1.30426]
+coordinate_tracker2: [-0.236855, -0.373836, 1.30426]
+coordinate_truepath:x: 0.0332409
+y: 0.185297
+z: 2.16073
+
+flow_path: [-0.0543838, 0.455793, 2.231]
+coordinate_tracker1: [0.0716699, -0.363077, 1.64866]
+coordinate_tracker1: [0.0753687, -0.36802, 1.6439]
+coordinate_tracker1: [-0.194549, -0.377459, 1.34824]
+coordinate_tracker2: [-0.194549, -0.377459, 1.34824]
+flow_path: [-0.00566649, 0.466016, 2.23]
+coordinate_truepath:x: 0.083518
+y: 0.17524
+z: 2.1603
+
+coordinate_tracker2: [-0.194549, -0.377459, 1.34824]
+flow_path: [0.0364286, 0.453096, 2.231]
+coordinate_truepath:x: 0.141394
+y: 0.1651
+z: 2.15764
+
+coordinate_tracker2: [-0.194549, -0.377459, 1.34824]
+flow_path: [0.088321, 0.429309, 2.231]
+coordinate_truepath:x: 0.20733
+y: 0.155562
+z: 2.15463
+
+coordinate_tracker1: [0.197173, 0.595635, 1.60738]
+coordinate_tracker1: [0.223611, 0.590455, 1.58574]
+coordinate_tracker1: [-0.0952238, 0.590181, 1.34086]
+coordinate_tracker2: [-0.0952238, 0.590181, 1.34086]
+flow_path: [0.124384, 0.428425, 2.231]
+coordinate_truepath:x: 0.278061
+y: 0.147079
+z: 2.15254
+
+coordinate_tracker1: [-0.0597717, 0.586255, 1.39207]
+coordinate_tracker2: [-0.0597717, 0.586255, 1.39207]
+flow_path: [0.177496, 0.422943, 2.231]
+coordinate_truepath:x: 0.351717
+y: 0.140378
+z: 2.15119
+
+coordinate_tracker1: [-0.00135283, 0.564664, 1.34711]
+coordinate_tracker1: [0.283031, 0.570867, 1.61028]
+coordinate_tracker1: [0.425825, 0.588797, 2.19914]
+coordinate_tracker2: [0.425825, 0.588797, 2.19914]
+coordinate_truepath:x: 0.426693
+y: 0.136777
+z: 2.14957
+
+flow_path: [0.222957, 0.435203, 2.218]
+coordinate_tracker1: [0.487978, 0.587784, 2.17462]
+coordinate_tracker1: [0.334883, 0.573205, 1.6321]
+coordinate_tracker1: [0.0546545, 0.556657, 1.35651]
+coordinate_tracker2: [0.0546545, 0.556657, 1.35651]
+coordinate_truepath:x: 0.506204
+y: 0.13661
+z: 2.14665
+
+flow_path: [0.266597, 0.455712, 2.216]
+coordinate_tracker1: [0.538674, 0.575601, 2.16227]
+coordinate_tracker1: [0.368948, 0.559499, 1.59607]
+coordinate_tracker2: [0.368948, 0.559499, 1.59607]
+flow_path: [0.340097, 0.427743, 2.216]
+coordinate_truepath:x: 0.579078
+y: 0.137853
+z: 2.14275
+
+coordinate_tracker1: [0.607751, 0.579066, 2.16337]
+coordinate_tracker1: [0.428941, 0.565096, 1.63639]
+coordinate_tracker1: [0.722269, 0.550182, 1.22033]
+coordinate_tracker2: [0.722269, 0.550182, 1.22033]
+coordinate_truepath:x: 0.658801
+y: 0.141224
+z: 2.13797
+
+flow_path: [0.39258, 0.452123, 2.214]
+coordinate_tracker1: [0.662303, 0.590341, 2.10482]
+coordinate_tracker1: [0.757628, 0.563937, 1.14838]
+coordinate_tracker1: [0.473835, 0.56726, 1.5869]
+coordinate_tracker2: [0.473835, 0.56726, 1.5869]
+coordinate_truepath:x: 0.733397
+y: 0.145049
+z: 2.13397
+
+flow_path: [0.43482, 0.485603, 2.217]
+coordinate_tracker1: [0.722514, 0.597909, 2.10425]
+coordinate_tracker1: [0.521208, 0.580464, 1.61257]
+coordinate_tracker1: [0.817227, 0.565837, 1.17856]
+coordinate_tracker2: [0.817227, 0.565837, 1.17856]
+flow_path: [0.498296, 0.480028, 2.21]
+coordinate_truepath:x: 0.805918
+y: 0.147164
+z: 2.12977
+
+coordinate_tracker1: [0.847268, 0.573994, 1.13884]
+coordinate_tracker1: [0.769211, 0.604536, 2.09954]
+coordinate_tracker1: [0.56315, 0.58239, 1.61327]
+coordinate_tracker2: [0.56315, 0.58239, 1.61327]
+coordinate_truepath:x: 0.885447
+y: 0.146111
+z: 2.12467
+
+flow_path: [0.550231, 0.487748, 2.208]
+coordinate_tracker1: [0.865144, 0.574389, 1.06919]
+coordinate_tracker1: [0.609996, 0.582041, 1.57447]
+coordinate_tracker1: [0.825165, 0.609012, 2.04803]
+coordinate_tracker2: [0.825165, 0.609012, 2.04803]
+flow_path: [0.601422, 0.515722, 2.21]
+coordinate_truepath:x: 0.951829
+y: 0.140382
+z: 2.11944
+
+coordinate_tracker1: [0.901276, 0.565124, 1.05956]
+coordinate_tracker1: [0.884226, 0.60334, 2.04625]
+coordinate_tracker1: [0.671773, 0.586328, 1.62063]
+coordinate_tracker2: [0.671773, 0.586328, 1.62063]
+coordinate_truepath:x: 1.0157
+y: 0.127412
+z: 2.11416
+
+flow_path: [0.651543, 0.532168, 2.198]
+coordinate_tracker1: [0.934518, 0.595814, 2.01717]
+coordinate_tracker1: [0.941447, 0.563774, 1.0365]
+coordinate_tracker1: [0.698177, 0.576396, 1.56619]
+coordinate_tracker2: [0.698177, 0.576396, 1.56619]
+coordinate_truepath:x: 1.0703
+y: 0.10981
+z: 2.10923
+
+flow_path: [0.71174, 0.513495, 2.195]
+coordinate_tracker1: [0.978592, 0.540451, 1.00932]
+coordinate_tracker1: [0.984698, 0.578591, 2.01685]
+coordinate_tracker1: [0.748963, 0.562755, 1.57921]
+coordinate_tracker2: [0.748963, 0.562755, 1.57921]
+flow_path: [0.764119, 0.498114, 2.195]
+coordinate_truepath:x: 1.13302
+y: 0.0838078
+z: 2.09946
+
+coordinate_tracker1: [1.03145, 0.539054, 2.02282]
+coordinate_tracker1: [1.01659, 0.526135, 1.03237]
+coordinate_tracker1: [0.795317, 0.532633, 1.60169]
+coordinate_tracker2: [0.795317, 0.532633, 1.60169]
+coordinate_truepath:x: 1.18121
+y: 0.0591399
+z: 2.08937
+
+coordinate_tracker1: [1.07408, 0.505092, 2.02004]
+coordinate_tracker1: [1.05339, 0.504335, 1.02924]
+coordinate_tracker1: [0.83232, 0.506098, 1.6009]
+coordinate_tracker2: [0.83232, 0.506098, 1.6009]
+flow_path: [0.828946, 0.506557, 2.175]
+coordinate_truepath:x: 1.23386
+y: 0.027922
+z: 2.07811
+
+coordinate_tracker1: [1.12451, 0.458883, 1.99934]
+coordinate_tracker1: [0.901122, 0.466574, 1.62673]
+coordinate_tracker1: [1.06618, 0.483184, 1.02005]
+coordinate_tracker2: [1.06618, 0.483184, 1.02005]
+coordinate_truepath:x: 1.28623
+y: -0.00763663
+z: 2.06758
+
+flow_path: [0.855873, 0.485218, 2.173]
+coordinate_tracker1: [1.08344, 0.474106, 0.99561]
+coordinate_tracker1: [1.14236, 0.438048, 1.98566]
+coordinate_tracker1: [0.888672, 0.451857, 1.5709]
+coordinate_tracker2: [0.888672, 0.451857, 1.5709]
+coordinate_truepath:x: 1.32873
+y: -0.0390282
+z: 2.05876
+
+flow_path: [0.895805, 0.463037, 2.164]
+coordinate_tracker1: [1.17463, 0.404933, 1.98425]
+coordinate_tracker1: [1.11251, 0.46966, 1.03733]
+coordinate_tracker1: [0.912952, 0.425484, 1.5673]
+coordinate_tracker2: [0.912952, 0.425484, 1.5673]
+flow_path: [0.928046, 0.420841, 2.152]
+coordinate_truepath:x: 1.37689
+y: -0.0768253
+z: 2.04737
+
+coordinate_tracker1: [1.20786, 0.363565, 1.96343]
+coordinate_tracker1: [1.22878, 0.306906, 2.74784]
+coordinate_tracker2: [1.22878, 0.306906, 2.74784]
+coordinate_truepath:x: 1.42678
+y: -0.116367
+z: 2.03673
+
+flow_path: [0.959496, 0.401477, 2.133]
+coordinate_tracker1: [1.23906, 0.311279, 1.94182]
+coordinate_tracker1: [1.27063, 0.234814, 2.72627]
+coordinate_tracker2: [1.27063, 0.234814, 2.72627]
+coordinate_truepath:x: 1.47793
+y: -0.156276
+z: 2.028
+
+flow_path: [1.0057, 0.401374, 2.127]
+coordinate_tracker1: [1.31461, 0.168341, 2.71655]
+coordinate_tracker1: [1.28786, 0.262816, 1.94256]
+coordinate_tracker2: [1.28786, 0.262816, 1.94256]
+coordinate_truepath:x: 1.53071
+y: -0.192355
+z: 2.02095
+
+flow_path: [1.08282, 0.399555, 2.109]
+coordinate_tracker2: [1.28786, 0.262816, 1.94256]
+coordinate_truepath:x: 1.58487
+y: -0.223465
+z: 2.01473
+
+flow_path: [1.11338, 0.39162, 2.103]
+coordinate_tracker2: [1.28786, 0.262816, 1.94256]
+coordinate_tracker1: [0.475433, 0.212295, 1.56277]
+coordinate_tracker1: [0.540763, 0.181206, 1.72205]
+coordinate_tracker1: [0.654277, 0.115858, 2.11568]
+coordinate_tracker1: [0.706571, 0.194033, 1.86648]
+coordinate_tracker1: [0.673508, 0.372355, 2.26187]
+coordinate_tracker2: [0.673508, 0.372355, 2.26187]
+coordinate_truepath:x: 1.69148
+y: -0.258855
+z: 1.99875
+
+flow_path: [1.22853, 0.382683, 2.089]
+coordinate_tracker1: [0.512455, 0.204855, 1.54586]
+coordinate_tracker1: [0.570609, 0.168305, 1.69253]
+coordinate_tracker1: [0.695369, 0.106789, 2.08317]
+coordinate_tracker1: [0.739474, 0.178967, 1.84287]
+coordinate_tracker1: [0.723014, 0.360783, 2.22938]
+coordinate_tracker2: [0.723014, 0.360783, 2.22938]
+coordinate_truepath:x: 1.7421
+y: -0.262587
+z: 1.99272
+
+coordinate_tracker1: [0.731763, 0.0877628, 2.0758]
+coordinate_tracker1: [0.763113, 0.343965, 2.22164]
+coordinate_tracker1: [0.545917, 0.187054, 1.55917]
+coordinate_tracker1: [0.783831, 0.167305, 1.83501]
+coordinate_tracker1: [0.596108, 0.146507, 1.66516]
+coordinate_tracker1: [0.787306, 0.284117, 1.18842]
+coordinate_tracker1: [0.648254, 0.156806, 1.63009]
+coordinate_tracker1: [0.784566, 0.0284032, 1.40501]
+coordinate_tracker2: [0.784566, 0.0284032, 1.40501]
+flow_path: [1.32353, 0.398751, 2.074]
+coordinate_truepath:x: 1.79011
+y: -0.257316
+z: 1.99057
+
+coordinate_tracker1: [0.783617, 0.090592, 2.06153]
+coordinate_tracker1: [0.809686, 0.325863, 2.17985]
+coordinate_tracker1: [0.829929, 0.263362, 1.25227]
+coordinate_tracker1: [0.714514, 0.164302, 1.66999]
+coordinate_tracker1: [0.820732, 0.021557, 1.39518]
+coordinate_tracker1: [0.590896, 0.186055, 1.56482]
+coordinate_tracker1: [0.81838, 0.169007, 1.83042]
+coordinate_tracker1: [0.639953, 0.144124, 1.66275]
+coordinate_tracker2: [0.639953, 0.144124, 1.66275]
+coordinate_truepath:x: 1.83356
+y: -0.2464
+z: 1.9916
+
+coordinate_tracker1: [0.849991, 0.278545, 1.19685]
+coordinate_tracker1: [0.833332, 0.0193193, 1.3875]
+coordinate_tracker1: [0.812211, 0.0986984, 2.05316]
+coordinate_tracker1: [0.748151, 0.172971, 1.6711]
+coordinate_tracker1: [0.841644, 0.336903, 2.16305]
+coordinate_tracker1: [0.614893, 0.191332, 1.5614]
+coordinate_tracker1: [0.848403, 0.179518, 1.81374]
+coordinate_tracker1: [0.65904, 0.148, 1.63836]
+coordinate_tracker2: [0.65904, 0.148, 1.63836]
+flow_path: [1.38783, 0.464629, 2.074]
+coordinate_truepath:x: 1.87295
+y: -0.230222
+z: 1.99424
+
+coordinate_tracker1: [0.754032, 0.173823, 1.6534]
+coordinate_tracker1: [0.8466, 0.112744, 2.04229]
+coordinate_tracker1: [0.882231, 0.273254, 1.20693]
+coordinate_tracker1: [0.892894, 0.356796, 2.2004]
+coordinate_tracker1: [0.896658, 0.0856723, 1.48597]
+coordinate_tracker1: [0.641401, 0.20289, 1.55742]
+coordinate_tracker1: [0.880141, 0.182625, 1.82993]
+coordinate_tracker1: [0.696943, 0.159145, 1.66243]
+coordinate_tracker2: [0.696943, 0.159145, 1.66243]
+coordinate_truepath:x: 1.90659
+y: -0.212109
+z: 1.99706
+
+flow_path: [1.40664, 0.489823, 2.081]
+coordinate_tracker1: [0.914164, 0.3028, 1.19658]
+coordinate_tracker1: [0.876117, 0.157746, 2.03033]
+coordinate_tracker1: [0.674493, 0.233715, 1.57797]
+coordinate_tracker2: [0.674493, 0.233715, 1.57797]
+coordinate_truepath:x: 1.93432
+y: -0.193816
+z: 1.99992
+
+coordinate_tracker1: [0.907611, 0.175311, 2.0334]
+coordinate_tracker1: [0.939708, 0.311486, 1.25351]
+coordinate_tracker1: [0.686814, 0.248826, 1.55648]
+coordinate_tracker2: [0.686814, 0.248826, 1.55648]
+flow_path: [1.42472, 0.514689, 2.082]
+coordinate_truepath:x: 1.95373
+y: -0.176714
+z: 2.00222
+
+coordinate_tracker1: [0.912786, 0.200598, 2.00023]
+coordinate_tracker1: [0.934095, 0.343795, 1.14449]
+coordinate_tracker1: [0.686707, 0.271364, 1.52324]
+coordinate_tracker2: [0.686707, 0.271364, 1.52324]
+flow_path: [1.40959, 0.519774, 2.087]
+coordinate_truepath:x: 1.96977
+y: -0.154862
+z: 2.00401
+
+coordinate_tracker1: [0.93739, 0.223278, 2.02467]
+coordinate_tracker1: [0.96169, 0.351888, 1.23908]
+coordinate_tracker1: [0.707991, 0.288618, 1.55894]
+coordinate_tracker2: [0.707991, 0.288618, 1.55894]
+coordinate_truepath:x: 1.97983
+y: -0.132086
+z: 2.00544
+
+flow_path: [1.40793, 0.542952, 2.087]
+coordinate_tracker1: [0.922759, 0.258191, 1.96977]
+coordinate_tracker1: [0.697063, 0.312511, 1.50443]
+coordinate_tracker1: [0.933131, 0.382366, 1.05359]
+coordinate_tracker2: [0.933131, 0.382366, 1.05359]
+coordinate_truepath:x: 1.98721
+y: -0.101925
+z: 2.00776
+
+flow_path: [1.39691, 0.561937, 2.082]
+coordinate_tracker1: [0.960766, 0.368846, 1.17524]
+coordinate_tracker1: [0.945991, 0.260375, 2.01716]
+coordinate_tracker1: [0.731676, 0.313493, 1.58936]
+coordinate_tracker2: [0.731676, 0.313493, 1.58936]
+coordinate_truepath:x: 1.99202
+y: -0.0644023
+z: 2.01127
+
+coordinate_tracker1: [0.945851, 0.31938, 1.97115]
+coordinate_tracker1: [0.964819, 0.407356, 1.10661]
+coordinate_tracker1: [0.708192, 0.362724, 1.50689]
+coordinate_tracker2: [0.708192, 0.362724, 1.50689]
+flow_path: [1.38157, 0.656821, 2.085]
+coordinate_truepath:x: 1.99533
+y: -0.0205039
+z: 2.01569
+
+coordinate_tracker2: [0.708192, 0.362724, 1.50689]
+coordinate_truepath:x: 1.99679
+y: 0.0281305
+z: 2.0208
+
+flow_path: [1.37102, 0.715098, 2.089]
+coordinate_tracker2: [0.708192, 0.362724, 1.50689]
+coordinate_truepath:x: 1.99655
+y: 0.0835781
+z: 2.02782
+
+flow_path: [1.35691, 0.775125, 2.114]
+coordinate_tracker1: [0.0555738, 0.470624, 1.49635]
+coordinate_tracker1: [0.0783783, 0.474199, 1.52749]
+coordinate_tracker1: [-0.237281, 0.47282, 1.14555]
+coordinate_tracker2: [-0.237281, 0.47282, 1.14555]
+coordinate_truepath:x: 1.99483
+y: 0.135392
+z: 2.03539
+
+coordinate_tracker1: [0.0479338, 0.547555, 1.52496]
+coordinate_tracker1: [0.076783, 0.549765, 1.54558]
+coordinate_tracker1: [-0.233584, 0.536454, 1.1638]
+coordinate_tracker2: [-0.233584, 0.536454, 1.1638]
+flow_path: [1.31264, 0.847928, 2.108]
+coordinate_truepath:x: 1.99068
+y: 0.195727
+z: 2.04487
+
+coordinate_tracker1: [0.0537189, 0.616748, 1.46716]
+coordinate_tracker1: [0.0910901, 0.616806, 1.45913]
+coordinate_tracker1: [-0.240975, 0.595635, 1.18518]
+coordinate_tracker2: [-0.240975, 0.595635, 1.18518]
+coordinate_truepath:x: 1.98547
+y: 0.249113
+z: 2.05475
+
+flow_path: [1.30927, 0.894378, 2.108]
+coordinate_tracker1: [0.0506754, 0.645456, 1.49828]
+coordinate_tracker1: [-0.250896, 0.618814, 1.19173]
+coordinate_tracker1: [0.0902823, 0.648484, 1.51197]
+coordinate_tracker2: [0.0902823, 0.648484, 1.51197]
+coordinate_truepath:x: 1.97974
+y: 0.295416
+z: 2.06494
+
+flow_path: [1.29832, 0.930111, 2.121]
+coordinate_tracker1: [0.0385091, 0.689128, 1.53157]
+coordinate_tracker1: [0.0797975, 0.685866, 1.51934]
+coordinate_tracker1: [-0.239957, 0.662024, 1.24518]
+coordinate_tracker2: [-0.239957, 0.662024, 1.24518]
+coordinate_truepath:x: 1.971
+y: 0.338935
+z: 2.07509
+
+flow_path: [1.31099, 0.976674, 2.127]
+coordinate_tracker1: [0.0415198, 0.719711, 1.50652]
+coordinate_tracker1: [0.0871429, 0.722932, 1.52234]
+coordinate_tracker1: [-0.254825, 0.671024, 1.21979]
+coordinate_tracker2: [-0.254825, 0.671024, 1.21979]
+coordinate_truepath:x: 1.95994
+y: 0.376782
+z: 2.08375
+
+flow_path: [1.32752, 1.00367, 2.142]
+coordinate_tracker1: [0.0280414, 0.774031, 1.54891]
+coordinate_tracker1: [0.0778657, 0.780254, 1.56453]
+coordinate_tracker1: [-0.254036, 0.716517, 1.23814]
+coordinate_tracker1: [-0.0734557, 0.952133, 1.55858]
+coordinate_tracker1: [0.140608, 0.771629, 2.08614]
+coordinate_tracker1: [-0.0039741, 0.757312, 2.11636]
+coordinate_tracker1: [0.0307803, 0.827683, 1.66701]
+coordinate_tracker1: [0.20034, 0.779956, 2.05357]
+coordinate_tracker2: [0.20034, 0.779956, 2.05357]
+coordinate_truepath:x: 1.9455
+y: 0.408967
+z: 2.08942
+
+flow_path: [1.32239, 1.03064, 2.147]
+coordinate_tracker1: [0.0214783, 0.780157, 1.52371]
+coordinate_tracker1: [0.121369, 0.786453, 2.05356]
+coordinate_tracker1: [-0.0217914, 0.756799, 2.15496]
+coordinate_tracker1: [0.210724, 0.798065, 2.04411]
+coordinate_tracker1: [0.072027, 0.785607, 1.53742]
+coordinate_tracker1: [-0.096448, 0.944313, 1.54869]
+coordinate_tracker1: [0.0189161, 0.840394, 1.64301]
+coordinate_tracker1: [-0.268798, 0.718711, 1.22074]
+coordinate_tracker2: [-0.268798, 0.718711, 1.22074]
+coordinate_truepath:x: 1.92992
+y: 0.435832
+z: 2.09236
+
+flow_path: [1.2834, 1.04849, 2.161]
+coordinate_tracker1: [0.113372, 0.837753, 2.02341]
+coordinate_tracker1: [-0.0204783, 0.81604, 2.09011]
+coordinate_tracker1: [0.205356, 0.841916, 2.03156]
+coordinate_tracker1: [0.0198643, 0.823563, 1.53432]
+coordinate_tracker1: [0.075003, 0.825703, 1.54014]
+coordinate_tracker1: [-0.101221, 0.991697, 1.50513]
+coordinate_tracker1: [0.0198646, 0.87136, 1.62487]
+coordinate_tracker1: [-0.26765, 0.75594, 1.24068]
+coordinate_tracker2: [-0.26765, 0.75594, 1.24068]
+coordinate_truepath:x: 1.90562
+y: 0.470764
+z: 2.09371
+
+flow_path: [1.25809, 1.07423, 2.174]
+coordinate_tracker1: [0.0843911, 0.855303, 2.03991]
+coordinate_tracker1: [-0.00516917, 0.842322, 1.5158]
+coordinate_tracker1: [-0.111067, 1.01713, 1.51837]
+coordinate_tracker1: [-0.00545457, 0.906825, 1.63761]
+coordinate_tracker1: [-0.281005, 0.769804, 1.21391]
+coordinate_tracker1: [-0.0388801, 0.840001, 2.0861]
+coordinate_tracker1: [0.186069, 0.881099, 2.03513]
+coordinate_tracker1: [0.0523723, 0.84049, 1.50784]
+coordinate_tracker2: [0.0523723, 0.84049, 1.50784]
+flow_path: [1.23522, 1.11586, 2.174]
+coordinate_truepath:x: 1.87886
+y: 0.509486
+z: 2.09274
+
+coordinate_tracker1: [-0.00698844, 0.889487, 1.54391]
+coordinate_tracker1: [0.0496642, 0.892122, 1.55262]
+coordinate_tracker1: [0.0829237, 0.914797, 1.99447]
+coordinate_tracker1: [-0.0419804, 0.916173, 1.99249]
+coordinate_tracker1: [0.175657, 0.912841, 2.01709]
+coordinate_tracker1: [-0.127394, 1.04679, 1.532]
+coordinate_tracker1: [-0.0135473, 0.939915, 1.63326]
+coordinate_tracker1: [-0.284447, 0.812956, 1.21976]
+coordinate_tracker2: [-0.284447, 0.812956, 1.21976]
+flow_path: [1.21313, 1.16098, 2.161]
+coordinate_truepath:x: 1.85636
+y: 0.549519
+z: 2.09169
+
+coordinate_tracker1: [0.0536779, 0.974988, 1.93756]
+coordinate_tracker1: [-0.0259022, 0.941757, 1.54882]
+coordinate_tracker1: [-0.171405, 1.10241, 1.44898]
+coordinate_tracker1: [-0.0311433, 0.976687, 1.60794]
+coordinate_tracker1: [-0.294369, 0.8701, 1.27751]
+coordinate_tracker1: [-0.0675413, 0.975618, 1.92083]
+coordinate_tracker1: [0.160037, 0.962396, 1.99418]
+coordinate_tracker1: [0.0327776, 0.93573, 1.53872]
+coordinate_tracker2: [0.0327776, 0.93573, 1.53872]
+coordinate_truepath:x: 1.83659
+y: 0.599672
+z: 2.09089
+
+flow_path: [1.18837, 1.19467, 2.16]
+coordinate_tracker2: [0.0327776, 0.93573, 1.53872]
+coordinate_tracker2: [0.0327776, 0.93573, 1.53872]
+coordinate_truepath:x: 1.814
+y: 0.730707
+z: 2.09324
+
+flow_path: [1.15504, 1.32162, 2.152]
+coordinate_tracker1: [-0.0435083, 0.162207, 1.68104]
+coordinate_tracker1: [-0.064262, 0.129456, 1.77865]
+coordinate_tracker1: [-0.0331165, 0.16505, 1.67763]
+coordinate_tracker1: [-0.20975, 0.162013, 1.99065]
+coordinate_tracker1: [-0.0224293, 0.131619, 1.79416]
+coordinate_tracker1: [-0.292423, 0.247193, 1.28096]
+coordinate_tracker1: [-0.0782479, 0.132741, 1.59697]
+coordinate_tracker1: [-0.253775, 0.0022527, 1.3917]
+coordinate_tracker2: [-0.253775, 0.0022527, 1.3917]
+coordinate_truepath:x: 1.81253
+y: 0.81819
+z: 2.09482
+
+flow_path: [1.1336, 1.37593, 2.162]
+coordinate_tracker1: [-0.0397464, 0.241067, 1.54064]
+coordinate_tracker1: [-0.0317992, 0.246126, 1.86826]
+coordinate_tracker1: [-0.31772, 0.291673, 1.20263]
+coordinate_tracker1: [-0.0811337, 0.168079, 1.56663]
+coordinate_tracker1: [-0.240439, 0.0801799, 1.42963]
+coordinate_tracker1: [-0.0474678, 0.247337, 1.54205]
+coordinate_tracker1: [0.121703, 0.202444, 1.97256]
+coordinate_tracker1: [-0.0761658, 0.248164, 1.85972]
+coordinate_tracker2: [-0.0761658, 0.248164, 1.85972]
+coordinate_truepath:x: 1.81835
+y: 0.914153
+z: 2.09535
+
+flow_path: [1.12982, 1.46805, 2.16]
+coordinate_tracker1: [-0.0405846, 0.314498, 1.5628]
+coordinate_tracker1: [-0.0380049, 0.317579, 1.58363]
+coordinate_tracker1: [-0.32075, 0.352992, 1.2148]
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+coordinate_truepath:x: 1.8307
+y: 1.01278
+z: 2.09456
+
+flow_path: [1.10391, 1.54811, 2.153]
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+coordinate_truepath:x: 1.87726
+y: 1.22562
+z: 2.08938
+
+flow_path: [1.10261, 1.71895, 2.15]
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+flow_path: [1.12337, 1.77517, 2.156]
+coordinate_truepath:x: 1.90273
+y: 1.30842
+z: 2.08574
+
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+coordinate_truepath:x: 1.93664
+y: 1.39976
+z: 2.08052
+
+flow_path: [1.14832, 1.85783, 2.151]
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+coordinate_truepath:x: 1.96721
+y: 1.46981
+z: 2.07566
+
+flow_path: [1.18724, 1.91441, 2.151]
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+coordinate_truepath:x: 1.99356
+y: 1.52361
+z: 2.07169
+
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+flow_path: [1.17369, 1.98559, 2.137]
+coordinate_truepath:x: 2.01916
+y: 1.57136
+z: 2.06837
+
+coordinate_tracker2: [-0.32075, 0.352992, 1.2148]
+coordinate_truepath:x: 2.0423
+y: 1.61
+z: 2.0665
+
+coordinate_tracker1: [0.130284, 0.00216617, 1.75583]
+coordinate_tracker1: [0.105413, 0.0420951, 1.61895]
+coordinate_tracker1: [0.084585, 0.0366695, 1.71007]
+coordinate_tracker1: [0.293419, -0.00504596, 1.93433]
+coordinate_tracker1: [0.0977016, -0.00448915, 1.71929]
+coordinate_tracker1: [-0.160749, 0.130633, 1.24282]
+coordinate_tracker1: [0.0630356, -0.00458524, 1.55934]
+coordinate_tracker1: [-0.092041, -0.114419, 1.38052]
+coordinate_tracker2: [-0.092041, -0.114419, 1.38052]
+flow_path: [1.18907, 2.02879, 2.122]
+coordinate_truepath:x: 2.0595
+y: 1.63793
+z: 2.06611
+
+coordinate_tracker1: [0.120305, 0.0746165, 1.61533]
+coordinate_tracker1: [0.150493, 0.0353629, 1.75809]
+coordinate_tracker1: [-0.149813, 0.156594, 1.22342]
+coordinate_tracker1: [0.0791046, 0.0191103, 1.55795]
+coordinate_tracker1: [-0.0821898, -0.0918319, 1.38798]
+coordinate_tracker1: [0.101699, 0.0652455, 1.70128]
+coordinate_tracker1: [0.294056, 0.0345845, 1.93035]
+coordinate_tracker1: [0.11803, 0.0319121, 1.73336]
+coordinate_tracker2: [0.11803, 0.0319121, 1.73336]
+flow_path: [1.17786, 2.01874, 2.127]
+coordinate_truepath:x: 2.07417
+y: 1.66385
+z: 2.06683
+
+coordinate_tracker1: [0.127678, 0.105712, 1.60543]
+coordinate_tracker1: [0.160195, 0.0727064, 1.78993]
+coordinate_tracker1: [-0.138519, 0.174657, 1.23944]
+coordinate_tracker1: [0.0876311, 0.0371631, 1.5706]
+coordinate_tracker1: [-0.0732922, -0.0659072, 1.40555]
+coordinate_tracker1: [0.112669, 0.103388, 1.67536]
+coordinate_tracker1: [0.302459, 0.0603364, 1.93772]
+coordinate_tracker1: [0.125865, 0.0741569, 1.77947]
+coordinate_tracker2: [0.125865, 0.0741569, 1.77947]
+coordinate_truepath:x: 2.07962
+y: 1.68343
+z: 2.06876
+
+coordinate_tracker1: [0.320797, 0.108421, 1.92737]
+coordinate_tracker1: [0.140636, 0.126313, 1.6212]
+coordinate_tracker1: [0.129802, 0.118776, 1.69601]
+coordinate_tracker1: [0.177154, 0.0894351, 1.74867]
+coordinate_tracker1: [0.138759, 0.0888121, 1.75313]
+coordinate_tracker1: [-0.13606, 0.180443, 1.27025]
+coordinate_tracker1: [0.104868, 0.0785713, 1.5648]
+coordinate_tracker1: [-0.0814327, -0.023832, 1.4236]
+coordinate_tracker2: [-0.0814327, -0.023832, 1.4236]
+flow_path: [1.19502, 2.02689, 2.123]
+coordinate_truepath:x: 2.07663
+y: 1.69731
+z: 2.07149
+
+coordinate_tracker1: [0.135459, 0.153644, 1.58941]
+coordinate_tracker1: [0.124066, 0.156313, 1.64172]
+coordinate_tracker1: [0.329151, 0.118118, 1.92619]
+coordinate_tracker1: [0.169146, 0.129342, 1.78615]
+coordinate_tracker1: [0.132685, 0.133243, 1.81879]
+coordinate_tracker1: [-0.125983, 0.21676, 1.25355]
+coordinate_tracker1: [0.0991938, 0.102203, 1.56645]
+coordinate_tracker1: [-0.0487387, -0.0057436, 1.40037]
+coordinate_tracker2: [-0.0487387, -0.0057436, 1.40037]
+coordinate_truepath:x: 2.0595
+y: 1.71002
+z: 2.0753
+
+flow_path: [1.19722, 2.03905, 2.116]
+coordinate_tracker1: [0.141836, 0.159553, 1.59587]
+coordinate_tracker1: [0.177343, 0.127203, 1.75065]
+coordinate_tracker1: [0.131756, 0.153892, 1.66828]
+coordinate_tracker1: [0.325019, 0.142718, 1.91712]
+coordinate_tracker1: [0.138163, 0.129486, 1.77297]
+coordinate_tracker1: [-0.145387, 0.211675, 1.24445]
+coordinate_tracker1: [0.108264, 0.110783, 1.55424]
+coordinate_tracker1: [-0.0707674, 0.0193728, 1.43102]
+coordinate_tracker2: [-0.0707674, 0.0193728, 1.43102]
+flow_path: [1.20707, 2.03907, 2.124]
+coordinate_truepath:x: 2.03013
+y: 1.71765
+z: 2.07863
+
+coordinate_tracker1: [0.124446, 0.160937, 1.61887]
+coordinate_tracker1: [0.115471, 0.157748, 1.6878]
+coordinate_tracker1: [0.30099, 0.149406, 1.942]
+coordinate_tracker1: [0.156963, 0.128512, 1.76888]
+coordinate_tracker1: [0.115878, 0.129297, 1.77076]
+coordinate_tracker1: [-0.158392, 0.210272, 1.27483]
+coordinate_tracker1: [0.0872899, 0.112408, 1.57332]
+coordinate_tracker1: [-0.0935982, 0.00615934, 1.42604]
+coordinate_tracker2: [-0.0935982, 0.00615934, 1.42604]
+coordinate_truepath:x: 1.98649
+y: 1.72123
+z: 2.08123
+
+flow_path: [1.15471, 2.04829, 2.135]
+coordinate_tracker1: [0.126298, 0.149259, 1.80177]
+coordinate_tracker1: [0.085784, 0.150275, 1.80143]
+coordinate_tracker1: [0.0958001, 0.174727, 1.62334]
+coordinate_tracker1: [0.08728, 0.172805, 1.67359]
+coordinate_tracker1: [0.259412, 0.159815, 1.95682]
+coordinate_tracker1: [-0.171854, 0.235402, 1.25699]
+coordinate_tracker1: [0.0564015, 0.126056, 1.58649]
+coordinate_tracker1: [-0.0980893, 0.00335092, 1.41122]
+coordinate_tracker2: [-0.0980893, 0.00335092, 1.41122]
+coordinate_truepath:x: 1.93608
+y: 1.7211
+z: 2.08377
+
+flow_path: [1.0794, 2.01217, 2.135]
+coordinate_tracker1: [0.10638, 0.137121, 1.81217]
+coordinate_tracker1: [0.0650743, 0.135474, 1.78918]
+coordinate_tracker1: [0.0665214, 0.168954, 1.63018]
+coordinate_tracker1: [0.0565571, 0.160359, 1.6745]
+coordinate_tracker1: [0.220036, 0.150217, 1.97974]
+coordinate_tracker1: [-0.213554, 0.224064, 1.23884]
+coordinate_tracker1: [0.0297759, 0.111044, 1.58924]
+coordinate_tracker1: [-0.15245, -0.00979304, 1.43307]
+coordinate_tracker2: [-0.15245, -0.00979304, 1.43307]
+coordinate_truepath:x: 1.85968
+y: 1.71689
+z: 2.08818
+
+flow_path: [1.01087, 1.99614, 2.135]
+coordinate_tracker1: [0.0502859, 0.139498, 1.81433]
+coordinate_tracker1: [0.0102883, 0.133538, 1.78429]
+coordinate_tracker1: [-0.177918, -0.00260599, 1.40795]
+coordinate_tracker1: [-0.245358, 0.212635, 1.30944]
+coordinate_tracker1: [0.0224383, 0.165125, 1.62721]
+coordinate_tracker1: [0.00947938, 0.165105, 1.67535]
+coordinate_tracker1: [-0.012877, 0.129997, 1.59518]
+coordinate_tracker1: [0.188605, 0.148716, 1.97964]
+coordinate_tracker2: [0.188605, 0.148716, 1.97964]
+coordinate_truepath:x: 1.78917
+y: 1.7109
+z: 2.09231
+
+coordinate_tracker1: [-0.0556793, 0.133086, 1.78058]
+coordinate_tracker1: [-0.052609, 0.163609, 1.66287]
+coordinate_tracker1: [-0.0376686, 0.165369, 1.62128]
+coordinate_tracker1: [-0.196677, 0.139109, 1.97593]
+coordinate_tracker1: [-0.0202564, 0.149071, 1.84846]
+coordinate_tracker1: [-0.299174, 0.23889, 1.22699]
+coordinate_tracker1: [-0.0795453, 0.120887, 1.59956]
+coordinate_tracker1: [-0.206919, -0.00185513, 1.43193]
+coordinate_tracker2: [-0.206919, -0.00185513, 1.43193]
+flow_path: [0.861791, 1.95025, 2.078]
+coordinate_truepath:x: 1.69224
+y: 1.69987
+z: 2.09672
+
+coordinate_tracker1: [-0.128293, 0.149346, 1.66448]
+coordinate_tracker1: [-0.132966, 0.107878, 1.75577]
+coordinate_tracker1: [-0.15266, 0.11057, 1.60016]
+coordinate_tracker1: [-0.364597, 0.219456, 1.24007]
+coordinate_tracker1: [-0.113979, 0.150516, 1.64417]
+coordinate_tracker1: [-0.293304, 0.125419, 1.97418]
+coordinate_tracker1: [-0.301528, -0.0237805, 1.41716]
+coordinate_tracker1: [-0.0976417, 0.127586, 1.83548]
+coordinate_tracker2: [-0.0976417, 0.127586, 1.83548]
+coordinate_truepath:x: 1.59487
+y: 1.68672
+z: 2.09991
+
+flow_path: [0.807479, 1.92974, 2.078]
+coordinate_tracker1: [-0.141388, 0.140878, 1.65741]
+coordinate_tracker1: [-0.135953, 0.112788, 1.80404]
+coordinate_tracker1: [-0.154005, 0.140316, 1.66849]
+coordinate_tracker1: [-0.337192, 0.127462, 1.94414]
+coordinate_tracker1: [-0.17162, 0.100066, 1.72414]
+coordinate_tracker1: [-0.382077, 0.221447, 1.22265]
+coordinate_tracker1: [-0.183101, 0.0965417, 1.58563]
+coordinate_tracker1: [-0.334719, -0.0461681, 1.37048]
+coordinate_tracker2: [-0.334719, -0.0461681, 1.37048]
+coordinate_truepath:x: 1.49888
+y: 1.6718
+z: 2.10131
+
+coordinate_tracker1: [-0.212559, 0.0981861, 1.83073]
+coordinate_tracker1: [-0.21101, 0.130791, 1.6536]
+coordinate_tracker1: [-0.230148, 0.131147, 1.64152]
+coordinate_tracker1: [-0.42862, 0.0945944, 1.96208]
+coordinate_tracker1: [-0.237951, 0.0853953, 1.74738]
+coordinate_tracker1: [-0.47925, 0.192515, 1.28365]
+coordinate_tracker1: [-0.253133, 0.0897197, 1.60095]
+coordinate_tracker1: [-0.43276, -0.042538, 1.39889]
+coordinate_tracker2: [-0.43276, -0.042538, 1.39889]
+flow_path: [0.669529, 1.88316, 2.161]
+coordinate_truepath:x: 1.41253
+y: 1.65713
+z: 2.10222
+
+coordinate_tracker1: [-0.495761, -0.0661455, 1.41519]
+coordinate_tracker1: [-0.519832, 0.205626, 1.24943]
+coordinate_tracker2: [-0.519832, 0.205626, 1.24943]
+coordinate_truepath:x: 1.30557
+y: 1.63756
+z: 2.10436
+
+flow_path: [0.609102, 1.88219, 2.163]
+coordinate_tracker1: [-0.54835, -0.102811, 1.32386]
+coordinate_tracker1: [-0.586595, 0.194616, 1.28079]
+coordinate_tracker1: [-0.37327, 0.0887021, 1.72461]
+coordinate_tracker1: [-0.417717, 0.0732513, 1.62239]
+coordinate_tracker1: [-0.512939, 0.224372, 2.3147]
+coordinate_tracker2: [-0.512939, 0.224372, 2.3147]
+coordinate_truepath:x: 1.19114
+y: 1.61515
+z: 2.10902
+
+flow_path: [0.537014, 1.85106, 2.165]
+coordinate_tracker1: [-0.617734, 0.204151, 2.29843]
+coordinate_tracker1: [-0.602237, -0.040238, 2.2377]
+coordinate_tracker1: [-0.760814, -0.00977671, 1.66369]
+coordinate_tracker1: [-0.437821, 0.046652, 1.65352]
+coordinate_tracker1: [-0.758297, 0.134789, 1.70615]
+coordinate_tracker2: [-0.758297, 0.134789, 1.70615]
+coordinate_truepath:x: 1.09778
+y: 1.59795
+z: 2.11552
+
+flow_path: [0.483262, 1.84173, 2.174]
+coordinate_tracker2: [-0.758297, 0.134789, 1.70615]
+coordinate_tracker2: [-0.758297, 0.134789, 1.70615]
+coordinate_truepath:x: 0.936883
+y: 1.57574
+z: 2.13379
+
+flow_path: [0.369117, 1.7627, 2.179]
+coordinate_tracker2: [-0.758297, 0.134789, 1.70615]
+coordinate_truepath:x: 0.872131
+y: 1.57247
+z: 2.14404
+
+flow_path: [0.330556, 1.76527, 2.185]
+coordinate_tracker2: [-0.758297, 0.134789, 1.70615]
+coordinate_truepath:x: 0.825836
+y: 1.57283
+z: 2.15268
+
+flow_path: [0.310495, 1.76722, 2.189]
+coordinate_tracker1: [-0.000156105, 0.0324444, 1.72849]
+coordinate_tracker1: [0.00622149, -0.0175537, 1.7647]
+coordinate_tracker1: [-0.0247311, 0.0298529, 1.7768]
+coordinate_tracker1: [0.188791, 0.0110889, 2.05194]
+coordinate_tracker1: [-0.0234049, -0.0264106, 1.7202]
+coordinate_tracker1: [-0.28594, 0.124665, 1.33196]
+coordinate_tracker1: [-0.0471766, 0.0100748, 1.61312]
+coordinate_tracker1: [-0.244159, -0.112095, 1.40255]
+coordinate_tracker2: [-0.244159, -0.112095, 1.40255]
+coordinate_truepath:x: 0.814545
+y: 1.57324
+z: 2.15491
+
+coordinate_truepath:x: 0.810768
+y: 1.57342
+z: 2.15566
+
+coordinate_truepath:x: 0.807047
+y: 1.57361
+z: 2.15642
+
+coordinate_truepath:x: 0.803294
+y: 1.57381
+z: 2.15715
+
+coordinate_truepath:x: 0.795825
+y: 1.57427
+z: 2.15867
+
+flow_path: [0.304171, 1.76595, 2.189]
+coordinate_tracker1: [0.00301831, -0.0141758, 1.81275]
+coordinate_tracker1: [-0.000301248, 0.0390124, 1.74613]
+coordinate_tracker1: [-0.023871, 0.0339132, 1.77188]
+coordinate_tracker1: [-0.210229, 0.000901671, 2.06533]
+coordinate_tracker1: [-0.0244239, -0.00989165, 1.77998]
+coordinate_tracker1: [-0.288431, 0.123685, 1.35569]
+coordinate_tracker1: [-0.0514964, -0.00678283, 1.64426]
+coordinate_tracker1: [-0.261089, -0.124473, 1.42159]
+coordinate_tracker2: [-0.261089, -0.124473, 1.42159]
+coordinate_truepath:x: 0.795825
+y: 1.57427
+z: 2.15867
+
+coordinate_truepath:x: 0.78099
+y: 1.57532
+z: 2.16163
+
+flow_path: [0.29887, 1.76607, 2.195]
+coordinate_tracker1: [-0.0173594, -0.0121595, 1.85983]
+coordinate_tracker1: [-0.0437591, -0.016289, 1.81141]
+coordinate_tracker1: [-0.0330515, 0.0349421, 1.75511]
+coordinate_tracker1: [-0.056069, 0.0319387, 1.77672]
+coordinate_tracker1: [-0.216785, -0.0150071, 2.08437]
+coordinate_tracker1: [-0.294329, 0.123395, 1.35569]
+coordinate_tracker1: [-0.078958, -0.00760264, 1.67351]
+coordinate_tracker1: [-0.262448, -0.132548, 1.45324]
+coordinate_tracker2: [-0.262448, -0.132548, 1.45324]
+coordinate_truepath:x: 0.766352
+y: 1.57658
+z: 2.16462
+
+flow_path: [0.292617, 1.76747, 2.195]
+coordinate_tracker1: [-0.00290667, -0.0128942, 1.82013]
+coordinate_tracker1: [-0.0110832, 0.0412894, 1.72525]
+coordinate_tracker1: [-0.0364309, 0.0349415, 1.75186]
+coordinate_tracker1: [-0.225185, -0.00922346, 2.06061]
+coordinate_tracker1: [-0.0292176, -0.0088277, 1.78634]
+coordinate_tracker1: [-0.301618, 0.123666, 1.34252]
+coordinate_tracker1: [-0.0582546, -0.00414141, 1.63604]
+coordinate_tracker1: [-0.267511, -0.126084, 1.41314]
+coordinate_tracker2: [-0.267511, -0.126084, 1.41314]
+flow_path: [0.276495, 1.77163, 2.195]
+coordinate_truepath:x: 0.751887
+y: 1.57799
+z: 2.16753
+
+coordinate_tracker1: [-0.0322815, 0.0384643, 1.72924]
+coordinate_tracker1: [-0.0338562, -0.0142062, 1.80029]
+coordinate_tracker1: [-0.0555379, 0.037776, 1.76179]
+coordinate_tracker1: [-0.246764, 0.00795091, 2.05595]
+coordinate_tracker1: [-0.063209, -0.0136832, 1.75116]
+coordinate_tracker1: [-0.323695, 0.126728, 1.33639]
+coordinate_tracker1: [-0.0824538, -0.00460486, 1.62746]
+coordinate_tracker1: [-0.28732, -0.118708, 1.4085]
+coordinate_tracker2: [-0.28732, -0.118708, 1.4085]
+coordinate_truepath:x: 0.748273
+y: 1.57838
+z: 2.16826
+
+flow_path: [0.267695, 1.77445, 2.201]
+coordinate_truepath:x: 0.73753
+y: 1.57964
+z: 2.1704
+
+coordinate_tracker1: [-0.257697, 0.0200948, 2.0635]
+coordinate_tracker1: [-0.0530196, 0.0356558, 1.76776]
+coordinate_tracker1: [-0.0767143, 0.0282197, 1.81174]
+coordinate_tracker1: [-0.0406625, -0.0158627, 1.80134]
+coordinate_tracker1: [-0.0678923, -0.0196308, 1.73487]
+coordinate_tracker1: [-0.331759, 0.116425, 1.3735]
+coordinate_tracker1: [-0.0963562, 0.011246, 1.65233]
+coordinate_tracker1: [-0.300998, -0.119034, 1.43237]
+coordinate_tracker2: [-0.300998, -0.119034, 1.43237]
+coordinate_tracker1: [-0.0883931, 0.0569789, 1.74365]
+coordinate_tracker1: [-0.109382, 0.056902, 1.75046]
+coordinate_tracker1: [-0.286892, 0.0201129, 2.07234]
+coordinate_tracker1: [-0.0790079, 0.00868329, 1.81972]
+coordinate_tracker1: [-0.108365, -0.00196048, 1.77585]
+coordinate_tracker1: [-0.350707, 0.15212, 1.31983]
+coordinate_tracker1: [-0.130263, 0.0224104, 1.64312]
+coordinate_tracker1: [-0.321969, -0.0996733, 1.42992]
+coordinate_tracker2: [-0.321969, -0.0996733, 1.42992]
+flow_path: [0.168656, 1.75919, 2.233]
+coordinate_truepath:x: 0.601166
+y: 1.60284
+z: 2.1983
+
+coordinate_tracker1: [-0.164531, 0.0250496, 1.83242]
+coordinate_tracker1: [-0.13958, 0.0263019, 1.87796]
+coordinate_tracker1: [-0.130681, 0.0731014, 1.73671]
+coordinate_tracker1: [-0.152297, 0.0755869, 1.72745]
+coordinate_tracker1: [-0.348652, 0.0202446, 2.07078]
+coordinate_tracker1: [-0.405058, 0.156043, 1.34964]
+coordinate_tracker1: [-0.178354, 0.0202067, 1.66895]
+coordinate_tracker1: [-0.364392, -0.0924645, 1.4446]
+coordinate_tracker2: [-0.364392, -0.0924645, 1.4446]
+coordinate_truepath:x: 0.560436
+y: 1.6116
+z: 2.20654
+
+flow_path: [0.136567, 1.75162, 2.241]
+coordinate_tracker1: [-0.16544, 0.087782, 1.78609]
+coordinate_tracker1: [-0.157846, 0.035851, 1.90226]
+coordinate_tracker1: [-0.181864, 0.0813037, 1.78421]
+coordinate_tracker1: [-0.38647, 0.0497399, 2.0946]
+coordinate_tracker1: [-0.184538, 0.0331341, 1.83118]
+coordinate_tracker1: [-0.435983, 0.171783, 1.36272]
+coordinate_tracker1: [-0.209953, 0.0447217, 1.70876]
+coordinate_tracker1: [-0.407942, -0.0854331, 1.48918]
+coordinate_tracker2: [-0.407942, -0.0854331, 1.48918]
+coordinate_truepath:x: 0.516614
+y: 1.6216
+z: 2.2152
+
+flow_path: [0.0930113, 1.7694, 2.254]
+coordinate_tracker1: [-0.196788, 0.0329728, 1.87463]
+coordinate_tracker1: [-0.2286, 0.0281376, 1.80253]
+coordinate_tracker1: [-0.20644, 0.0824991, 1.78702]
+coordinate_tracker1: [-0.216236, 0.0854618, 1.77608]
+coordinate_tracker1: [-0.420056, 0.0611925, 2.08581]
+coordinate_tracker1: [-0.456045, 0.15007, 1.38611]
+coordinate_tracker1: [-0.243938, 0.0389165, 1.69638]
+coordinate_tracker1: [-0.45086, -0.093519, 1.4631]
+coordinate_tracker2: [-0.45086, -0.093519, 1.4631]
+flow_path: [0.0560599, 1.77819, 2.26]
+coordinate_truepath:x: 0.471712
+y: 1.63289
+z: 2.22405
+
+coordinate_tracker2: [-0.45086, -0.093519, 1.4631]
+coordinate_truepath:x: 0.435156
+y: 1.64308
+z: 2.23151
+
+flow_path: [0.0368485, 1.78638, 2.275]
+coordinate_tracker2: [-0.45086, -0.093519, 1.4631]
+coordinate_truepath:x: 0.409168
+y: 1.65124
+z: 2.23711
+
+flow_path: [0.0151447, 1.81195, 2.275]
+coordinate_tracker1: [-0.268869, 0.121391, 1.79503]
+coordinate_tracker1: [-0.270448, 0.0754308, 1.94431]
+coordinate_tracker1: [-0.514865, 0.198181, 1.35142]
+coordinate_tracker1: [-0.312333, 0.0693016, 1.73692]
+coordinate_tracker1: [-0.496601, -0.0618419, 1.51441]
+coordinate_tracker1: [-0.278637, 0.117787, 1.78162]
+coordinate_tracker1: [-0.493251, 0.0902617, 2.09349]
+coordinate_tracker1: [-0.2952, 0.0700116, 1.85172]
+coordinate_tracker1: [-0.845293, 0.232636, 1.09197]
+coordinate_tracker1: [-0.607381, 0.0109282, 1.43223]
+coordinate_tracker1: [-0.796113, -0.146893, 1.26929]
+coordinate_tracker2: [-0.796113, -0.146893, 1.26929]
+coordinate_truepath:x: 0.403553
+y: 1.65308
+z: 2.23838
+
+flow_path: [0.0103354, 1.81638, 2.275]
+coordinate_tracker1: [-0.264301, 0.115206, 1.79275]
+coordinate_tracker1: [-0.265555, 0.062769, 1.92077]
+coordinate_tracker1: [-0.526029, 0.182487, 1.38872]
+coordinate_tracker1: [-0.307278, 0.0681273, 1.72408]
+coordinate_tracker1: [-0.502446, -0.0841332, 1.45743]
+coordinate_tracker1: [-0.823004, 0.218843, 1.16054]
+coordinate_tracker1: [-0.614605, 0.0325988, 1.41131]
+coordinate_tracker1: [-0.80697, -0.202404, 1.10717]
+coordinate_tracker1: [-0.276507, 0.111592, 1.76915]
+coordinate_tracker1: [-0.502686, 0.0809561, 2.08624]
+coordinate_tracker1: [-0.289587, 0.0652228, 1.84536]
+coordinate_tracker2: [-0.289587, 0.0652228, 1.84536]
+coordinate_truepath:x: 0.363228
+y: 1.6649
+z: 2.24808
+
+flow_path: [0.00190621, 1.83125, 2.287]
+coordinate_tracker1: [-0.566623, 0.187271, 1.37978]
+coordinate_tracker1: [-0.534247, -0.0529819, 1.53901]
+coordinate_tracker1: [-0.853964, 0.210878, 1.17242]
+coordinate_tracker1: [-0.64362, 0.0286224, 1.4536]
+coordinate_tracker1: [-0.816343, -0.168621, 1.21421]
+coordinate_tracker1: [-0.30146, 0.129444, 1.77105]
+coordinate_tracker1: [-0.347645, 0.0774353, 1.7488]
+coordinate_tracker1: [-0.420801, 0.270492, 2.53173]
+coordinate_tracker2: [-0.420801, 0.270492, 2.53173]
+flow_path: [-0.0130698, 1.8168, 2.293]
+coordinate_truepath:x: 0.333896
+y: 1.67182
+z: 2.25485
+
+coordinate_tracker1: [-0.312353, 0.141511, 1.78731]
+coordinate_tracker1: [-0.323121, 0.0966598, 1.97435]
+coordinate_tracker1: [-0.573522, 0.213128, 1.36305]
+coordinate_tracker1: [-0.359613, 0.0942492, 1.75373]
+coordinate_tracker1: [-0.536517, -0.0400361, 1.53329]
+coordinate_tracker1: [-0.89215, 0.237031, 1.1376]
+coordinate_tracker1: [-0.656782, 0.0544197, 1.4554]
+coordinate_tracker1: [-0.838055, -0.128257, 1.2786]
+coordinate_tracker2: [-0.838055, -0.128257, 1.2786]
+coordinate_truepath:x: 0.270581
+y: 1.67898
+z: 2.26423
+
+flow_path: [-0.0287387, 1.80833, 2.313]
+coordinate_tracker1: [-0.600889, 0.224192, 1.33897]
+coordinate_tracker1: [-0.347899, 0.138657, 1.79723]
+coordinate_tracker1: [-0.39743, 0.09715, 1.76296]
+coordinate_tracker1: [-0.556486, -0.0472086, 1.5305]
+coordinate_tracker1: [-0.360667, 0.092595, 1.98235]
+coordinate_tracker1: [-0.948493, 0.246838, 1.11127]
+coordinate_tracker1: [-0.690978, 0.0660503, 1.4536]
+coordinate_tracker1: [-0.877138, -0.120873, 1.30995]
+coordinate_tracker2: [-0.877138, -0.120873, 1.30995]
+coordinate_truepath:x: 0.243697
+y: 1.68117
+z: 2.26559
+
+flow_path: [-0.0520858, 1.81172, 2.314]
+coordinate_tracker2: [-0.877138, -0.120873, 1.30995]
+coordinate_truepath:x: 0.233469
+y: 1.68212
+z: 2.26588
+
+flow_path: [-0.0563507, 1.80316, 2.314]
+coordinate_tracker2: [-0.877138, -0.120873, 1.30995]
+flow_path: [-0.058034, 1.80266, 2.314]
+coordinate_truepath:x: 0.228458
+y: 1.68267
+z: 2.26586
+
+coordinate_tracker2: [-0.877138, -0.120873, 1.30995]
+coordinate_truepath:x: 0.223493
+y: 1.68331
+z: 2.26592
+
+flow_path: [-0.0579058, 1.80634, 2.314]
+coordinate_tracker2: [-0.877138, -0.120873, 1.30995]
+coordinate_truepath:x: 0.212354
+y: 1.6849
+z: 2.26567
+
+flow_path: [-0.0601706, 1.80691, 2.314]
+coordinate_tracker1: [0.254473, 0.163208, 1.74085]
+coordinate_tracker1: [0.248359, 0.168513, 1.79356]
+coordinate_tracker1: [0.491364, 0.119738, 2.13429]
+coordinate_tracker1: [0.309164, 0.130408, 1.96401]
+coordinate_tracker1: [0.280177, 0.127208, 1.99616]
+coordinate_tracker1: [-0.0360641, 0.214909, 1.41332]
+coordinate_tracker1: [0.224851, 0.106281, 1.74104]
+coordinate_tracker1: [0.0562157, 0.0142505, 1.60256]
+coordinate_tracker2: [0.0562157, 0.0142505, 1.60256]
+flow_path: [0.0137154, 1.80119, 2.314]
+coordinate_truepath:x: 0.156777
+y: 1.6958
+z: 2.26072
+
+coordinate_tracker1: [-0.056823, 0.192933, 1.47414]
+coordinate_tracker1: [-0.0150964, 0.0100996, 1.6015]
+coordinate_tracker1: [0.441043, 0.150995, 2.14103]
+coordinate_tracker2: [0.441043, 0.150995, 2.14103]
+flow_path: [-0.00056986, 1.82315, 2.308]
+coordinate_truepath:x: 0.10126
+y: 1.7036
+z: 2.25432
+
+coordinate_tracker1: [0.399286, 0.161022, 2.12938]
+coordinate_tracker1: [-0.0997388, 0.21233, 1.43922]
+coordinate_tracker1: [-0.0305002, 0.0154701, 1.56442]
+coordinate_tracker1: [0.1805, 0.175887, 1.75481]
+coordinate_tracker1: [0.176161, 0.181897, 1.81583]
+coordinate_tracker1: [0.148852, 0.129397, 1.73189]
+coordinate_tracker1: [0.22156, 0.141879, 1.92718]
+coordinate_tracker1: [0.183971, 0.135337, 1.929]
+coordinate_tracker2: [0.183971, 0.135337, 1.929]
+flow_path: [-0.0305777, 1.80802, 2.298]
+coordinate_truepath:x: 0.0611969
+y: 1.67951
+z: 2.24561
+
+coordinate_tracker1: [0.143589, 0.175872, 1.72902]
+coordinate_tracker1: [0.186171, 0.148666, 1.94657]
+coordinate_tracker1: [0.137205, 0.181564, 1.78844]
+coordinate_tracker1: [0.369185, 0.152476, 2.12648]
+coordinate_tracker1: [0.149072, 0.135651, 1.93672]
+coordinate_tracker1: [-0.138818, 0.217269, 1.38445]
+coordinate_tracker1: [0.114258, 0.121089, 1.72526]
+coordinate_tracker1: [-0.0438535, 0.0272483, 1.59813]
+coordinate_tracker2: [-0.0438535, 0.0272483, 1.59813]
+flow_path: [-0.0455148, 1.69699, 2.305]
+coordinate_truepath:x: 0.0321958
+y: 1.60976
+z: 2.23289
+
+coordinate_tracker1: [0.12737, 0.11163, 1.83767]
+coordinate_tracker1: [0.135279, 0.0572921, 1.85664]
+coordinate_tracker1: [0.14052, 0.108903, 1.75694]
+coordinate_tracker1: [0.346528, 0.0866777, 2.12017]
+coordinate_tracker1: [0.167937, 0.0634719, 1.88478]
+coordinate_tracker1: [-0.154244, 0.147567, 1.45557]
+coordinate_tracker1: [0.102844, 0.0695229, 1.71007]
+coordinate_tracker1: [-0.0933283, -0.0516501, 1.52167]
+coordinate_tracker2: [-0.0933283, -0.0516501, 1.52167]
+flow_path: [-0.0453205, 1.61496, 2.29]
+coordinate_truepath:x: 0.0191474
+y: 1.54075
+z: 2.2218
+
+coordinate_tracker1: [0.126879, 0.0271182, 1.84058]
+coordinate_tracker1: [0.144681, -0.0186264, 1.84375]
+coordinate_tracker1: [0.111877, 0.0235726, 1.92698]
+coordinate_tracker1: [0.335324, 0.0265634, 2.13226]
+coordinate_tracker1: [0.115391, -0.0326569, 1.80464]
+coordinate_tracker1: [-0.134621, 0.0898014, 1.48075]
+coordinate_tracker1: [0.0854209, 0.00899324, 1.73153]
+coordinate_tracker1: [-0.103277, -0.109118, 1.53945]
+coordinate_tracker2: [-0.103277, -0.109118, 1.53945]
+coordinate_truepath:x: 0.00766433
+y: 1.38374
+z: 2.19704
+
+flow_path: [-0.0522469, 1.4948, 2.26]
+coordinate_tracker1: [0.134648, -0.16689, 1.78098]
+coordinate_tracker1: [0.116695, -0.173184, 1.69854]
+coordinate_tracker1: [-0.10605, -0.230373, 1.49974]
+coordinate_tracker2: [-0.10605, -0.230373, 1.49974]
+coordinate_truepath:x: 0.0125772
+y: 1.13604
+z: 2.15141
+
+flow_path: [0.0054529, 1.28797, 2.239]
+coordinate_tracker2: [-0.10605, -0.230373, 1.49974]
+flow_path: [0.0287826, 1.14632, 2.198]
+coordinate_tracker2: [-0.10605, -0.230373, 1.49974]
+coordinate_truepath:x: 0.016535
+y: 0.776567
+z: 2.07272
+
+flow_path: [0.00444811, 0.990664, 2.171]
+coordinate_tracker2: [-0.10605, -0.230373, 1.49974]
+coordinate_truepath:x: 0.0049453
+y: 0.629752
+z: 2.03401
+
+flow_path: [-0.0604898, 0.896702, 2.132]
+coordinate_tracker1: [0.0821508, 0.172314, 1.64409]
+coordinate_tracker1: [-0.19016, 0.241115, 1.31519]
+coordinate_tracker1: [0.0727788, 0.177508, 1.64822]
+coordinate_tracker1: [0.0370061, 0.135541, 1.57481]
+coordinate_tracker1: [0.279643, 0.159032, 1.9595]
+coordinate_tracker1: [-0.156796, 0.0590116, 1.43612]
+coordinate_tracker1: [0.0913586, 0.140349, 1.74911]
+coordinate_tracker1: [0.0471699, 0.143474, 1.80971]
+coordinate_tracker2: [0.0471699, 0.143474, 1.80971]
+coordinate_truepath:x: 0.000854337
+y: 0.565913
+z: 2.01592
+
+flow_path: [-0.0567774, 0.836679, 2.101]
+coordinate_tracker1: [0.0800859, 0.113826, 1.65577]
+coordinate_tracker1: [0.0814481, 0.0757059, 1.71606]
+coordinate_tracker1: [-0.182375, 0.19903, 1.30767]
+coordinate_tracker1: [0.0264974, 0.0766784, 1.55956]
+coordinate_tracker1: [-0.174278, -0.0161503, 1.37452]
+coordinate_tracker1: [0.0612313, 0.116515, 1.63898]
+coordinate_tracker1: [0.252206, 0.0915011, 1.93912]
+coordinate_tracker1: [0.0466865, 0.0836835, 1.78142]
+coordinate_tracker2: [0.0466865, 0.0836835, 1.78142]
+coordinate_truepath:x: -0.000545405
+y: 0.506879
+z: 1.9979
+
+flow_path: [-0.0769173, 0.757682, 2.095]
+coordinate_tracker1: [0.0474598, 0.0335997, 1.6923]
+coordinate_tracker1: [0.0362828, -0.00977414, 1.67659]
+coordinate_tracker1: [0.0718902, 0.0321547, 1.69916]
+coordinate_tracker1: [0.246844, 0.0336363, 1.91841]
+coordinate_tracker1: [0.0685429, -0.00940193, 1.63293]
+coordinate_tracker1: [-0.177644, 0.136448, 1.34091]
+coordinate_tracker1: [0.0151075, 0.0371879, 1.53338]
+coordinate_tracker1: [-0.203236, -0.0935072, 1.27838]
+coordinate_tracker2: [-0.203236, -0.0935072, 1.27838]
+flow_path: [-0.0705912, 0.712555, 2.095]
+coordinate_truepath:x: 0.00228384
+y: 0.452386
+z: 1.98097
+
+coordinate_tracker1: [0.0758975, -0.011734, 1.68773]
+coordinate_tracker1: [0.0644257, -0.0540409, 1.64056]
+coordinate_tracker1: [-0.18545, 0.0917968, 1.34625]
+coordinate_tracker1: [0.0126726, -0.0270951, 1.53256]
+coordinate_tracker1: [-0.221625, -0.130261, 1.28611]
+coordinate_tracker1: [0.0457355, -0.00753168, 1.6724]
+coordinate_tracker1: [0.230202, -0.0387889, 1.91727]
+coordinate_tracker1: [0.0383994, -0.0469782, 1.68706]
+coordinate_tracker2: [0.0383994, -0.0469782, 1.68706]
+coordinate_truepath:x: 0.00901533
+y: 0.397806
+z: 1.96541
+
+coordinate_tracker1: [0.075737, -0.0957398, 1.70423]
+coordinate_tracker1: [0.0540037, -0.124927, 1.59025]
+coordinate_tracker1: [-0.162329, 0.0268593, 1.36127]
+coordinate_tracker1: [0.0104598, -0.0808859, 1.5172]
+coordinate_tracker1: [-0.206665, -0.192966, 1.22293]
+coordinate_tracker1: [0.0344015, -0.0868903, 1.70938]
+coordinate_tracker1: [0.248922, -0.112927, 1.89175]
+coordinate_tracker1: [0.0383216, -0.126772, 1.62312]
+coordinate_tracker2: [0.0383216, -0.126772, 1.62312]
+flow_path: [-0.0513464, 0.647199, 2.044]
+coordinate_truepath:x: 0.0179085
+y: 0.349726
+z: 1.95259
+
+coordinate_tracker2: [0.0383216, -0.126772, 1.62312]
+flow_path: [-0.0407611, 0.614152, 2.026]
+coordinate_truepath:x: 0.0292086
+y: 0.301693
+z: 1.94086
+
+coordinate_tracker2: [0.0383216, -0.126772, 1.62312]
+coordinate_truepath:x: 0.041884
+y: 0.251214
+z: 1.93091
+
+coordinate_tracker1: [0.0574687, 0.748631, 1.41685]
+coordinate_tracker1: [-0.214864, 0.722146, 1.18152]
+coordinate_tracker1: [0.102798, 0.729792, 1.36838]
+coordinate_tracker2: [0.102798, 0.729792, 1.36838]
+flow_path: [-0.00112142, 0.528941, 2.011]
+coordinate_truepath:x: 0.0554183
+y: 0.194636
+z: 1.92307
+
+coordinate_tracker1: [0.0652774, 0.681417, 1.46406]
+coordinate_tracker1: [-0.211768, 0.664421, 1.2178]
+coordinate_tracker1: [0.107675, 0.674619, 1.44045]
+coordinate_tracker2: [0.107675, 0.674619, 1.44045]
+coordinate_truepath:x: 0.0672984
+y: 0.142794
+z: 1.91758
+
+coordinate_tracker1: [0.0750129, 0.636701, 1.37485]
+coordinate_tracker1: [0.109868, 0.617552, 1.31089]
+coordinate_tracker1: [-0.199956, 0.632305, 1.16007]
+coordinate_tracker2: [-0.199956, 0.632305, 1.16007]
+flow_path: [0.0446352, 0.428188, 2]
+coordinate_truepath:x: 0.0796157
+y: 0.0793653
+z: 1.91208
+
+coordinate_tracker1: [0.0876399, 0.595792, 1.43972]
+coordinate_tracker1: [0.118435, 0.581628, 1.39595]
+coordinate_tracker1: [-0.192078, 0.591019, 1.15633]
+coordinate_tracker2: [-0.192078, 0.591019, 1.15633]
+flow_path: [0.0379007, 0.370685, 1.992]
+coordinate_truepath:x: 0.0898817
+y: 0.010457
+z: 1.90653
+
+coordinate_tracker2: [-0.192078, 0.591019, 1.15633]
+flow_path: [0.0678053, 0.330043, 1.991]
+coordinate_truepath:x: 0.096516
+y: -0.0494801
+z: 1.90056
+
+coordinate_tracker2: [-0.192078, 0.591019, 1.15633]
+coordinate_truepath:x: 0.102541
+y: -0.112515
+z: 1.89493
+
+flow_path: [0.064049, 0.274177, 1.982]
+coordinate_tracker1: [0.120392, 0.429259, 1.44253]
+coordinate_tracker1: [-0.152654, 0.473706, 1.15622]
+coordinate_tracker1: [0.130464, 0.42057, 1.37362]
+coordinate_tracker2: [0.130464, 0.42057, 1.37362]
+coordinate_truepath:x: 0.109909
+y: -0.152936
+z: 1.89411
+
+coordinate_tracker1: [0.13321, 0.357572, 1.43989]
+coordinate_tracker1: [0.129036, 0.362138, 1.48003]
+coordinate_tracker1: [-0.15762, 0.413776, 1.19064]
+coordinate_tracker2: [-0.15762, 0.413776, 1.19064]
+flow_path: [0.11879, 0.243866, 1.97]
+coordinate_truepath:x: 0.120668
+y: -0.181925
+z: 1.89815
+
+coordinate_tracker1: [0.129249, 0.338446, 1.51745]
+coordinate_tracker1: [0.132887, 0.337388, 1.45431]
+coordinate_tracker1: [-0.111977, 0.397157, 1.25386]
+coordinate_tracker2: [-0.111977, 0.397157, 1.25386]
+coordinate_truepath:x: 0.137796
+y: -0.198935
+z: 1.90426
+
+flow_path: [0.124475, 0.226454, 1.97]
+coordinate_tracker1: [0.135589, 0.323388, 1.41403]
+coordinate_tracker1: [0.136308, 0.321468, 1.47995]
+coordinate_tracker1: [-0.119272, 0.37838, 1.20485]
+coordinate_tracker2: [-0.119272, 0.37838, 1.20485]
+flow_path: [0.149706, 0.251557, 1.977]
+coordinate_truepath:x: 0.169095
+y: -0.202721
+z: 1.90969
+
+coordinate_tracker1: [0.159364, 0.307585, 1.5156]
+coordinate_tracker1: [-0.0862807, 0.360758, 1.21671]
+coordinate_tracker1: [0.155755, 0.306757, 1.45447]
+coordinate_tracker2: [0.155755, 0.306757, 1.45447]
+coordinate_truepath:x: 0.215225
+y: -0.194884
+z: 1.9133
+
+flow_path: [0.200553, 0.270073, 1.977]
+coordinate_tracker1: [0.200337, 0.31995, 1.51086]
+coordinate_tracker1: [-0.0618255, 0.382804, 1.21086]
+coordinate_tracker1: [0.198247, 0.318673, 1.45435]
+coordinate_tracker2: [0.198247, 0.318673, 1.45435]
+coordinate_truepath:x: 0.273247
+y: -0.179921
+z: 1.91635
+
+flow_path: [0.254836, 0.261277, 1.979]
+coordinate_tracker1: [0.242183, 0.326642, 1.49368]
+coordinate_tracker1: [0.241438, 0.326257, 1.44245]
+coordinate_tracker2: [0.241438, 0.326257, 1.44245]
+coordinate_truepath:x: 0.3522
+y: -0.157054
+z: 1.92083
+
+coordinate_tracker2: [0.241438, 0.326257, 1.44245]
+flow_path: [0.395772, 0.280966, 1.99]
+coordinate_truepath:x: 0.419299
+y: -0.136374
+z: 1.9255
+
+coordinate_tracker1: [0.328296, 0.366104, 1.4776]
+coordinate_tracker1: [0.455392, 0.317676, 2.07135]
+coordinate_tracker2: [0.455392, 0.317676, 2.07135]
+flow_path: [0.467263, 0.298793, 1.999]
+coordinate_truepath:x: 0.489275
+y: -0.112338
+z: 1.9308
+
+coordinate_tracker1: [0.5208, 0.327513, 2.04665]
+coordinate_tracker1: [0.377215, 0.369186, 1.46191]
+coordinate_tracker2: [0.377215, 0.369186, 1.46191]
+flow_path: [0.534525, 0.300047, 1.999]
+coordinate_truepath:x: 0.557523
+y: -0.0867044
+z: 1.93536
+
+coordinate_tracker1: [0.575221, 0.343522, 2.05968]
+coordinate_tracker1: [0.415445, 0.385399, 1.50491]
+coordinate_tracker2: [0.415445, 0.385399, 1.50491]
+coordinate_truepath:x: 0.619565
+y: -0.0615772
+z: 1.93902
+
+flow_path: [0.585528, 0.306959, 2.004]
+coordinate_tracker1: [0.61997, 0.369127, 2.03688]
+coordinate_tracker1: [0.450449, 0.400386, 1.48719]
+coordinate_tracker2: [0.450449, 0.400386, 1.48719]
+flow_path: [0.637763, 0.336651, 2.01]
+coordinate_truepath:x: 0.69226
+y: -0.0297596
+z: 1.9432
+
+coordinate_tracker1: [0.690901, 0.419005, 2.01064]
+coordinate_tracker1: [0.50032, 0.438779, 1.47583]
+coordinate_tracker2: [0.50032, 0.438779, 1.47583]
+coordinate_truepath:x: 0.75352
+y: -0.00298103
+z: 1.94656
+
+flow_path: [0.69396, 0.361934, 2.017]
+coordinate_tracker1: [0.741895, 0.435908, 1.9856]
+coordinate_tracker1: [0.533251, 0.449628, 1.45512]
+coordinate_tracker1: [0.832051, 0.432841, 1.04025]
+coordinate_tracker2: [0.832051, 0.432841, 1.04025]
+coordinate_truepath:x: 0.820013
+y: 0.0231562
+z: 1.94909
+
+flow_path: [0.74504, 0.383682, 2.017]
+coordinate_tracker1: [0.782641, 0.459214, 1.96061]
+coordinate_tracker1: [0.862802, 0.438936, 1.00299]
+coordinate_tracker1: [0.573251, 0.473633, 1.47864]
+coordinate_tracker2: [0.573251, 0.473633, 1.47864]
+coordinate_truepath:x: 0.887161
+y: 0.0443551
+z: 1.95076
+
+coordinate_tracker1: [0.842818, 0.494194, 1.93954]
+coordinate_tracker1: [0.898981, 0.46328, 0.995333]
+coordinate_tracker1: [0.630901, 0.497804, 1.4901]
+coordinate_tracker2: [0.630901, 0.497804, 1.4901]
+flow_path: [0.859489, 0.407838, 2.024]
+coordinate_tracker1: [0.885654, 0.533327, 1.92129]
+coordinate_tracker1: [0.940438, 0.500104, 0.995077]
+coordinate_tracker1: [0.636336, 0.529679, 1.43409]
+coordinate_tracker2: [0.636336, 0.529679, 1.43409]
+coordinate_truepath:x: 1.00536
+y: 0.0598475
+z: 1.95078
+
+flow_path: [0.903547, 0.400366, 2.025]
+coordinate_tracker1: [0.935085, 0.52857, 1.89925]
+coordinate_tracker1: [0.960641, 0.485397, 0.93319]
+coordinate_tracker1: [0.695839, 0.528053, 1.46122]
+coordinate_tracker2: [0.695839, 0.528053, 1.46122]
+coordinate_truepath:x: 1.08428
+y: 0.0564669
+z: 1.94638
+
+flow_path: [0.978498, 0.380176, 2.037]
+coordinate_tracker1: [0.994327, 0.508733, 1.89282]
+coordinate_tracker1: [0.996732, 0.483352, 0.96405]
+coordinate_tracker1: [0.7526, 0.506921, 1.46392]
+coordinate_tracker2: [0.7526, 0.506921, 1.46392]
+coordinate_truepath:x: 1.16169
+y: 0.0454651
+z: 1.94062
+
+flow_path: [1.02235, 0.365167, 2.025]
+coordinate_tracker1: [1.05228, 0.504004, 1.87264]
+coordinate_tracker1: [1.04105, 0.491745, 0.946344]
+coordinate_tracker1: [0.812955, 0.505819, 1.4797]
+coordinate_tracker2: [0.812955, 0.505819, 1.4797]
+coordinate_truepath:x: 1.24404
+y: 0.0284535
+z: 1.93506
+
+coordinate_tracker1: [1.09106, 0.48255, 0.981821]
+coordinate_tracker2: [1.09106, 0.48255, 0.981821]
+flow_path: [1.12276, 0.3265, 2.006]
+coordinate_truepath:x: 1.31035
+y: 0.010164
+z: 1.93187
+
+coordinate_tracker1: [1.08765, 0.470483, 0.883398]
+coordinate_tracker1: [1.15326, 0.452997, 1.84854]
+coordinate_tracker2: [1.15326, 0.452997, 1.84854]
+coordinate_truepath:x: 1.37866
+y: -0.0121173
+z: 1.92916
+
+flow_path: [1.18577, 0.298772, 2.004]
+coordinate_tracker1: [1.1282, 0.469456, 0.87517]
+coordinate_tracker1: [1.19722, 0.441308, 1.81888]
+coordinate_tracker2: [1.19722, 0.441308, 1.81888]
+coordinate_truepath:x: 1.44548
+y: -0.0365971
+z: 1.9267
+
+flow_path: [1.23986, 0.270353, 2]
+coordinate_tracker1: [1.25726, 0.403565, 1.8244]
+coordinate_tracker1: [1.29972, 0.378243, 2.61103]
+coordinate_tracker2: [1.29972, 0.378243, 2.61103]
+coordinate_truepath:x: 1.51194
+y: -0.0614936
+z: 1.92437
+
+flow_path: [1.30312, 0.262203, 2.009]
+coordinate_tracker1: [1.30088, 0.372518, 1.82437]
+coordinate_tracker1: [1.35596, 0.341173, 2.60314]
+coordinate_tracker2: [1.35596, 0.341173, 2.60314]
+flow_path: [1.36055, 0.238442, 2.009]
+coordinate_truepath:x: 1.57827
+y: -0.0831983
+z: 1.92179
+
+coordinate_tracker1: [1.33114, 0.361623, 1.80322]
+coordinate_tracker1: [1.39223, 0.321799, 2.57805]
+coordinate_tracker2: [1.39223, 0.321799, 2.57805]
+coordinate_truepath:x: 1.63969
+y: -0.097755
+z: 1.91799
+
+coordinate_tracker1: [1.40095, 0.312826, 1.83472]
+coordinate_tracker1: [1.50544, 0.254548, 2.49515]
+coordinate_tracker2: [1.50544, 0.254548, 2.49515]
+flow_path: [1.44146, 0.270881, 1.993]
+coordinate_truepath:x: 1.69654
+y: -0.104221
+z: 1.91317
+
+coordinate_tracker1: [1.43664, 0.292767, 1.80525]
+coordinate_tracker1: [1.54462, 0.241224, 2.50499]
+coordinate_tracker2: [1.54462, 0.241224, 2.50499]
+coordinate_truepath:x: 1.7549
+y: -0.104193
+z: 1.90776
+
+flow_path: [1.4822, 0.266565, 1.993]
+coordinate_tracker1: [1.61433, 0.232028, 2.43496]
+coordinate_tracker1: [1.48868, 0.294803, 1.78883]
+coordinate_tracker1: [1.70232, 0.371175, 0.54788]
+coordinate_tracker2: [1.70232, 0.371175, 0.54788]
+coordinate_truepath:x: 1.81539
+y: -0.0989479
+z: 1.90229
+
+flow_path: [1.53394, 0.269738, 1.981]
+coordinate_tracker1: [1.65658, 0.249154, 2.43436]
+coordinate_tracker1: [1.78578, 0.393081, 0.687756]
+coordinate_tracker1: [1.52526, 0.295478, 1.79131]
+coordinate_tracker2: [1.52526, 0.295478, 1.79131]
+coordinate_truepath:x: 1.86567
+y: -0.0925628
+z: 1.89944
+
+coordinate_tracker2: [1.52526, 0.295478, 1.79131]
+flow_path: [1.62047, 0.307266, 1.977]
+coordinate_truepath:x: 1.92342
+y: -0.0852528
+z: 1.89915
+
+coordinate_tracker2: [1.52526, 0.295478, 1.79131]
+coordinate_truepath:x: 1.96781
+y: -0.0803408
+z: 1.90096
+
+coordinate_tracker1: [0.0216973, 0.38645, 1.46966]
+coordinate_tracker1: [0.0333994, 0.380577, 1.45256]
+coordinate_tracker1: [-0.246361, 0.409022, 1.18156]
+coordinate_tracker2: [-0.246361, 0.409022, 1.18156]
+flow_path: [1.72205, 0.331019, 1.975]
+coordinate_truepath:x: 2.02053
+y: -0.0723109
+z: 1.90375
+
+coordinate_tracker1: [0.0524404, 0.386441, 1.44896]
+coordinate_tracker1: [0.0636027, 0.384846, 1.4573]
+coordinate_tracker1: [-0.235004, 0.4115, 1.1393]
+coordinate_tracker2: [-0.235004, 0.4115, 1.1393]
+coordinate_truepath:x: 2.06344
+y: -0.062515
+z: 1.905
+
+flow_path: [1.75958, 0.335852, 1.975]
+coordinate_tracker1: [0.0847575, 0.394037, 1.45987]
+coordinate_tracker1: [0.0977048, 0.392099, 1.46949]
+coordinate_tracker1: [-0.194601, 0.424303, 1.15722]
+coordinate_tracker2: [-0.194601, 0.424303, 1.15722]
+coordinate_truepath:x: 2.10108
+y: -0.0479974
+z: 1.90486
+
+coordinate_tracker2: [-0.194601, 0.424303, 1.15722]
+flow_path: [1.79217, 0.348353, 1.983]
+coordinate_truepath:x: 2.13092
+y: -0.028
+z: 1.90448
+
+coordinate_tracker2: [-0.194601, 0.424303, 1.15722]
+coordinate_truepath:x: 2.15555
+y: -0.000790696
+z: 1.90322
+
+flow_path: [1.82008, 0.375295, 1.983]
+coordinate_tracker2: [-0.194601, 0.424303, 1.15722]
+coordinate_truepath:x: 2.17324
+y: 0.0297789
+z: 1.90116
+
+coordinate_tracker2: [-0.194601, 0.424303, 1.15722]
+flow_path: [1.8221, 0.4158, 1.976]
+coordinate_truepath:x: 2.18563
+y: 0.0651549
+z: 1.89829
+
+coordinate_tracker2: [-0.194601, 0.424303, 1.15722]
+flow_path: [1.82042, 0.443004, 1.976]
+coordinate_truepath:x: 2.1925
+y: 0.10051
+z: 1.8954
+
+coordinate_tracker2: [-0.194601, 0.424303, 1.15722]
+coordinate_truepath:x: 2.19579
+y: 0.139037
+z: 1.89196
+
+flow_path: [1.81726, 0.460912, 1.98]
+coordinate_tracker1: [0.159137, 0.553284, 1.37481]
+coordinate_tracker1: [0.190976, 0.556307, 1.37838]
+coordinate_tracker2: [0.190976, 0.556307, 1.37838]
+coordinate_truepath:x: 2.19543
+y: 0.176407
+z: 1.88786
+
+flow_path: [1.8193, 0.499209, 1.98]
+coordinate_tracker1: [0.158863, 0.585119, 1.3962]
+coordinate_tracker1: [0.197949, 0.592037, 1.43339]
+coordinate_tracker2: [0.197949, 0.592037, 1.43339]
+coordinate_truepath:x: 2.19117
+y: 0.219293
+z: 1.8821
+
+flow_path: [1.82554, 0.549828, 1.965]
+coordinate_tracker1: [0.154922, 0.631844, 1.39396]
+coordinate_tracker1: [0.193679, 0.629977, 1.38687]
+coordinate_tracker2: [0.193679, 0.629977, 1.38687]
+coordinate_truepath:x: 2.18577
+y: 0.24771
+z: 1.87834
+
+flow_path: [1.81153, 0.572545, 1.96]
+coordinate_tracker1: [0.19983, 0.670595, 1.39784]
+coordinate_tracker1: [0.154844, 0.669501, 1.38778]
+coordinate_tracker2: [0.154844, 0.669501, 1.38778]
+flow_path: [1.80384, 0.599327, 1.955]
+coordinate_truepath:x: 2.17598
+y: 0.28774
+z: 1.87466
+
+coordinate_tracker1: [0.139279, 0.69852, 1.35777]
+coordinate_tracker1: [0.187496, 0.694942, 1.34925]
+coordinate_tracker2: [0.187496, 0.694942, 1.34925]
+coordinate_truepath:x: 2.16539
+y: 0.322308
+z: 1.87312
+
+flow_path: [1.79948, 0.631745, 1.95]
+coordinate_tracker1: [0.187593, 0.736479, 1.37639]
+coordinate_tracker1: [0.134871, 0.731997, 1.36256]
+coordinate_tracker2: [0.134871, 0.731997, 1.36256]
+coordinate_tracker1: [0.12569, 0.764601, 1.3628]
+coordinate_tracker1: [0.181504, 0.768739, 1.37057]
+coordinate_tracker2: [0.181504, 0.768739, 1.37057]
+coordinate_truepath:x: 2.14002
+y: 0.387839
+z: 1.87225
+
+flow_path: [1.78477, 0.693384, 1.939]
+coordinate_tracker1: [0.120015, 0.798633, 1.33493]
+coordinate_tracker1: [0.178795, 0.79486, 1.33151]
+coordinate_tracker2: [0.178795, 0.79486, 1.33151]
+coordinate_truepath:x: 2.12409
+y: 0.425785
+z: 1.87435
+
+flow_path: [1.77249, 0.736247, 1.936]
+coordinate_tracker1: [0.122786, 0.852558, 1.40568]
+coordinate_tracker1: [0.187187, 0.866177, 1.44229]
+coordinate_tracker2: [0.187187, 0.866177, 1.44229]
+coordinate_truepath:x: 2.10761
+y: 0.464797
+z: 1.87908
+
+flow_path: [1.76896, 0.78713, 1.936]
+coordinate_tracker2: [0.187187, 0.866177, 1.44229]
+coordinate_truepath:x: 2.09011
+y: 0.507687
+z: 1.88561
+
+coordinate_tracker2: [0.187187, 0.866177, 1.44229]
+flow_path: [1.7761, 0.881398, 1.947]
+coordinate_truepath:x: 2.06898
+y: 0.561035
+z: 1.89354
+
+coordinate_tracker1: [0.125473, 0.0196838, 1.56579]
+coordinate_tracker1: [0.0942904, 0.0286782, 1.54742]
+coordinate_tracker1: [-0.104359, 0.117929, 1.24628]
+coordinate_tracker1: [0.0577215, -0.00601294, 1.41718]
+coordinate_tracker1: [0.281956, -0.0056024, 1.76437]
+coordinate_tracker1: [-0.170448, -0.12956, 1.13937]
+coordinate_tracker1: [0.110928, -0.0172865, 1.53526]
+coordinate_tracker1: [0.0842813, 0.00431352, 1.63446]
+coordinate_tracker2: [0.0842813, 0.00431352, 1.63446]
+coordinate_truepath:x: 2.04925
+y: 0.6131
+z: 1.90125
+
+flow_path: [1.76391, 0.930095, 1.951]
+coordinate_tracker1: [0.10959, 0.0335508, 1.56843]
+coordinate_tracker1: [0.0742656, 0.0498073, 1.62835]
+coordinate_tracker1: [-0.166894, -0.0772697, 1.16934]
+coordinate_tracker2: [-0.166894, -0.0772697, 1.16934]
+coordinate_truepath:x: 2.02678
+y: 0.677292
+z: 1.91129
+
+coordinate_tracker1: [0.106428, 0.126479, 1.65441]
+coordinate_tracker1: [0.066806, 0.145853, 1.70298]
+coordinate_tracker1: [-0.140414, -0.0158493, 1.26144]
+coordinate_tracker1: [-0.188201, 0.267988, 1.08565]
+coordinate_tracker1: [0.0946361, 0.154082, 1.50375]
+coordinate_tracker1: [0.0784989, 0.149551, 1.49517]
+coordinate_tracker1: [0.032009, 0.0920389, 1.43201]
+coordinate_tracker1: [0.210498, 0.11908, 1.7987]
+coordinate_tracker2: [0.210498, 0.11908, 1.7987]
+flow_path: [1.7557, 1.00823, 1.963]
+coordinate_truepath:x: 2.00551
+y: 0.74335
+z: 1.92273
+
+coordinate_tracker1: [0.0675375, 0.206196, 1.50269]
+coordinate_tracker1: [0.0766945, 0.206903, 1.50913]
+coordinate_tracker1: [-0.20077, 0.288253, 1.15178]
+coordinate_tracker2: [-0.20077, 0.288253, 1.15178]
+coordinate_truepath:x: 1.97951
+y: 0.830376
+z: 1.93671
+
+flow_path: [1.72956, 1.0567, 1.978]
+coordinate_tracker1: [0.0608272, 0.288502, 1.4735]
+coordinate_tracker1: [0.0612051, 0.28473, 1.46427]
+coordinate_tracker1: [-0.231783, 0.351052, 1.13647]
+coordinate_tracker2: [-0.231783, 0.351052, 1.13647]
+coordinate_truepath:x: 1.96109
+y: 0.906987
+z: 1.94725
+
+coordinate_tracker1: [0.028796, 0.360662, 1.43386]
+coordinate_tracker1: [0.0374581, 0.3628, 1.44566]
+coordinate_tracker1: [-0.258206, 0.395158, 1.1081]
+coordinate_tracker2: [-0.258206, 0.395158, 1.1081]
+flow_path: [1.70359, 1.15449, 2.004]
+coordinate_truepath:x: 1.94662
+y: 0.978585
+z: 1.95536
+
+coordinate_tracker1: [0.0381022, 0.413978, 1.43104]
+coordinate_tracker1: [0.0233268, 0.411832, 1.42723]
+coordinate_tracker1: [-0.263964, 0.43386, 1.10801]
+coordinate_tracker2: [-0.263964, 0.43386, 1.10801]
+flow_path: [1.68737, 1.21578, 2.005]
+coordinate_tracker1: [9.9042e-05, 0.459747, 1.42611]
+coordinate_tracker1: [0.0204973, 0.467717, 1.49497]
+coordinate_tracker1: [-0.307995, 0.448217, 1.0564]
+coordinate_tracker2: [-0.307995, 0.448217, 1.0564]
+coordinate_truepath:x: 1.92437
+y: 1.16073
+z: 1.97137
+
+flow_path: [1.67768, 1.29101, 2.009]
+coordinate_tracker2: [-0.307995, 0.448217, 1.0564]
+coordinate_truepath:x: 1.92081
+y: 1.23772
+z: 1.97742
+
+coordinate_tracker2: [-0.307995, 0.448217, 1.0564]
+flow_path: [1.68863, 1.40445, 2.028]
+coordinate_truepath:x: 1.92066
+y: 1.32247
+z: 1.98552
+
+coordinate_tracker2: [-0.307995, 0.448217, 1.0564]
+coordinate_truepath:x: 1.9242
+y: 1.39339
+z: 1.99309
+
+coordinate_tracker2: [-0.307995, 0.448217, 1.0564]
+flow_path: [1.6657, 1.51287, 2.048]
+coordinate_truepath:x: 1.92883
+y: 1.45204
+z: 2.00039
+
+coordinate_tracker1: [0.00996239, -0.0974139, 1.7081]
+coordinate_tracker1: [0.0143994, -0.122771, 1.57081]
+coordinate_tracker1: [0.0444139, -0.0901803, 1.69214]
+coordinate_tracker1: [0.18665, -0.0937137, 1.8712]
+coordinate_tracker1: [0.0378439, -0.123169, 1.56767]
+coordinate_tracker1: [-0.198555, 0.047677, 1.28779]
+coordinate_tracker1: [-0.0157541, -0.0721635, 1.48908]
+coordinate_tracker1: [-0.233226, -0.209869, 1.19502]
+coordinate_tracker2: [-0.233226, -0.209869, 1.19502]
+coordinate_truepath:x: 1.93588
+y: 1.5039
+z: 2.00967
+
+flow_path: [1.62172, 1.54973, 2.049]
+coordinate_tracker1: [0.0206561, -0.0211099, 1.64728]
+coordinate_tracker1: [0.0224009, -0.0507049, 1.67673]
+coordinate_tracker1: [-0.0111102, -0.0420739, 1.51525]
+coordinate_tracker1: [-0.214921, 0.116241, 1.25001]
+coordinate_tracker1: [0.0523171, -0.0150396, 1.65119]
+coordinate_tracker1: [-0.134984, -0.0616624, 1.90003]
+coordinate_tracker1: [-0.212496, -0.157388, 1.26858]
+coordinate_tracker1: [0.0461919, -0.0592911, 1.66421]
+coordinate_tracker2: [0.0461919, -0.0592911, 1.66421]
+coordinate_truepath:x: 1.94648
+y: 1.54682
+z: 2.02099
+
+flow_path: [1.61874, 1.57914, 2.062]
+coordinate_tracker1: [0.053824, -0.00349571, 1.68685]
+coordinate_tracker1: [0.054524, 0.038444, 1.60419]
+coordinate_tracker1: [-0.212792, 0.140114, 1.23347]
+coordinate_tracker1: [-0.00139219, -0.0119396, 1.50655]
+coordinate_tracker1: [-0.19813, -0.111004, 1.29879]
+coordinate_tracker1: [0.0281988, 0.0399677, 1.62476]
+coordinate_tracker1: [0.207705, -0.0128793, 1.88973]
+coordinate_tracker1: [0.0229812, 0.00508339, 1.69703]
+coordinate_tracker2: [0.0229812, 0.00508339, 1.69703]
+coordinate_truepath:x: 1.95959
+y: 1.58014
+z: 2.03288
+
+coordinate_tracker1: [0.0397385, 0.0771133, 1.61568]
+coordinate_tracker1: [0.0635773, 0.0737338, 1.61412]
+coordinate_tracker1: [0.213272, 0.0319025, 1.90187]
+coordinate_tracker1: [0.0699381, 0.0317738, 1.69684]
+coordinate_tracker1: [0.0384207, 0.0473731, 1.72815]
+coordinate_tracker1: [-0.190412, 0.153407, 1.27973]
+coordinate_tracker1: [0.00962444, 0.0231104, 1.51813]
+coordinate_tracker1: [-0.203933, -0.101055, 1.27146]
+coordinate_tracker2: [-0.203933, -0.101055, 1.27146]
+flow_path: [1.60599, 1.57637, 2.067]
+coordinate_truepath:x: 1.97667
+y: 1.60936
+z: 2.04567
+
+coordinate_tracker1: [0.0825627, 0.101962, 1.66501]
+coordinate_tracker1: [0.0861614, 0.0595883, 1.69415]
+coordinate_tracker1: [0.065528, 0.0946689, 1.67135]
+coordinate_tracker1: [0.212444, 0.0941037, 1.91872]
+coordinate_tracker1: [0.0513428, 0.0699779, 1.72937]
+coordinate_tracker1: [-0.180406, 0.207147, 1.26462]
+coordinate_tracker1: [0.0272952, 0.0786049, 1.545]
+coordinate_tracker1: [-0.164678, -0.0448461, 1.32863]
+coordinate_tracker2: [-0.164678, -0.0448461, 1.32863]
+coordinate_truepath:x: 1.99463
+y: 1.63253
+z: 2.05748
+
+flow_path: [1.62014, 1.59649, 2.092]
+coordinate_tracker1: [0.0711656, 0.117442, 1.80877]
+coordinate_tracker1: [0.0779982, 0.134315, 1.62438]
+coordinate_tracker1: [0.0920252, 0.136673, 1.62753]
+coordinate_tracker1: [0.242796, 0.103123, 1.93082]
+coordinate_tracker1: [0.10668, 0.101356, 1.75035]
+coordinate_tracker1: [-0.165121, 0.221664, 1.24279]
+coordinate_tracker1: [0.0428565, 0.0774617, 1.55913]
+coordinate_tracker1: [-0.145698, -0.017754, 1.38206]
+coordinate_tracker2: [-0.145698, -0.017754, 1.38206]
+coordinate_truepath:x: 2.0118
+y: 1.65218
+z: 2.06913
+
+flow_path: [1.64107, 1.61114, 2.095]
+coordinate_tracker1: [0.0866148, 0.131739, 1.79644]
+coordinate_tracker1: [0.123413, 0.107115, 1.71583]
+coordinate_tracker1: [0.116313, 0.147352, 1.64723]
+coordinate_tracker1: [0.103517, 0.148703, 1.64141]
+coordinate_tracker1: [0.270496, 0.133694, 1.92508]
+coordinate_tracker1: [-0.137737, 0.218737, 1.32956]
+coordinate_tracker1: [0.0652859, 0.113753, 1.55462]
+coordinate_tracker1: [-0.144124, -0.0173045, 1.31154]
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+coordinate_truepath:x: 2.02652
+y: 1.66853
+z: 2.08097
+
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+flow_path: [1.69102, 1.69154, 2.125]
+coordinate_truepath:x: 2.03623
+y: 1.68122
+z: 2.09272
+
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+coordinate_truepath:x: 2.03957
+y: 1.69066
+z: 2.10414
+
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+flow_path: [1.70239, 1.70158, 2.144]
+coordinate_truepath:x: 2.03356
+y: 1.69624
+z: 2.11597
+
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+flow_path: [1.68549, 1.69742, 2.166]
+coordinate_truepath:x: 2.02042
+y: 1.69867
+z: 2.12636
+
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+coordinate_truepath:x: 1.99806
+y: 1.69805
+z: 2.13739
+
+flow_path: [1.66816, 1.68418, 2.181]
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+coordinate_truepath:x: 1.95505
+y: 1.69385
+z: 2.15062
+
+flow_path: [1.64147, 1.66254, 2.195]
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+coordinate_truepath:x: 1.91206
+y: 1.68863
+z: 2.15935
+
+flow_path: [1.60712, 1.66238, 2.195]
+coordinate_tracker2: [-0.144124, -0.0173045, 1.31154]
+coordinate_truepath:x: 1.8507
+y: 1.68073
+z: 2.16798
+
+flow_path: [1.57016, 1.64471, 2.22]
+coordinate_tracker1: [0.0634756, 0.127899, 1.81707]
+coordinate_tracker1: [0.046155, 0.171135, 1.77316]
+coordinate_tracker1: [0.0374161, 0.163807, 1.77837]
+coordinate_tracker1: [0.202482, 0.184991, 2.07006]
+coordinate_tracker1: [0.0230892, 0.1266, 1.83391]
+coordinate_tracker1: [-0.206396, 0.253051, 1.34797]
+coordinate_tracker1: [0.00126333, 0.149915, 1.66306]
+coordinate_tracker1: [-0.183224, 0.0088567, 1.44275]
+coordinate_tracker2: [-0.183224, 0.0088567, 1.44275]
+coordinate_truepath:x: 1.7875
+y: 1.67278
+z: 2.17462
+
+coordinate_tracker1: [-0.000911564, 0.175622, 1.73755]
+coordinate_tracker1: [0.0155945, 0.137078, 1.85783]
+coordinate_tracker1: [-0.0108416, 0.170493, 1.73801]
+coordinate_tracker1: [-0.182543, 0.168112, 2.07669]
+coordinate_tracker1: [-0.0232092, 0.139747, 1.85615]
+coordinate_tracker1: [-0.264544, 0.248655, 1.35543]
+coordinate_tracker1: [-0.0447164, 0.1429, 1.6646]
+coordinate_tracker1: [-0.231828, 0.00511519, 1.44304]
+coordinate_tracker2: [-0.231828, 0.00511519, 1.44304]
+flow_path: [1.48307, 1.60454, 2.22]
+coordinate_truepath:x: 1.70899
+y: 1.6625
+z: 2.18111
+
+coordinate_tracker2: [-0.231828, 0.00511519, 1.44304]
+coordinate_truepath:x: 1.63312
+y: 1.65175
+z: 2.18531
+
+flow_path: [1.4261, 1.57666, 2.235]
+coordinate_tracker2: [-0.231828, 0.00511519, 1.44304]
+coordinate_tracker1: [-0.153302, 0.0938456, 1.86524]
+coordinate_tracker1: [-0.152069, 0.136094, 1.79918]
+coordinate_tracker1: [-0.164713, 0.134222, 1.77208]
+coordinate_tracker1: [-0.359297, 0.131949, 2.05538]
+coordinate_tracker1: [-0.183542, 0.0959414, 1.8253]
+coordinate_tracker1: [-0.389534, 0.223095, 1.39822]
+coordinate_tracker1: [-0.199442, 0.110472, 1.69443]
+coordinate_tracker1: [-0.3681, -0.0544273, 1.39167]
+coordinate_tracker2: [-0.3681, -0.0544273, 1.39167]
+coordinate_truepath:x: 1.45714
+y: 1.62542
+z: 2.1908
+
+flow_path: [1.27055, 1.51391, 2.242]
+coordinate_tracker1: [-0.20768, 0.131203, 1.78419]
+coordinate_tracker1: [-0.219059, 0.128673, 1.74674]
+coordinate_tracker1: [-0.423065, 0.119294, 2.04231]
+coordinate_tracker1: [-0.204341, 0.0869052, 1.8567]
+coordinate_tracker1: [-0.23392, 0.0855536, 1.80805]
+coordinate_tracker1: [-0.443774, 0.216155, 1.38187]
+coordinate_tracker1: [-0.249414, 0.108247, 1.67964]
+coordinate_tracker1: [-0.424692, -0.0614456, 1.37685]
+coordinate_tracker2: [-0.424692, -0.0614456, 1.37685]
+coordinate_tracker2: [-0.424692, -0.0614456, 1.37685]
+coordinate_truepath:x: 1.25657
+y: 1.59492
+z: 2.19592
+
+flow_path: [1.12861, 1.47646, 2.251]
+coordinate_tracker2: [-0.424692, -0.0614456, 1.37685]
+coordinate_truepath:x: 1.16554
+y: 1.58247
+z: 2.19988
+
+coordinate_tracker2: [-0.424692, -0.0614456, 1.37685]
+flow_path: [0.968202, 1.42762, 2.25]
+coordinate_truepath:x: 1.04617
+y: 1.56842
+z: 2.20637
+
+coordinate_tracker2: [-0.424692, -0.0614456, 1.37685]
+flow_path: [0.904433, 1.38578, 2.249]
+coordinate_truepath:x: 0.946205
+y: 1.55916
+z: 2.2116
+
+coordinate_tracker2: [-0.424692, -0.0614456, 1.37685]
+flow_path: [0.859052, 1.36155, 2.249]
+coordinate_truepath:x: 0.8516
+y: 1.55397
+z: 2.21425
+
+coordinate_tracker2: [-0.424692, -0.0614456, 1.37685]
+flow_path: [0.795601, 1.36916, 2.2]
+coordinate_truepath:x: 0.762686
+y: 1.5538
+z: 2.21423
+
+coordinate_tracker1: [-0.0144615, -0.0691919, 1.75334]
+coordinate_tracker1: [0.00489907, -0.0627408, 1.83618]
+coordinate_tracker1: [-0.00567425, -0.0119796, 1.78738]
+coordinate_tracker1: [-0.0365492, -0.0185901, 1.87059]
+coordinate_tracker1: [0.17897, -0.0359935, 2.12951]
+coordinate_tracker1: [-0.290304, 0.0546043, 1.39354]
+coordinate_tracker1: [-0.0491557, -0.0499816, 1.68598]
+coordinate_tracker1: [-0.232904, -0.177267, 1.46948]
+coordinate_tracker2: [-0.232904, -0.177267, 1.46948]
+coordinate_truepath:x: 0.679215
+y: 1.55842
+z: 2.21054
+
+coordinate_tracker1: [-0.060084, -0.0653334, 1.83395]
+coordinate_tracker1: [-0.0815814, -0.0749639, 1.73162]
+coordinate_tracker1: [-0.0805279, -0.0169947, 1.78619]
+coordinate_tracker1: [-0.108681, -0.021855, 1.85507]
+coordinate_tracker1: [-0.262698, -0.0483875, 2.10714]
+coordinate_tracker1: [-0.338973, 0.0600811, 1.36779]
+coordinate_tracker1: [-0.118041, -0.0449222, 1.67968]
+coordinate_tracker1: [-0.28866, -0.193906, 1.43596]
+coordinate_tracker2: [-0.28866, -0.193906, 1.43596]
+flow_path: [0.683118, 1.38238, 2.194]
+coordinate_truepath:x: 0.591862
+y: 1.56975
+z: 2.20171
+
+coordinate_tracker2: [-0.28866, -0.193906, 1.43596]
+flow_path: [0.586281, 1.41207, 2.199]
+coordinate_tracker2: [-0.28866, -0.193906, 1.43596]
+coordinate_truepath:x: 0.442964
+y: 1.60142
+z: 2.17706
+
+coordinate_tracker1: [-0.270268, -0.00809966, 1.83795]
+coordinate_tracker1: [-0.233076, -0.0567451, 1.68531]
+coordinate_tracker1: [-0.198513, 0.0118804, 1.27912]
+coordinate_tracker1: [0.0993632, 0.0234993, 1.68897]
+coordinate_tracker1: [-0.192323, -0.0161738, 1.36]
+coordinate_tracker2: [-0.192323, -0.0161738, 1.36]
+flow_path: [0.48064, 1.40688, 2.243]
+coordinate_truepath:x: 0.367654
+y: 1.62111
+z: 2.16125
+
+coordinate_tracker1: [0.405752, 0.0709575, 1.82507]
+coordinate_tracker1: [0.376461, 0.0654455, 1.83356]
+coordinate_tracker1: [0.356273, 0.112315, 1.65732]
+coordinate_tracker1: [0.506722, -0.0329823, 2.32051]
+coordinate_tracker1: [0.60747, 0.0792995, 2.0029]
+coordinate_tracker2: [0.60747, 0.0792995, 2.0029]
+coordinate_truepath:x: 0.300388
+y: 1.64018
+z: 2.14406
+
+flow_path: [0.417225, 1.41592, 2.222]
+coordinate_tracker1: [-0.280345, 0.065193, 1.27049]
+coordinate_tracker1: [-0.280489, 0.0207224, 1.31264]
+coordinate_tracker2: [-0.280489, 0.0207224, 1.31264]
+flow_path: [0.37658, 1.43616, 2.194]
+coordinate_truepath:x: 0.237257
+y: 1.65678
+z: 2.1247
+
+coordinate_tracker1: [-0.31696, 0.081337, 1.2145]
+coordinate_tracker1: [-0.323002, 0.0324865, 1.25798]
+coordinate_tracker1: [-0.0476187, 0.184235, 1.25176]
+coordinate_tracker1: [-0.398797, 0.0419239, 1.65521]
+coordinate_tracker1: [0.0588118, -0.013861, 1.51109]
+coordinate_tracker2: [0.0588118, -0.013861, 1.51109]
+coordinate_tracker1: [0.223482, 0.177154, 1.6205]
+coordinate_tracker1: [0.269925, 0.148023, 1.81637]
+coordinate_tracker1: [-0.0711548, 0.201874, 1.30331]
+coordinate_tracker1: [0.192712, 0.0934491, 1.6079]
+coordinate_tracker1: [0.00280414, 0.0224279, 1.51011]
+coordinate_tracker1: [0.21643, 0.183765, 1.69478]
+coordinate_tracker1: [0.447936, 0.153918, 1.97968]
+coordinate_tracker1: [0.23449, 0.149766, 1.84529]
+coordinate_tracker2: [0.23449, 0.149766, 1.84529]
+coordinate_truepath:x: 0.143068
+y: 1.65968
+z: 2.09088
+
+flow_path: [0.340228, 1.43127, 2.161]
+coordinate_tracker1: [0.242721, 0.145819, 1.80769]
+coordinate_tracker1: [0.203992, 0.140112, 1.80885]
+coordinate_tracker1: [0.189052, 0.177279, 1.61941]
+coordinate_tracker1: [0.182033, 0.174572, 1.69986]
+coordinate_tracker1: [0.402105, 0.15937, 1.97664]
+coordinate_tracker1: [-0.110957, 0.227128, 1.26705]
+coordinate_tracker1: [0.154754, 0.129102, 1.59425]
+coordinate_tracker1: [-0.0172987, 0.011237, 1.45225]
+coordinate_tracker2: [-0.0172987, 0.011237, 1.45225]
+coordinate_truepath:x: 0.114896
+y: 1.64311
+z: 2.07818
+
+coordinate_tracker2: [-0.0172987, 0.011237, 1.45225]
+flow_path: [0.326347, 1.37987, 2.132]
+coordinate_truepath:x: 0.0880821
+y: 1.60475
+z: 2.06338
+
+coordinate_tracker2: [-0.0172987, 0.011237, 1.45225]
+coordinate_truepath:x: 0.0698262
+y: 1.55569
+z: 2.05146
+
+coordinate_tracker1: [0.139036, 0.101392, 1.63363]
+coordinate_tracker1: [0.156604, 0.0602224, 1.74574]
+coordinate_tracker1: [0.120711, 0.100976, 1.68293]
+coordinate_tracker1: [0.344069, 0.0710851, 1.95404]
+coordinate_tracker1: [0.123216, 0.0560481, 1.76328]
+coordinate_tracker1: [-0.159442, 0.180292, 1.28307]
+coordinate_tracker1: [0.088777, 0.0623788, 1.56363]
+coordinate_tracker1: [-0.0983099, -0.0372194, 1.40887]
+coordinate_tracker2: [-0.0983099, -0.0372194, 1.40887]
+flow_path: [0.313815, 1.31059, 2.121]
+coordinate_truepath:x: 0.0631959
+y: 1.53
+z: 2.04673
+
+coordinate_tracker1: [0.135859, 0.0625937, 1.66164]
+coordinate_tracker1: [0.14612, 0.0186617, 1.70694]
+coordinate_tracker1: [-0.144917, 0.150791, 1.307]
+coordinate_tracker1: [0.08179, 0.0438251, 1.55762]
+coordinate_tracker1: [-0.105643, -0.0855263, 1.345]
+coordinate_tracker1: [0.116676, 0.0612075, 1.72578]
+coordinate_tracker1: [0.334666, 0.0474643, 1.94456]
+coordinate_tracker1: [0.112867, 0.0135543, 1.70913]
+coordinate_tracker2: [0.112867, 0.0135543, 1.70913]
+flow_path: [0.342508, 1.19183, 2.091]
+coordinate_truepath:x: 0.0424016
+y: 1.39626
+z: 2.03168
+
+coordinate_tracker1: [0.12767, -0.0576438, 1.69474]
+coordinate_tracker1: [0.11337, -0.0988489, 1.64476]
+coordinate_tracker1: [0.0946654, -0.0548769, 1.73603]
+coordinate_tracker1: [0.31289, -0.0865049, 1.92593]
+coordinate_tracker1: [0.0921687, -0.0984066, 1.6671]
+coordinate_tracker1: [-0.139077, 0.0419203, 1.35792]
+coordinate_tracker1: [0.0643444, -0.0727273, 1.54421]
+coordinate_tracker1: [-0.159034, -0.170708, 1.30757]
+coordinate_tracker2: [-0.159034, -0.170708, 1.30757]
+flow_path: [0.339752, 1.12159, 2.091]
+coordinate_truepath:x: 0.0340382
+y: 1.30783
+z: 2.02775
+
+coordinate_tracker1: [0.0852217, -0.115619, 1.75896]
+coordinate_tracker1: [0.0922802, -0.15327, 1.66344]
+coordinate_tracker1: [0.122977, -0.106658, 1.70149]
+coordinate_tracker1: [0.302259, -0.152532, 1.93214]
+coordinate_tracker1: [0.108286, -0.145355, 1.65935]
+coordinate_tracker1: [-0.153543, 0.0354423, 1.27891]
+coordinate_tracker1: [0.0611821, -0.134877, 1.5586]
+coordinate_tracker1: [-0.129612, -0.184256, 1.43174]
+coordinate_tracker2: [-0.129612, -0.184256, 1.43174]
+coordinate_truepath:x: 0.0284887
+y: 1.21873
+z: 2.02571
+
+coordinate_tracker1: [0.0871941, -0.252167, 1.59666]
+coordinate_tracker1: [0.0829442, -0.253374, 1.61379]
+coordinate_tracker1: [-0.185518, -0.290669, 1.30702]
+coordinate_tracker2: [-0.185518, -0.290669, 1.30702]
+flow_path: [0.31342, 0.958535, 2.084]
+coordinate_truepath:x: 0.0241041
+y: 1.12584
+z: 2.02454
+
+coordinate_tracker2: [-0.185518, -0.290669, 1.30702]
+coordinate_truepath:x: 0.0206485
+y: 1.03101
+z: 2.02203
+
+flow_path: [0.313519, 0.877869, 2.076]
+coordinate_tracker2: [-0.185518, -0.290669, 1.30702]
+coordinate_tracker2: [-0.185518, -0.290669, 1.30702]
+flow_path: [0.32808, 0.761514, 2.078]
+coordinate_truepath:x: 0.0173834
+y: 0.85456
+z: 2.01184
+
+coordinate_tracker1: [0.0828182, 0.40377, 1.51283]
+coordinate_tracker1: [0.092856, 0.405619, 1.48953]
+coordinate_tracker1: [-0.186484, 0.429092, 1.23924]
+coordinate_tracker2: [-0.186484, 0.429092, 1.23924]
+coordinate_truepath:x: 0.0177011
+y: 0.769803
+z: 2.00494
+
+flow_path: [0.318706, 0.675905, 2.071]
+coordinate_tracker1: [0.0884045, 0.340522, 1.57198]
+coordinate_tracker1: [-0.188053, 0.384074, 1.24501]
+coordinate_tracker1: [0.0902528, 0.337771, 1.54565]
+coordinate_tracker2: [0.0902528, 0.337771, 1.54565]
+coordinate_truepath:x: 0.019951
+y: 0.688658
+z: 1.99773
+
+coordinate_tracker1: [0.0909302, 0.24431, 1.5968]
+coordinate_tracker1: [-0.174948, 0.305381, 1.2949]
+coordinate_tracker1: [0.0841183, 0.246874, 1.57049]
+coordinate_tracker2: [0.0841183, 0.246874, 1.57049]
+flow_path: [0.346326, 0.580402, 2.06]
+coordinate_truepath:x: 0.0252351
+y: 0.608295
+z: 1.98969
+
+coordinate_tracker1: [0.0938478, 0.185812, 1.62306]
+coordinate_tracker1: [0.0779151, 0.194636, 1.57576]
+coordinate_tracker1: [-0.15893, 0.250464, 1.34807]
+coordinate_tracker2: [-0.15893, 0.250464, 1.34807]
+coordinate_truepath:x: 0.0309156
+y: 0.540468
+z: 1.98133
+
+flow_path: [0.347237, 0.527287, 2.052]
+coordinate_tracker1: [0.100531, 0.138839, 1.60275]
+coordinate_tracker1: [0.0810011, 0.146718, 1.55782]
+coordinate_tracker1: [-0.166598, 0.222201, 1.28795]
+coordinate_tracker1: [0.0420009, 0.0898011, 1.52017]
+coordinate_tracker1: [0.28635, 0.100031, 1.9078]
+coordinate_tracker1: [-0.175962, -0.00249427, 1.31329]
+coordinate_tracker1: [0.0974196, 0.101766, 1.69586]
+coordinate_tracker1: [0.0615377, 0.123648, 1.81034]
+coordinate_tracker2: [0.0615377, 0.123648, 1.81034]
+coordinate_truepath:x: 0.0397344
+y: 0.465321
+z: 1.97028
+
+coordinate_tracker1: [0.0775331, -0.0281134, 1.59185]
+coordinate_tracker1: [0.104542, 0.00501706, 1.69938]
+coordinate_tracker1: [0.0759366, 0.0268094, 1.6604]
+coordinate_tracker1: [0.29081, 0.0021888, 1.88584]
+coordinate_tracker1: [0.0504184, -0.0196033, 1.70073]
+coordinate_tracker1: [-0.104247, 0.0819281, 1.43179]
+coordinate_tracker1: [0.0422296, 0.00182868, 1.52912]
+coordinate_tracker1: [-0.188819, -0.101982, 1.24314]
+coordinate_tracker2: [-0.188819, -0.101982, 1.24314]
+flow_path: [0.364014, 0.424993, 2.047]
+coordinate_truepath:x: 0.0498937
+y: 0.395272
+z: 1.95871
+
+coordinate_tracker2: [-0.188819, -0.101982, 1.24314]
+flow_path: [0.378527, 0.388064, 2.028]
+coordinate_truepath:x: 0.0596046
+y: 0.338509
+z: 1.94964
+
+coordinate_tracker2: [-0.188819, -0.101982, 1.24314]
+coordinate_truepath:x: 0.0714866
+y: 0.278622
+z: 1.94063
+
+flow_path: [0.385632, 0.348748, 2.028]
+coordinate_tracker2: [-0.188819, -0.101982, 1.24314]
+coordinate_truepath:x: 0.0823939
+y: 0.228127
+z: 1.93295
+
+coordinate_tracker2: [-0.188819, -0.101982, 1.24314]
+flow_path: [0.383874, 0.276362, 2.005]
+coordinate_truepath:x: 0.0941836
+y: 0.174847
+z: 1.92494
+
+coordinate_tracker2: [-0.188819, -0.101982, 1.24314]
+coordinate_truepath:x: 0.103678
+y: 0.132127
+z: 1.91872
+
+coordinate_tracker1: [0.120134, 0.655839, 1.43675]
+coordinate_tracker1: [0.15335, 0.632376, 1.37623]
+coordinate_tracker1: [-0.160832, 0.648323, 1.19217]
+coordinate_tracker2: [-0.160832, 0.648323, 1.19217]
+flow_path: [0.420294, 0.18622, 1.99]
+coordinate_truepath:x: 0.113565
+y: 0.0871635
+z: 1.9125
+
+coordinate_tracker1: [0.109985, 0.602603, 1.39496]
+coordinate_tracker1: [0.139545, 0.589229, 1.34508]
+coordinate_tracker1: [-0.177783, 0.605159, 1.15021]
+coordinate_tracker2: [-0.177783, 0.605159, 1.15021]
+coordinate_tracker1: [0.113266, 0.575591, 1.39394]
+coordinate_tracker1: [0.141121, 0.563471, 1.3494]
+coordinate_tracker1: [-0.182114, 0.572585, 1.0591]
+coordinate_tracker2: [-0.182114, 0.572585, 1.0591]
+coordinate_truepath:x: 0.131831
+y: 0.0239152
+z: 1.90396
+
+flow_path: [0.357753, 0.109489, 1.988]
+coordinate_tracker1: [0.123465, 0.543954, 1.42056]
+coordinate_tracker1: [0.14592, 0.529957, 1.36428]
+coordinate_tracker1: [-0.161713, 0.551198, 1.14295]
+coordinate_tracker2: [-0.161713, 0.551198, 1.14295]
+coordinate_truepath:x: 0.142525
+y: 0.00581306
+z: 1.90223
+
+coordinate_tracker1: [0.128545, 0.527904, 1.4143]
+coordinate_tracker1: [0.154041, 0.516452, 1.38114]
+coordinate_tracker1: [-0.184699, 0.521284, 1.07811]
+coordinate_tracker2: [-0.184699, 0.521284, 1.07811]
+flow_path: [0.344233, 0.081, 1.968]
+coordinate_truepath:x: 0.158644
+y: -0.00877614
+z: 1.90196
+
+coordinate_tracker1: [0.140359, 0.503724, 1.39702]
+coordinate_tracker1: [0.161654, 0.49771, 1.37277]
+coordinate_tracker2: [0.161654, 0.49771, 1.37277]
+coordinate_truepath:x: 0.178748
+y: -0.0163048
+z: 1.90325
+
+coordinate_tracker1: [0.162122, 0.477575, 1.47082]
+coordinate_tracker1: [0.180576, 0.474112, 1.44335]
+coordinate_tracker2: [0.180576, 0.474112, 1.44335]
+flow_path: [0.395756, 0.0728488, 1.965]
+coordinate_truepath:x: 0.200753
+y: -0.0186441
+z: 1.90522
+
+coordinate_tracker1: [0.191703, 0.480645, 1.36772]
+coordinate_tracker1: [0.173747, 0.491193, 1.40585]
+coordinate_tracker2: [0.173747, 0.491193, 1.40585]
+flow_path: [0.446087, 0.0805527, 1.982]
+coordinate_truepath:x: 0.229555
+y: -0.01779
+z: 1.90913
+
+coordinate_tracker1: [0.191051, 0.471307, 1.40354]
+coordinate_tracker1: [0.209982, 0.472546, 1.39919]
+coordinate_tracker2: [0.209982, 0.472546, 1.39919]
+coordinate_truepath:x: 0.257188
+y: -0.0137676
+z: 1.91407
+
+coordinate_tracker1: [0.208136, 0.483168, 1.41624]
+coordinate_tracker1: [0.225863, 0.480162, 1.3906]
+coordinate_tracker2: [0.225863, 0.480162, 1.3906]
+flow_path: [0.459901, 0.109255, 1.983]
+coordinate_truepath:x: 0.278782
+y: -0.00941394
+z: 1.91985
+
+coordinate_tracker1: [0.226859, 0.478121, 1.43668]
+coordinate_tracker1: [0.24168, 0.474164, 1.40826]
+coordinate_tracker2: [0.24168, 0.474164, 1.40826]
+flow_path: [0.468696, 0.101606, 1.985]
+coordinate_truepath:x: 0.2968
+y: -0.00470502
+z: 1.92721
+
+coordinate_tracker1: [-0.292393, 0.499263, 1.2668]
+coordinate_tracker2: [-0.292393, 0.499263, 1.2668]
+flow_path: [0.476772, 0.0948694, 1.998]
+coordinate_truepath:x: 0.313187
+y: -2.82772e-06
+z: 1.93707
+
+coordinate_tracker1: [0.245558, 0.500644, 1.43963]
+coordinate_tracker1: [0.26282, 0.491297, 1.39679]
+coordinate_tracker2: [0.26282, 0.491297, 1.39679]
+coordinate_truepath:x: 0.325607
+y: 0.00404348
+z: 1.94503
+
+coordinate_tracker1: [0.268238, 0.50185, 1.46258]
+coordinate_tracker1: [0.279884, 0.492553, 1.40792]
+coordinate_tracker2: [0.279884, 0.492553, 1.40792]
+flow_path: [0.515213, 0.0867797, 2.008]
+coordinate_truepath:x: 0.340173
+y: 0.00804084
+z: 1.94353
+
+coordinate_tracker1: [0.271767, 0.501489, 1.4661]
+coordinate_tracker1: [0.290284, 0.499142, 1.43566]
+coordinate_tracker2: [0.290284, 0.499142, 1.43566]
+flow_path: [0.514407, 0.101041, 2.014]
+coordinate_truepath:x: 0.352618
+y: 0.0116913
+z: 1.92737
+
+coordinate_tracker1: [0.270074, 0.506284, 1.42578]
+coordinate_tracker1: [0.412365, 0.510889, 2.0242]
+coordinate_tracker2: [0.412365, 0.510889, 2.0242]
+flow_path: [0.519733, 0.0952424, 2.002]
+coordinate_truepath:x: 0.368474
+y: 0.0168475
+z: 1.88696
+
+coordinate_tracker1: [0.286644, 0.504462, 1.35094]
+coordinate_tracker1: [0.270659, 0.507214, 1.38077]
+coordinate_tracker2: [0.270659, 0.507214, 1.38077]
+coordinate_truepath:x: 0.381476
+y: 0.0218934
+z: 1.83671
+
+flow_path: [0.541363, 0.115731, 1.973]
+coordinate_tracker1: [0.281532, 0.509516, 1.38801]
+coordinate_tracker1: [0.431026, 0.510738, 1.9656]
+coordinate_tracker2: [0.431026, 0.510738, 1.9656]
+coordinate_truepath:x: 0.390896
+y: 0.0265523
+z: 1.77549
+
+coordinate_tracker1: [0.285633, 0.519537, 1.34895]
+coordinate_tracker1: [0.306077, 0.516537, 1.31763]
+coordinate_tracker2: [0.306077, 0.516537, 1.31763]
+flow_path: [0.527433, 0.1414, 1.874]
+coordinate_truepath:x: 0.397541
+y: 0.0315292
+z: 1.70319
+
+coordinate_tracker1: [0.272278, 0.51987, 1.28302]
+coordinate_tracker1: [0.289904, 0.514107, 1.24669]
+coordinate_tracker2: [0.289904, 0.514107, 1.24669]
+coordinate_truepath:x: 0.398861
+y: 0.0362479
+z: 1.62163
+
+coordinate_tracker1: [0.258595, 0.526428, 1.20606]
+coordinate_tracker1: [0.28384, 0.51976, 1.17524]
+coordinate_tracker2: [0.28384, 0.51976, 1.17524]
+flow_path: [0.508928, 0.210625, 1.741]
+coordinate_truepath:x: 0.395243
+y: 0.0395637
+z: 1.54918
+
+coordinate_tracker1: [0.226445, 0.533719, 1.13508]
+coordinate_tracker1: [0.254352, 0.524924, 1.11197]
+coordinate_tracker2: [0.254352, 0.524924, 1.11197]
+flow_path: [0.479914, 0.211915, 1.639]
+coordinate_truepath:x: 0.387968
+y: 0.0430204
+z: 1.45543
+
+coordinate_tracker1: [0.202566, 0.536561, 1.06857]
+coordinate_tracker1: [0.234076, 0.525476, 1.03104]
+coordinate_tracker2: [0.234076, 0.525476, 1.03104]
+coordinate_truepath:x: 0.382609
+y: 0.0468118
+z: 1.36663
+
+flow_path: [0.470688, 0.198378, 1.587]
+coordinate_tracker1: [0.167431, 0.510475, 0.926201]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.386601
+y: 0.05808
+z: 1.16588
+
+flow_path: [0.505676, 0.256737, 1.358]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.399308
+y: 0.0654332
+z: 1.05824
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+flow_path: [0.568062, 0.300312, 1.175]
+coordinate_truepath:x: 0.419559
+y: 0.0741173
+z: 0.943956
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+flow_path: [0.594653, 0.300185, 1.038]
+coordinate_truepath:x: 0.449164
+y: 0.084279
+z: 0.812187
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.528942
+y: 0.100813
+z: 0.548144
+
+flow_path: [0.809418, 0.270905, 0.778]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.589823
+y: 0.10461
+z: 0.418211
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.659435
+y: 0.104329
+z: 0.314075
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.724983
+y: 0.105162
+z: 0.281665
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.735998
+y: 0.107428
+z: 0.272671
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736011
+y: 0.107437
+z: 0.27266
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736018
+y: 0.107429
+z: 0.272637
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736002
+y: 0.107426
+z: 0.27261
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736
+y: 0.107429
+z: 0.272617
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.735996
+y: 0.107422
+z: 0.272606
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.735998
+y: 0.107421
+z: 0.272587
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736004
+y: 0.107415
+z: 0.272574
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.73599
+y: 0.107428
+z: 0.272586
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.735993
+y: 0.107426
+z: 0.272584
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736007
+y: 0.107419
+z: 0.27258
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.735997
+y: 0.107414
+z: 0.272559
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736006
+y: 0.107407
+z: 0.272569
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.735996
+y: 0.107415
+z: 0.272566
+
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_tracker2: [0.167431, 0.510475, 0.926201]
+coordinate_truepath:x: 0.736006
+y: 0.107414
+z: 0.272567
+
